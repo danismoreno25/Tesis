@@ -1,11 +1,9 @@
-import Extraccion_urls
-
+import extraccion_urls as extract
 
 def iniciar_proceso():
-    archivo_excel = 'Extraccion\Dataset\edaSisPricingInt.xlsx'
-    
-    # Extraer URLs del archivo Excel
-    Extraccion_urls.extraer_urls_excel(archivo_excel)
-    
-    # Descargar los códigos fuente de las URLs extraídas
-    Extraccion_urls.descargar_codigos_fuente()
+    archivo_excel = 'dataset/edaSisPricingInt.xlsx'
+    extract.extraer_urls_excel(archivo_excel)
+    extract.descargar_codigos_fuente()
+
+if __name__ == "__main__":
+    iniciar_proceso()

@@ -55,7 +55,7 @@ def descargar_codigos_fuente(nombre_archivo_urls=os.path.join('Extraccion', 'Dat
             continue
         try:
             print(f"Descargando ({i}/{len(urls)}): {url}")
-            respuesta = requests.get(url, timeout=10,verify=certifi.where()) 
+            respuesta = requests.get(url, timeout=10,verify=certifi.where())
             respuesta.raise_for_status()
             contenido = respuesta.text
 
@@ -78,7 +78,4 @@ def descargar_codigos_fuente(nombre_archivo_urls=os.path.join('Extraccion', 'Dat
     print(f"\nTodos los códigos fuente se han guardado en '{carpeta_destino}'.")
 
 # Cambiar la ruta del archivo Excel si es necesario
-archivo_excel = 'Extraccion\Dataset\edaSisPricingInt.xlsx'
-
-extraer_urls_excel(archivo_excel)
-descargar_codigos_fuente()
+archivo_excel = 'Extraccion/Dataset/edaSisPricingInt.xlsx'
