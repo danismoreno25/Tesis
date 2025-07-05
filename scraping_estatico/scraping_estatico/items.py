@@ -5,8 +5,8 @@
 
 import scrapy
 
-class WebScraperSpiItem(scrapy.Item):
-    url = scrapy.Field()
-    html = scrapy.Field()
-    timestamp = scrapy.Field()
 
+class ScrapingEstaticoItem(scrapy.Item):
+    # define the fields for your item here like:
+    # name = scrapy.Field()
+    pass

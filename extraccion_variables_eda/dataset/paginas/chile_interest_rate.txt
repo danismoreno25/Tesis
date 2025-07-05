@@ -1,0 +1,785 @@
+var TEChartSettings = '{"span":"3Y", "type":"stepline"}'; console.log('TEChartSettings:', TEChartSettings);
+var isCopyright = false;
+var TESymbol = 'CHOVCHOV'; console.log('TESymbol:', TESymbol);var TELanguage = ''; console.log('TELanguage:', TELanguage);TELastUpdate = '202506172209'; console.log('TELastUpdate:', TELastUpdate);TEChart = 'EC'; console.log('TEChart:', TEChart);var TEAlertsName= 'Chile Interest Rate'; console.log('TEAlertsName:', TEAlertsName);
+TEChartUrl = 'https://d3fy651gv2fhd3.cloudfront.net/charts/chile-interest-rate.png?s=chovchov&v=202506172209V20230410';TECountry = 'Chile';TECategory = 'Interest Rate';TEType = 'te';TEFrequency = 'Daily';TEForecast =   [4.75,4.50,4.50,4.50];
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Indicators
+Countries
+Forecasts
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Countries
+Indicators
+Members
+DATA PLANS
+Download historical data for 20 million indicators using your browser.
+Subscription Plans
+|
+Features
+API GATEWAY
+Direct access to our data from your apps using any programing language.
+Features
+|
+Docs
+|
+Developer
+Already a user?
+Login
+.form-switch {
+        width: 3.5em !important;
+        height: 2em !important
+    }
+    .bi-sun-fill {
+        font-size: 12px;
+        color: #ddd !important;
+    }
+    .bi-moon-fill {
+        font-size: 10px;
+        color: #333 !important;
+    }
+    .darkmode-toggle-container {
+        width: auto;
+        padding: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+    }
+    .form-check-div-sun {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: -54px;
+        position: relative
+    }
+    .form-check-div-moon {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: 3px;
+        position: relative
+    }
+    .dk-switch-right-menu{
+        padding-left:10px;
+    }
+function SetTheme(isDark) {
+        console.log('Changing theme', isDark);
+        if (IsDarkMode != isDark) {
+            IsDarkMode = isDark;
+            document.body.classList.toggle("dark-theme");
+            // Set cookie
+            const d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = "IsDarkMode" + "=" + IsDarkMode + ";" + expires + ";path=/";
+            IsDarkMode ? ga('event', 'te_darkmode_on') : ga('event', 'te_darkmode_off');
+            window.location.reload();
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        let checkbox = document.getElementById("flexSwitchCheckChecked");
+        let sundiv = document.getElementsByClassName("form-check-label-sun")[0];
+        let moondiv = document.getElementsByClassName("form-check-label-moon")[0];
+
+        if (IsDarkMode) {
+            sundiv.classList.add("d-none");
+            moondiv.classList.remove("d-none");
+        } else {
+            moondiv.classList.add("d-none");
+            sundiv.classList.remove("d-none");
+        }
+        checkbox.checked = IsDarkMode;
+    });
+
+
+
+    document.getElementById("flexSwitchCheckChecked").addEventListener("change", function () {
+        SetTheme(!IsDarkMode)
+    });
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Holidays
+Countries
+United States
+United Kingdom
+Euro Area
+Australia
+Canada
+Japan
+China
+Brazil
+Russia
+India
+More Countries
+Indicators
+Interest Rate
+Inflation Rate
+Unemployment Rate
+GDP Growth
+GDP per Capita
+Current Account
+Gold Reserves
+Government Debt
+Crude Oil Production
+Gasoline Prices
+Credit Rating
+More Indicators
+Forecasts
+Markets & Indicators
+Countries
+Countries
+Indicators
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Solutions
+Data Subscriptions
+API Access
+Pricing
+Apps
+App Store
+Google Play
+Twitter
+About
+Customers
+Investors
+Careers
+About us
+Contact
+document.addEventListener('DOMContentLoaded', function () {
+        let accordionHeaders = document.querySelectorAll('.menu-main-option');
+
+        accordionHeaders.forEach(function (header) {
+            header.addEventListener('click', function () {
+                let caretIcon = header.querySelector('.caret-toggle');
+
+                let allCaretIcons = document.querySelectorAll('.menu-main-option .caret-toggle');
+
+                allCaretIcons.forEach(function (icon) {
+                    if (icon !== caretIcon) {
+                        icon.classList.remove('bi-caret-up-fill');
+                        icon.classList.add('bi-caret-down-fill');
+                    }
+                });
+                caretIcon.classList.toggle('bi-caret-down-fill');
+                caretIcon.classList.toggle('bi-caret-up-fill');
+            });
+        });
+    });
+body {padding-top: 140px;}.pagemenu {top: 50px;}.pagetabs {top: 90px;}.navbar-default .navbar-nav>.active>a{ background-color: whitesmoke;} .navbar .navbar-expand-lg>.active, .navbar .navbar-expand-lg>.active>a{background-color: #f5f5f5;} .navbar .navbar-expand-lg>li:hover, .navbar .navbar-expand-lg>li:hover>a{background-color: #fff;} .nav-link:focus{color: #000;}
+.title-notes {padding-left: 10px;font-size: 80%;padding-top: 3px;font-weight:lighter;}
+Chile Interest Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+.te-title-footer {border: 1px solid #dddd;padding:10px; background-color: #f5f5f5;font-size: 16px;}.te-description-footer {border: 1px solid #dddd;padding:20px; margin-top: 20px;}
+The Central Bank of Chile unanimously decided to keep the monetary policy rate steady at 5% at its June 2025 meeting. The decision came amid a complex global environment marked by persistent trade tensions, slowing US growth, and heightened geopolitical risks from the Middle East conflict. While financial markets have somewhat stabilized and copper prices have risen, oil prices surged following the recent escalation of war. Domestically, first-quarter economic activity exceeded expectations, driven by exports and resilient services, though the labor market remains weak with slow job creation and rising unemployment. Inflation has moderated, with headline and core CPI easing to 4.4% and 3.6% in May, and medium-term expectations anchored at 3%. The central bank noted that despite easing risks, global uncertainty may still disrupt inflation convergence. Looking ahead, policymakers signaled that if projections hold, the rate may gradually return to neutral range in the coming quarters.
+source:
+Banco Central de Chile
+The benchmark interest rate in Chile was last recorded at 5 percent.  Interest Rate in Chile averaged 4.68 percent from 1995 until 2025, reaching an all time high of 14.00 percent in September of 1998 and a record low of 0.50 percent in July of 2009. This page provides - Chile Interest Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Chile Interest Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+The benchmark interest rate in Chile was last recorded at 5 percent. Interest Rate in Chile is expected to be 5.00 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Chile Interest Rate is projected to trend around 4.00 percent in 2026, according to our econometric models.
+.chart-link {cursor: pointer; }.te-chart {border: solid 1px #f5f5f5;} .te-chart-nav { padding: 10px 0px; background-color: #f5f5f5;border: solid 1px #ddd;}
+.ad-container {margin-top: 10px;margin-bottom: 10px;min-height: 90px;min-width: 250px; }
+console.log("[GPT] AdManager Ad Above Chart");
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-03-21
+09:00 PM
+Interest Rate Decision
+5%
+5%
+5%
+5%
+2025-04-29
+10:00 PM
+Interest Rate Decision
+5%
+5%
+5%
+5.0%
+2025-06-17
+10:00 PM
+Interest Rate Decision
+5%
+5%
+5.0%
+5.0%
+2025-07-29
+10:00 PM
+Interest Rate Decision
+5%
+5.0%
+2025-09-09
+10:00 PM
+Interest Rate Decision
+2025-10-28
+09:00 PM
+Interest Rate Decision
+hasCalendar = true;
+.ad-container-btf {margin-top: 10px; margin-bottom: 10px; min-height: 90px;min-width: 250px;}
+console.log("[GPT] AdManager Ad Below Chart");
+Related
+Last
+Previous
+Unit
+Reference
+Banks Balance Sheet
+210922.00
+210924.00
+CLP Million
+Apr 2025
+Central Bank Balance Sheet
+41196.00
+39561.00
+CLP Million
+May 2025
+Deposit Interest Rate
+6.07
+10.41
+percent
+Dec 2024
+Foreign Exchange Reserves
+45779.90
+45643.10
+USD Million
+May 2025
+Interbank Rate
+4.92
+4.92
+percent
+Jun 2025
+Interest Rate
+5.00
+5.00
+percent
+Jun 2025
+Loans to Private Sector
+144360.00
+143890.00
+CLP Billion
+Apr 2025
+Money Supply M1
+59161.43
+59763.38
+CLP Billion
+May 2025
+Money Supply M2
+193253.88
+192935.52
+CLP Billion
+May 2025
+Money Supply M3
+365056.80
+360144.04
+CLP Billion
+May 2025
+Private Debt to GDP
+148.10
+150.70
+percent
+Dec 2024
+#item_definition {border-bottom:none}
+    #item_definition > .card-body{text-align:justify}
+Chile Interest Rate
+In Chile, interest rate decisions are taken by The Central Bank of Chile (Banco Central de Chile). The official interest rate is monetary policy interest rate (PDBC Pagarés Descontables del Banco Central) which is overnight interbank interest rate.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+5.00
+5.00
+14.00
+0.50
+1995 - 2025
+percent
+Daily
+Compare
+Interest Rate by Country
+body.dark-theme .indc_news_stream a:hover{
+        text-decoration:underline;
+    }
+News Stream
+Chile Keeps Interest Rate on Hold
+The Central Bank of Chile unanimously decided to keep the monetary policy rate steady at 5% at its June 2025 meeting. The decision came amid a complex global environment marked by persistent trade tensions, slowing US growth, and heightened geopolitical risks from the Middle East conflict. While financial markets have somewhat stabilized and copper prices have risen, oil prices surged following the recent escalation of war. Domestically, first-quarter economic activity exceeded expectations, driven by exports and resilient services, though the labor market remains weak with slow job creation and rising unemployment. Inflation has moderated, with headline and core CPI easing to 4.4% and 3.6% in May, and medium-term expectations anchored at 3%. The central bank noted that despite easing risks, global uncertainty may still disrupt inflation convergence. Looking ahead, policymakers signaled that if projections hold, the rate may gradually return to neutral range in the coming quarters.
+2025-06-17
+Chile Holds Interest Rate at 5%
+The Central Bank of Chile unanimously kept its monetary policy interest rate unchanged at 5% during its April meeting, marking the fourth consecutive hold. The decision reflects heightened global uncertainty, particularly after the US announced new tariffs in early April, which have weighed on growth and inflation expectations. Global financial markets have seen increased volatility, with long-term US interest rates rising sharply and stock markets and currencies experiencing mixed movements. Despite this, Chile’s local financial conditions have improved, with declines in interest rates, a stronger peso, and gains in the stock market. Economic activity is gradually recovering, supported by export-related sectors and improving domestic demand. In March, headline inflation stood at 4.9%, while core inflation eased to 3.7%. The Central Bank reiterated its cautious and flexible approach to monetary policy, aiming to guide inflation toward its 3% target over the next two years.
+2025-04-29
+Chile Leaves Interest Rate at 5%
+The Central Bank of Chile unanimously decided to keep the policy interest rate at 5% at its March meeting. The Board mentioned that global economic uncertainty has risen since the last meeting due to escalating geopolitical risks and new US tariff announcements, along with responses from affected countries. This has particularly impacted U.S. growth prospects and raised inflation expectations, leading the Federal Reserve to pause its rate-cutting cycle. Global financial markets have reacted differently, with U.S. equities declining while European and Chinese stocks have risen. The weakening U.S. dollar has boosted commodity prices, with copper rising 8% since the last meeting, while oil prices have dropped around 9% due to global growth concerns. In Chile, financial markets have followed broader emerging-market trends, with lower interest rates, a 7% appreciation of the peso, and a 6% gain in the IPSA index.
+2025-03-21
+{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 0,"item": {"@id": "https://tradingeconomics.com","name": "tradingeconomics.com"}},{"@type": "ListItem","position": 1,"item": {"@id": "https://tradingeconomics.com/chile/indicators","name": "Chile"}},{"@type": "ListItem","position": 2,"item": {"@id": "/chile/interest-rate","name": "Interest Rate"}}]}
+.news-link {padding-bottom: 5px;}
+Related
+Chile Economic Activity Grows 3.2% in May
+Chile Industrial Output Rises 4.6% in May
+Chile Jobless Rate Hits 8.9% in March-May, Matches Forecasts
+Chile Retail Sales Accelerate in May
+Chile Producer Inflation Slows to 16-Month Low in May
+Chile Keeps Interest Rate on Hold
+Chile Trade Surplus Narrows Slightly
+Chile Inflation Rate Slows for 2nd Month
+Chile Q1 GDP Growth Slightly Beats Forecasts
+Chile Current Account Surplus Shrinks in Q1
+Latest
+Vietnam Industrial Output Growth at 4-Month High
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+#sidebar {padding-left: 2px; padding-right: 2px;}  #sidebar .accordion-header{border-radius: 0;}
+Chile
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Gross National Product
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Minimum Wages
+Population
+Retirement Age Men
+Retirement Age Women
+Unemployed Persons
+Unemployment Rate
+Wages
+Wages in Manufacturing
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+Core Inflation Rate MoM
+CPI Transportation
+Export Prices
+Food Inflation
+GDP Deflator
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+PPI YoY
+Producer Prices
+Money
+Banks Balance Sheet
+Central Bank Balance Sheet
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interbank Rate
+Interest Rate
+Loans to Private Sector
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Private Debt to GDP
+Trade
+Balance of Trade
+Capital Flows
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Expenditure
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Business Confidence
+Changes in Inventories
+Copper Production YoY
+IMACEC Economic Activity YoY
+Industrial Production Mom
+Industrial Production YoY
+Manufacturing Production YoY
+Mining Production
+Total Vehicle Sales
+Consumer
+Bank Lending Rate
+Consumer Confidence
+Consumer Credit
+Consumer Spending
+Gasoline Prices
+Households Debt to GDP
+Private Sector Credit
+Retail Sales MoM
+Retail Sales YoY
+Housing
+Building Permits
+House Price Index MoM
+House Price Index YoY
+Housing Index
+Price to Rent Ratio
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Health
+Hospital Beds
+Hospitals
+Climate
+CO2 Emissions
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+Indicators
+Homepage
+Countries
+Indicators
+Calendar
+Forecasts
+Ratings
+Solutions
+Data Subscriptions
+API Access
+Excel Add-In
+Developer Account
+Documentation
+Pricing
+About Us
+Customers
+Careers
+Investors
+Advertisers
+About us
+Privacy
+English
+Español
+Português
+Français
+Deutsch
+Italiano
+Polski
+Indonesian
+Русский
+Türkçe
+Farsi
+العربية
+简体中文
+日本語
+한국어
+Copyright ©2025 TRADING ECONOMICS
+All Rights Reserved
+×

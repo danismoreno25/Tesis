@@ -65,7 +65,6 @@ def extraccion_controller():
         if num_estaticas == 0 and num_dinamicas == 0:
             print("No se procesaron URLs. Verificar archivo Excel.")
             return
-        
         # Ejecutar descarga
         descargar_paginas_scrapy_y_selenium()
         

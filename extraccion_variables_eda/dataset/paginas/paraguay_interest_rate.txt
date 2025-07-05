@@ -1,0 +1,707 @@
+var TEChartSettings = '{"span":"3Y", "type":"stepline"}'; console.log('TEChartSettings:', TEChartSettings);
+var isCopyright = false;
+var TESymbol = 'ParaguayIntRate'; console.log('TESymbol:', TESymbol);var TELanguage = ''; console.log('TELanguage:', TELanguage);TELastUpdate = '202506242041'; console.log('TELastUpdate:', TELastUpdate);TEChart = 'EC'; console.log('TEChart:', TEChart);var TEAlertsName= 'Paraguay Interest Rate'; console.log('TEAlertsName:', TEAlertsName);
+TEChartUrl = 'https://d3fy651gv2fhd3.cloudfront.net/charts/paraguay-interest-rate.png?s=paraguayintrate&v=202506242041V20230410';TECountry = 'Paraguay';TECategory = 'Interest Rate';TEType = 'te';TEFrequency = 'Daily';TEForecast =   [5.50,5.25,5.25,5.00];
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Indicators
+Countries
+Forecasts
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Countries
+Indicators
+Members
+DATA PLANS
+Download historical data for 20 million indicators using your browser.
+Subscription Plans
+|
+Features
+API GATEWAY
+Direct access to our data from your apps using any programing language.
+Features
+|
+Docs
+|
+Developer
+Already a user?
+Login
+.form-switch {
+        width: 3.5em !important;
+        height: 2em !important
+    }
+    .bi-sun-fill {
+        font-size: 12px;
+        color: #ddd !important;
+    }
+    .bi-moon-fill {
+        font-size: 10px;
+        color: #333 !important;
+    }
+    .darkmode-toggle-container {
+        width: auto;
+        padding: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+    }
+    .form-check-div-sun {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: -54px;
+        position: relative
+    }
+    .form-check-div-moon {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: 3px;
+        position: relative
+    }
+    .dk-switch-right-menu{
+        padding-left:10px;
+    }
+function SetTheme(isDark) {
+        console.log('Changing theme', isDark);
+        if (IsDarkMode != isDark) {
+            IsDarkMode = isDark;
+            document.body.classList.toggle("dark-theme");
+            // Set cookie
+            const d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = "IsDarkMode" + "=" + IsDarkMode + ";" + expires + ";path=/";
+            IsDarkMode ? ga('event', 'te_darkmode_on') : ga('event', 'te_darkmode_off');
+            window.location.reload();
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        let checkbox = document.getElementById("flexSwitchCheckChecked");
+        let sundiv = document.getElementsByClassName("form-check-label-sun")[0];
+        let moondiv = document.getElementsByClassName("form-check-label-moon")[0];
+
+        if (IsDarkMode) {
+            sundiv.classList.add("d-none");
+            moondiv.classList.remove("d-none");
+        } else {
+            moondiv.classList.add("d-none");
+            sundiv.classList.remove("d-none");
+        }
+        checkbox.checked = IsDarkMode;
+    });
+
+
+
+    document.getElementById("flexSwitchCheckChecked").addEventListener("change", function () {
+        SetTheme(!IsDarkMode)
+    });
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Holidays
+Countries
+United States
+United Kingdom
+Euro Area
+Australia
+Canada
+Japan
+China
+Brazil
+Russia
+India
+More Countries
+Indicators
+Interest Rate
+Inflation Rate
+Unemployment Rate
+GDP Growth
+GDP per Capita
+Current Account
+Gold Reserves
+Government Debt
+Crude Oil Production
+Gasoline Prices
+Credit Rating
+More Indicators
+Forecasts
+Markets & Indicators
+Countries
+Countries
+Indicators
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Solutions
+Data Subscriptions
+API Access
+Pricing
+Apps
+App Store
+Google Play
+Twitter
+About
+Customers
+Investors
+Careers
+About us
+Contact
+document.addEventListener('DOMContentLoaded', function () {
+        let accordionHeaders = document.querySelectorAll('.menu-main-option');
+
+        accordionHeaders.forEach(function (header) {
+            header.addEventListener('click', function () {
+                let caretIcon = header.querySelector('.caret-toggle');
+
+                let allCaretIcons = document.querySelectorAll('.menu-main-option .caret-toggle');
+
+                allCaretIcons.forEach(function (icon) {
+                    if (icon !== caretIcon) {
+                        icon.classList.remove('bi-caret-up-fill');
+                        icon.classList.add('bi-caret-down-fill');
+                    }
+                });
+                caretIcon.classList.toggle('bi-caret-down-fill');
+                caretIcon.classList.toggle('bi-caret-up-fill');
+            });
+        });
+    });
+body {padding-top: 140px;}.pagemenu {top: 50px;}.pagetabs {top: 90px;}.navbar-default .navbar-nav>.active>a{ background-color: whitesmoke;} .navbar .navbar-expand-lg>.active, .navbar .navbar-expand-lg>.active>a{background-color: #f5f5f5;} .navbar .navbar-expand-lg>li:hover, .navbar .navbar-expand-lg>li:hover>a{background-color: #fff;} .nav-link:focus{color: #000;}
+.title-notes {padding-left: 10px;font-size: 80%;padding-top: 3px;font-weight:lighter;}
+Paraguay Interest Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+.te-title-footer {border: 1px solid #dddd;padding:10px; background-color: #f5f5f5;font-size: 16px;}.te-description-footer {border: 1px solid #dddd;padding:20px; margin-top: 20px;}
+The Central Bank of Paraguay held its benchmark interest rate steady at 6% in June 2025, citing steady economic growth and inflation trends. The decision was unanimous, reflecting confidence in the country’s macroeconomic stability amid external and domestic developments. In the US, job creation in May exceeded expectations, the unemployment rate remained at 4.2%, and annual inflation rose to 2.4%. Locally, economic activity continued to expand, with the IMAEP index showing a 3.3% annual increase in April, driven by services, manufacturing, energy generation, and construction. May’s inflation was 0% month-on-month, bringing the annual rate to 3.6%, with food prices being key contributors. Inflation expectations for the next 12 months fell to 3.7%, while for the policy-rate horizon they remained aligned with the 3.5% target. The committee reaffirmed its commitment to price stability, monitoring global and domestic trends to steer inflation toward its 3.5% target.
+source: Banco Central del Paraguay
+The benchmark interest rate in Paraguay was last recorded at 6 percent.  Interest Rate in Paraguay averaged 5.53 percent from 2010 until 2025, reaching an all time high of 8.50 percent in August of 2011 and a record low of 0.75 percent in June of 2020. This page provides - Paraguay Interest Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Paraguay Interest Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+The benchmark interest rate in Paraguay was last recorded at 6 percent. Interest Rate in Paraguay is expected to be 5.50 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Paraguay Interest Rate is projected to trend around 5.00 percent in 2026, according to our econometric models.
+.chart-link {cursor: pointer; }.te-chart {border: solid 1px #f5f5f5;} .te-chart-nav { padding: 10px 0px; background-color: #f5f5f5;border: solid 1px #ddd;}
+.ad-container {margin-top: 10px;margin-bottom: 10px;min-height: 90px;min-width: 250px; }
+console.log("[GPT] AdManager Ad Above Chart");
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-04-23
+08:00 PM
+Interest Rate Decision
+6%
+6%
+6.0%
+2025-05-23
+07:00 PM
+Interest Rate Decision
+6%
+6%
+6.0%
+2025-06-24
+07:00 PM
+Interest Rate Decision
+6%
+6%
+6.0%
+2025-07-22
+06:00 PM
+Interest Rate Decision
+6%
+6.0%
+2025-08-22
+09:00 PM
+Interest Rate Decision
+2025-09-23
+09:00 PM
+Interest Rate Decision
+hasCalendar = true;
+.ad-container-btf {margin-top: 10px; margin-bottom: 10px; min-height: 90px;min-width: 250px;}
+console.log("[GPT] AdManager Ad Below Chart");
+Related
+Last
+Previous
+Unit
+Reference
+Foreign Exchange Reserves
+8847.40
+8936.40
+USD Million
+May 2025
+Interest Rate
+6.00
+6.00
+percent
+Jun 2025
+Money Supply M0
+19640470.51
+19545484.70
+PYG Million
+May 2025
+Money Supply M1
+45064570.00
+45020536.00
+PYG Million
+May 2025
+Money Supply M2
+86583514.00
+86025832.00
+PYG Million
+May 2025
+Money Supply M3
+160182947.00
+160622359.00
+PYG Million
+May 2025
+#item_definition {border-bottom:none}
+    #item_definition > .card-body{text-align:justify}
+Paraguay Interest Rate
+In Paraguay, interest rates decisions are taken by the Central Bank of Paraguay (Banco Central del Paraguay). The official interest rate is the 14-day interest rate (la tasa de 14 días).
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+6.00
+6.00
+8.50
+0.75
+2010 - 2025
+percent
+Daily
+Compare
+Interest Rate by Country
+body.dark-theme .indc_news_stream a:hover{
+        text-decoration:underline;
+    }
+News Stream
+Paraguay Maintains Interest Rate at 6%
+The Central Bank of Paraguay held its benchmark interest rate steady at 6% in June 2025, citing steady economic growth and inflation trends. The decision was unanimous, reflecting confidence in the country’s macroeconomic stability amid external and domestic developments. In the US, job creation in May exceeded expectations, the unemployment rate remained at 4.2%, and annual inflation rose to 2.4%. Locally, economic activity continued to expand, with the IMAEP index showing a 3.3% annual increase in April, driven by services, manufacturing, energy generation, and construction. May’s inflation was 0% month-on-month, bringing the annual rate to 3.6%, with food prices being key contributors. Inflation expectations for the next 12 months fell to 3.7%, while for the policy-rate horizon they remained aligned with the 3.5% target. The committee reaffirmed its commitment to price stability, monitoring global and domestic trends to steer inflation toward its 3.5% target.
+2025-06-24
+Paraguay Leaves Rates Unchanged
+The Central Bank of Paraguay held its benchmark interest rate steady at 6% in May 2025, citing steady economic growth and inflation trends. The decision was unanimous, reflecting confidence in the country’s macroeconomic stability amid external and domestic developments. While the US economy contracted in Q1 2025, job growth remained strong and inflation slowed to 2.3%, though longer-term inflation expectations have risen. Locally, economic activity continued to expand, with the IMAEP index showing a 4.4% annual increase in March, driven by services, manufacturing, construction, and energy. April’s inflation stood at 0.4%, bringing the annual rate to 4%, with food prices, being key contributors. Inflation expectations for 2025 held steady at 4%, while short-term expectations rose to 3.8%. The committee emphasized its commitment to price stability and will continue to monitor evolving global and domestic conditions to ensure inflation converges to its 3.5% target over the policy horizon
+2025-05-23
+Paraguay Holds Interest Rate Steady at 6%
+The Central Bank of Paraguay kept its monetary policy rate at 6.0% per year during its April 2025 meeting. International oil prices decreased due to expectations of lower global demand and more favorable supply, and agricultural commodity prices showed volatility, with soybean and corn prices rising while wheat prices fell. Locally, Paraguay’s Monthly Economic Activity Indicator grew by 4.9% year-on-year in February (6.0% excluding agriculture and binational), driven by strong performances in services, manufacturing, electricity generation, livestock and construction, though agriculture moderated growth. Despite monthly inflation of 1.2% in March, the committee remains focused on maintaining its inflation target of 3.5% over the medium term, emphasizing its commitment to price stability.
+2025-04-23
+{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 0,"item": {"@id": "https://tradingeconomics.com","name": "tradingeconomics.com"}},{"@type": "ListItem","position": 1,"item": {"@id": "https://tradingeconomics.com/paraguay/indicators","name": "Paraguay"}},{"@type": "ListItem","position": 2,"item": {"@id": "/paraguay/interest-rate","name": "Interest Rate"}}]}
+.news-link {padding-bottom: 5px;}
+Related
+Paraguay Inflation Accelerates in June
+Paraguay GDP Growth Accelerates in Q1
+Paraguay Maintains Interest Rate at 6%
+Paraguay Trade Balance Turns Negative in May
+Fitch Upgrades Paraguay Credit Rating to 'BB+'
+Paraguay Economy Growth Slows Sharply in May
+Latest
+Vietnam Industrial Output Growth at 4-Month High
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+#sidebar {padding-left: 2px; padding-right: 2px;}  #sidebar .accordion-header{border-radius: 0;}
+Paraguay
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Services
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Minimum Wages
+Population
+Unemployed Persons
+Unemployment Rate
+Wages in Manufacturing
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Food Inflation
+GDP Deflator
+Inflation Rate MoM
+Inflation Rate YoY
+PPI YoY
+Producer Prices
+Money
+Foreign Exchange Reserves
+Interest Rate
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Trade
+Balance of Trade
+Capital Flows
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Remittances
+Terrorism Index
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Government Budget
+Government Debt
+Government Debt to GDP
+Government Spending
+Holidays
+Military Expenditure
+Business
+Changes in Inventories
+Leading Economic Index
+Consumer
+Consumer Confidence
+Consumer Spending
+Gasoline Prices
+Taxes
+Corporate Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Climate
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+Indicators
+Homepage
+Countries
+Indicators
+Calendar
+Forecasts
+Ratings
+Solutions
+Data Subscriptions
+API Access
+Excel Add-In
+Developer Account
+Documentation
+Pricing
+About Us
+Customers
+Careers
+Investors
+Advertisers
+About us
+Privacy
+English
+Español
+Português
+Français
+Deutsch
+Italiano
+Polski
+Indonesian
+Русский
+Türkçe
+Farsi
+العربية
+简体中文
+日本語
+한국어
+Copyright ©2025 TRADING ECONOMICS
+All Rights Reserved
+×

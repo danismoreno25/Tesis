@@ -1,0 +1,733 @@
+var TEChartSettings = '{"span":"3Y", "type":"stepline"}'; console.log('TEChartSettings:', TEChartSettings);
+var isCopyright = false;
+var TESymbol = 'PRRRONUS'; console.log('TESymbol:', TESymbol);var TELanguage = ''; console.log('TELanguage:', TELanguage);TELastUpdate = '202506122306'; console.log('TELastUpdate:', TELastUpdate);TEChart = 'EC'; console.log('TEChart:', TEChart);var TEAlertsName= 'Peru Interest Rate'; console.log('TEAlertsName:', TEAlertsName);
+TEChartUrl = 'https://d3fy651gv2fhd3.cloudfront.net/charts/peru-interest-rate.png?s=prrronus&v=202506122306V20230410';TECountry = 'Peru';TECategory = 'Interest Rate';TEType = 'te';TEFrequency = 'Daily';TEForecast =   [4.50,4.50,4.25,4.25];
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Indicators
+Countries
+Forecasts
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Countries
+Indicators
+Members
+DATA PLANS
+Download historical data for 20 million indicators using your browser.
+Subscription Plans
+|
+Features
+API GATEWAY
+Direct access to our data from your apps using any programing language.
+Features
+|
+Docs
+|
+Developer
+Already a user?
+Login
+.form-switch {
+        width: 3.5em !important;
+        height: 2em !important
+    }
+    .bi-sun-fill {
+        font-size: 12px;
+        color: #ddd !important;
+    }
+    .bi-moon-fill {
+        font-size: 10px;
+        color: #333 !important;
+    }
+    .darkmode-toggle-container {
+        width: auto;
+        padding: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+    }
+    .form-check-div-sun {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: -54px;
+        position: relative
+    }
+    .form-check-div-moon {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: 3px;
+        position: relative
+    }
+    .dk-switch-right-menu{
+        padding-left:10px;
+    }
+function SetTheme(isDark) {
+        console.log('Changing theme', isDark);
+        if (IsDarkMode != isDark) {
+            IsDarkMode = isDark;
+            document.body.classList.toggle("dark-theme");
+            // Set cookie
+            const d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = "IsDarkMode" + "=" + IsDarkMode + ";" + expires + ";path=/";
+            IsDarkMode ? ga('event', 'te_darkmode_on') : ga('event', 'te_darkmode_off');
+            window.location.reload();
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        let checkbox = document.getElementById("flexSwitchCheckChecked");
+        let sundiv = document.getElementsByClassName("form-check-label-sun")[0];
+        let moondiv = document.getElementsByClassName("form-check-label-moon")[0];
+
+        if (IsDarkMode) {
+            sundiv.classList.add("d-none");
+            moondiv.classList.remove("d-none");
+        } else {
+            moondiv.classList.add("d-none");
+            sundiv.classList.remove("d-none");
+        }
+        checkbox.checked = IsDarkMode;
+    });
+
+
+
+    document.getElementById("flexSwitchCheckChecked").addEventListener("change", function () {
+        SetTheme(!IsDarkMode)
+    });
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Holidays
+Countries
+United States
+United Kingdom
+Euro Area
+Australia
+Canada
+Japan
+China
+Brazil
+Russia
+India
+More Countries
+Indicators
+Interest Rate
+Inflation Rate
+Unemployment Rate
+GDP Growth
+GDP per Capita
+Current Account
+Gold Reserves
+Government Debt
+Crude Oil Production
+Gasoline Prices
+Credit Rating
+More Indicators
+Forecasts
+Markets & Indicators
+Countries
+Countries
+Indicators
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Solutions
+Data Subscriptions
+API Access
+Pricing
+Apps
+App Store
+Google Play
+Twitter
+About
+Customers
+Investors
+Careers
+About us
+Contact
+document.addEventListener('DOMContentLoaded', function () {
+        let accordionHeaders = document.querySelectorAll('.menu-main-option');
+
+        accordionHeaders.forEach(function (header) {
+            header.addEventListener('click', function () {
+                let caretIcon = header.querySelector('.caret-toggle');
+
+                let allCaretIcons = document.querySelectorAll('.menu-main-option .caret-toggle');
+
+                allCaretIcons.forEach(function (icon) {
+                    if (icon !== caretIcon) {
+                        icon.classList.remove('bi-caret-up-fill');
+                        icon.classList.add('bi-caret-down-fill');
+                    }
+                });
+                caretIcon.classList.toggle('bi-caret-down-fill');
+                caretIcon.classList.toggle('bi-caret-up-fill');
+            });
+        });
+    });
+body {padding-top: 140px;}.pagemenu {top: 50px;}.pagetabs {top: 90px;}.navbar-default .navbar-nav>.active>a{ background-color: whitesmoke;} .navbar .navbar-expand-lg>.active, .navbar .navbar-expand-lg>.active>a{background-color: #f5f5f5;} .navbar .navbar-expand-lg>li:hover, .navbar .navbar-expand-lg>li:hover>a{background-color: #fff;} .nav-link:focus{color: #000;}
+.title-notes {padding-left: 10px;font-size: 80%;padding-top: 3px;font-weight:lighter;}
+Peru Interest Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+.te-title-footer {border: 1px solid #dddd;padding:10px; background-color: #f5f5f5;font-size: 16px;}.te-description-footer {border: 1px solid #dddd;padding:20px; margin-top: 20px;}
+The central bank of Peru held its benchmark interest rate steady at 4.5% in its June meeting, signaling a data-dependent approach for any future adjustments. The decision was based on recent inflation data, which showed a slight monthly decline of 0.06% in May due to lower food prices, while core inflation rose just 0.05%. Annual headline inflation remained at 1.7%, and core inflation eased slightly to 1.8%, both near the center of the central bank’s target range. Inflation expectations over the next 12 months held steady at 2.3%, remaining within the target band. While economic activity indicators weakened slightly in May, most remained in optimistic territory, with output hovering around its potential level. The central bank also noted rising global trade tensions and financial market volatility as risks to the global economic outlook, which could impact inflation convergence.
+source:
+Central Reserve Bank of Peru
+The benchmark interest rate in Peru was last recorded at 4.50 percent.  Interest Rate in Peru averaged 3.79 percent from 2000 until 2025, reaching an all time high of 8.90 percent in January of 2001 and a record low of 0.25 percent in April of 2020. This page provides - Peru Interest Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Peru Interest Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+The benchmark interest rate in Peru was last recorded at 4.50 percent. Interest Rate in Peru is expected to be 4.50 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Peru Interest Rate is projected to trend around 4.00 percent in 2026, according to our econometric models.
+.chart-link {cursor: pointer; }.te-chart {border: solid 1px #f5f5f5;} .te-chart-nav { padding: 10px 0px; background-color: #f5f5f5;border: solid 1px #ddd;}
+.ad-container {margin-top: 10px;margin-bottom: 10px;min-height: 90px;min-width: 250px; }
+console.log("[GPT] AdManager Ad Above Chart");
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-04-10
+11:00 PM
+Interest Rate Decision
+4.75%
+4.75%
+4.75%
+4.75%
+2025-05-08
+11:00 PM
+Interest Rate Decision
+4.5%
+4.75%
+4.75%
+4.75%
+2025-06-12
+11:00 PM
+Interest Rate Decision
+4.5%
+4.5%
+4.5%
+4.5%
+2025-07-10
+11:00 PM
+Interest Rate Decision
+4.5%
+4.5%
+2025-08-14
+11:00 PM
+Interest Rate Decision
+2025-09-11
+11:00 PM
+Interest Rate Decision
+hasCalendar = true;
+.ad-container-btf {margin-top: 10px; margin-bottom: 10px; min-height: 90px;min-width: 250px;}
+console.log("[GPT] AdManager Ad Below Chart");
+Related
+Last
+Previous
+Unit
+Reference
+Foreign Exchange Reserves
+86866.00
+85957.00
+USD Million
+Jun 2025
+Interest Rate
+4.50
+4.50
+percent
+Jun 2025
+Loans to Private Sector
+254566.45
+250427.02
+PEN Million
+May 2025
+Money Supply M0
+84144.00
+82861.00
+PEN Million
+May 2025
+Money Supply M1
+97057.42
+97856.38
+PEN Million
+May 2025
+Money Supply M2
+139127.64
+137743.11
+PEN Million
+May 2025
+#item_definition {border-bottom:none}
+    #item_definition > .card-body{text-align:justify}
+Peru Interest Rate
+In Peru, the interest rates decisions are taken by the Board of Central Reserve Bank of Peru (Banco Central de Reserva del Perú BCRP). The official interest rate is the reference interest rate.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+4.50
+4.50
+8.90
+0.25
+2000 - 2025
+percent
+Daily
+Compare
+Interest Rate by Country
+body.dark-theme .indc_news_stream a:hover{
+        text-decoration:underline;
+    }
+News Stream
+Peru Leaves Rates on Hold
+The central bank of Peru held its benchmark interest rate steady at 4.5% in its June meeting, signaling a data-dependent approach for any future adjustments. The decision was based on recent inflation data, which showed a slight monthly decline of 0.06% in May due to lower food prices, while core inflation rose just 0.05%. Annual headline inflation remained at 1.7%, and core inflation eased slightly to 1.8%, both near the center of the central bank’s target range. Inflation expectations over the next 12 months held steady at 2.3%, remaining within the target band. While economic activity indicators weakened slightly in May, most remained in optimistic territory, with output hovering around its potential level. The central bank also noted rising global trade tensions and financial market volatility as risks to the global economic outlook, which could impact inflation convergence.
+2025-06-12
+Peru’s Cuts Rate to 4.5%
+The central bank of Peru lowered its benchmark interest rate by 25 basis points to 4.5% during its May 2025 meeting, ending a three-month pause in rate adjustments. The move brings the policy rate closer to its estimated neutral level, with future changes dependent on evolving inflation dynamics and economic data. In April, headline inflation rose 0.32% month-over-month, while core inflation—excluding food and energy—came in at 0.14%. Annual inflation increased to 1.7%, up from 1.3% in March, largely driven by food prices, although core inflation remained stable at 1.9%, consistent with the bank’s target range. Inflation expectations over the next 12 months held steady at 2.3%, also within the target band. The Central Reserve Bank of Peru (BCRP) acknowledged a slight weakening in both current and expected economic activity indicators, but noted they remained generally optimistic, signaling that the economy is likely operating near its potential.
+2025-05-08
+Peru Maintains Interest Rate at 4.75%
+Peru’s central bank left its benchmark interest rate on hold at 4.75% in April 2025, marking the third consecutive month without a change. Policymakers emphasized that any future adjustments will be guided by incoming data on inflation and its underlying drivers. In March, headline inflation eased to 1.3%, while core inflation fell to 1.9%, aligning closely with the midpoint of the central bank’s target range. Although domestic economic indicators pointed to a gradual recovery, global outlooks have deteriorated amid rising trade tensions—particularly in the United States—fueling uncertainty and market volatility. Against this backdrop, the BCRP reiterated its commitment to maintaining price stability and signaled a data-dependent approach moving forward. It also established specific rates for local currency operations, including a 2.75% annual rate for overnight deposits.
+2025-04-10
+{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 0,"item": {"@id": "https://tradingeconomics.com","name": "tradingeconomics.com"}},{"@type": "ListItem","position": 1,"item": {"@id": "https://tradingeconomics.com/peru/indicators","name": "Peru"}},{"@type": "ListItem","position": 2,"item": {"@id": "/peru/interest-rate","name": "Interest Rate"}}]}
+.news-link {padding-bottom: 5px;}
+Related
+Peru Inflation Rate Stays at 4-Month High
+Peru Economic Activity Growth Slows in April
+Peru Trade Surplus Widens in April
+Peru Leaves Rates on Hold
+Peru GDP Annual Growth Rate Eases to 3.9% in Q1
+Fitch Affirms Peru's Investment-Grade Rating, Raises Its Outlook to Stable
+Peruvian Peso Shows Resilience
+Peru Jobless Rate Falls to 7.2%
+Peru Equities Dip 1.4% As Economic Activity Disappoints
+Peru Reports Budget Gap of 2.1% of GDP
+Latest
+Vietnam Industrial Output Growth at 4-Month High
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+#sidebar {padding-left: 2px; padding-right: 2px;}  #sidebar .accordion-header{border-radius: 0;}
+Peru
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Employment Rate
+Minimum Wages
+Population
+Unemployed Persons
+Unemployment Rate
+Wages
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+Producer Prices
+Money
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interest Rate
+Loans to Private Sector
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Trade
+Balance of Trade
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Remittances
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Expenditure
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Business Confidence
+Changes in Inventories
+Copper Production
+Gold Production
+Industrial Production
+Leading Economic Index
+Consumer
+Bank Lending Rate
+Consumer Credit
+Consumer Spending
+Gasoline Prices
+Private Sector Credit
+Housing
+Residential Property Prices
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Withholding Tax Rate
+Climate
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+Indicators
+Homepage
+Countries
+Indicators
+Calendar
+Forecasts
+Ratings
+Solutions
+Data Subscriptions
+API Access
+Excel Add-In
+Developer Account
+Documentation
+Pricing
+About Us
+Customers
+Careers
+Investors
+Advertisers
+About us
+Privacy
+English
+Español
+Português
+Français
+Deutsch
+Italiano
+Polski
+Indonesian
+Русский
+Türkçe
+Farsi
+العربية
+简体中文
+日本語
+한국어
+Copyright ©2025 TRADING ECONOMICS
+All Rights Reserved
+×

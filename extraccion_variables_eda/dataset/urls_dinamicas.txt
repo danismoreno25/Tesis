@@ -1,0 +1,9 @@
+https://wise.com/es/currency-converter/usd-to-mxn-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-brl-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-ars-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-cop-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-clp-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-pen-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-crc-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-pab-rate?amount=1
+https://wise.com/es/currency-converter/usd-to-pyg-rate?amount=1

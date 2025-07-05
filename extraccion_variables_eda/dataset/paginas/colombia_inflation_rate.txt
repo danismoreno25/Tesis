@@ -1,0 +1,757 @@
+var TEChartSettings = '{"type":"column", "labels":true, "span":"1Y"}'; console.log('TEChartSettings:', TEChartSettings);
+var isCopyright = false;
+var TESymbol = 'COCPIYOY'; console.log('TESymbol:', TESymbol);var TELanguage = ''; console.log('TELanguage:', TELanguage);TELastUpdate = '202506092314'; console.log('TELastUpdate:', TELastUpdate);TEChart = 'EC'; console.log('TEChart:', TEChart);var TEAlertsName= 'Colombia Inflation Rate'; console.log('TEAlertsName:', TEAlertsName);
+TEChartUrl = 'https://d3fy651gv2fhd3.cloudfront.net/charts/colombia-inflation-cpi.png?s=cocpiyoy&v=202506092314V20230410';TECountry = 'Colombia';TECategory = 'Inflation Rate';TEType = 'te';TEFrequency = 'Monthly';TEForecast =   [4.80,4.90,4.80,4.50];
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Indicators
+Countries
+Forecasts
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Countries
+Indicators
+Members
+DATA PLANS
+Download historical data for 20 million indicators using your browser.
+Subscription Plans
+|
+Features
+API GATEWAY
+Direct access to our data from your apps using any programing language.
+Features
+|
+Docs
+|
+Developer
+Already a user?
+Login
+.form-switch {
+        width: 3.5em !important;
+        height: 2em !important
+    }
+    .bi-sun-fill {
+        font-size: 12px;
+        color: #ddd !important;
+    }
+    .bi-moon-fill {
+        font-size: 10px;
+        color: #333 !important;
+    }
+    .darkmode-toggle-container {
+        width: auto;
+        padding: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+    }
+    .form-check-div-sun {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: -54px;
+        position: relative
+    }
+    .form-check-div-moon {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: 3px;
+        position: relative
+    }
+    .dk-switch-right-menu{
+        padding-left:10px;
+    }
+function SetTheme(isDark) {
+        console.log('Changing theme', isDark);
+        if (IsDarkMode != isDark) {
+            IsDarkMode = isDark;
+            document.body.classList.toggle("dark-theme");
+            // Set cookie
+            const d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = "IsDarkMode" + "=" + IsDarkMode + ";" + expires + ";path=/";
+            IsDarkMode ? ga('event', 'te_darkmode_on') : ga('event', 'te_darkmode_off');
+            window.location.reload();
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        let checkbox = document.getElementById("flexSwitchCheckChecked");
+        let sundiv = document.getElementsByClassName("form-check-label-sun")[0];
+        let moondiv = document.getElementsByClassName("form-check-label-moon")[0];
+
+        if (IsDarkMode) {
+            sundiv.classList.add("d-none");
+            moondiv.classList.remove("d-none");
+        } else {
+            moondiv.classList.add("d-none");
+            sundiv.classList.remove("d-none");
+        }
+        checkbox.checked = IsDarkMode;
+    });
+
+
+
+    document.getElementById("flexSwitchCheckChecked").addEventListener("change", function () {
+        SetTheme(!IsDarkMode)
+    });
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Holidays
+Countries
+United States
+United Kingdom
+Euro Area
+Australia
+Canada
+Japan
+China
+Brazil
+Russia
+India
+More Countries
+Indicators
+Interest Rate
+Inflation Rate
+Unemployment Rate
+GDP Growth
+GDP per Capita
+Current Account
+Gold Reserves
+Government Debt
+Crude Oil Production
+Gasoline Prices
+Credit Rating
+More Indicators
+Forecasts
+Markets & Indicators
+Countries
+Countries
+Indicators
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Solutions
+Data Subscriptions
+API Access
+Pricing
+Apps
+App Store
+Google Play
+Twitter
+About
+Customers
+Investors
+Careers
+About us
+Contact
+document.addEventListener('DOMContentLoaded', function () {
+        let accordionHeaders = document.querySelectorAll('.menu-main-option');
+
+        accordionHeaders.forEach(function (header) {
+            header.addEventListener('click', function () {
+                let caretIcon = header.querySelector('.caret-toggle');
+
+                let allCaretIcons = document.querySelectorAll('.menu-main-option .caret-toggle');
+
+                allCaretIcons.forEach(function (icon) {
+                    if (icon !== caretIcon) {
+                        icon.classList.remove('bi-caret-up-fill');
+                        icon.classList.add('bi-caret-down-fill');
+                    }
+                });
+                caretIcon.classList.toggle('bi-caret-down-fill');
+                caretIcon.classList.toggle('bi-caret-up-fill');
+            });
+        });
+    });
+body {padding-top: 140px;}.pagemenu {top: 50px;}.pagetabs {top: 90px;}.navbar-default .navbar-nav>.active>a{ background-color: whitesmoke;} .navbar .navbar-expand-lg>.active, .navbar .navbar-expand-lg>.active>a{background-color: #f5f5f5;} .navbar .navbar-expand-lg>li:hover, .navbar .navbar-expand-lg>li:hover>a{background-color: #fff;} .nav-link:focus{color: #000;}
+.title-notes {padding-left: 10px;font-size: 80%;padding-top: 3px;font-weight:lighter;}
+Colombia Inflation Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+.te-title-footer {border: 1px solid #dddd;padding:10px; background-color: #f5f5f5;font-size: 16px;}.te-description-footer {border: 1px solid #dddd;padding:20px; margin-top: 20px;}
+The annual inflation rate in Colombia eased to 5.05% in May 2025, down from 5.16% in April and slightly below market expectations of 5.1%. This marked the lowest reading since October 2021, reflecting continued progress in curbing price pressures. The slowdown was largely driven by softer inflation in key categories such as transportation (+5.26% vs. +5.29%), housing (+5.82% vs. +6.09%), restaurants and hotels (+7.41% vs. +7.71%), and education (+7.35% vs. +7.38%). Meanwhile, inflation picked up slightly in food (+4.71% vs. +4.61%) and health (+5.34% vs. +5.31%). On a monthly basis, consumer prices rose by 0.32%, below the expected 0.5% and marking the smallest monthly increase since November, following a 0.66% rise in April.
+source:
+Dane, Colombia
+Inflation Rate in Colombia decreased to 5.05 percent in May from 5.16 percent in April of 2025.  Inflation Rate in Colombia averaged 13.51 percent from 1955 until 2025, reaching an all time high of 41.65 percent in June of 1977 and a record low of -0.87 percent in July of 1955. This page provides - Colombia Inflation Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Colombia Inflation Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+Inflation Rate in Colombia decreased to 5.05 percent in May from 5.16 percent in April of 2025. Inflation Rate in Colombia is expected to be 4.80 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Colombia Inflation Rate is projected to trend around 4.00 percent in 2026 and 3.50 percent in 2027, according to our econometric models.
+.chart-link {cursor: pointer; }.te-chart {border: solid 1px #f5f5f5;} .te-chart-nav { padding: 10px 0px; background-color: #f5f5f5;border: solid 1px #ddd;}
+.ad-container {margin-top: 10px;margin-bottom: 10px;min-height: 90px;min-width: 250px; }
+console.log("[GPT] AdManager Ad Above Chart");
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-05-08
+11:00 PM
+Inflation Rate YoY
+Apr
+5.16%
+5.09%
+5%
+5.0%
+2025-06-09
+11:00 PM
+Inflation Rate YoY
+May
+5.05%
+5.16%
+5.12%
+5.1%
+2025-07-07
+11:00 PM
+Inflation Rate YoY
+Jun
+5.05%
+5.0%
+hasCalendar = true;
+.ad-container-btf {margin-top: 10px; margin-bottom: 10px; min-height: 90px;min-width: 250px;}
+console.log("[GPT] AdManager Ad Below Chart");
+Related
+Last
+Previous
+Unit
+Reference
+Consumer Price Index CPI
+150.14
+149.66
+points
+May 2025
+CPI Housing Utilities
+141.08
+140.41
+points
+May 2025
+CPI Transportation
+156.33
+156.46
+points
+May 2025
+Export Prices
+235.99
+230.01
+points
+May 2025
+Food Inflation
+4.71
+4.61
+percent
+May 2025
+Import Prices
+187.25
+188.87
+points
+May 2025
+Inflation Rate YoY
+5.05
+5.16
+percent
+May 2025
+Inflation Rate MoM
+0.32
+0.66
+percent
+May 2025
+Producer Prices
+184.36
+186.51
+points
+May 2025
+PPI YoY
+2.09
+3.67
+percent
+Jun 2025
+#item_definition {border-bottom:none}
+    #item_definition > .card-body{text-align:justify}
+Colombia Inflation Rate
+In Colombia, the three main components of the consumer price index are: Housing & Utilities (33 percent of the total weight); Food and Non-Alcoholic Beverages (15 percent) and Transport (13 percent). Others include: Restaurants & Hotels (9 percent); Miscellaneous Goods & Services (5 percent); Education (4 percent) and Information & Communication (4 percent). Furnishings, Clothing & Footwear, Recreation & Culture, Alcoholic Beverages & Tobacco and Health account for the remaining 15 percent of total weight. The CPI covers the urban population of 38 capital city departments, including some metropolitan areas, which account for the largest population registered in the country and have the most dynamic economic environment in comparison to the remaining cities of the country.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+5.05
+5.16
+41.65
+-0.87
+1955 - 2025
+percent
+Monthly
+2018=100
+Compare
+Inflation Rate by Country
+body.dark-theme .indc_news_stream a:hover{
+        text-decoration:underline;
+    }
+News Stream
+Colombia Inflation Rate Hits Lowest Level Since 2021
+The annual inflation rate in Colombia eased to 5.05% in May 2025, down from 5.16% in April and slightly below market expectations of 5.1%. This marked the lowest reading since October 2021, reflecting continued progress in curbing price pressures. The slowdown was largely driven by softer inflation in key categories such as transportation (+5.26% vs. +5.29%), housing (+5.82% vs. +6.09%), restaurants and hotels (+7.41% vs. +7.71%), and education (+7.35% vs. +7.38%). Meanwhile, inflation picked up slightly in food (+4.71% vs. +4.61%) and health (+5.34% vs. +5.31%). On a monthly basis, consumer prices rose by 0.32%, below the expected 0.5% and marking the smallest monthly increase since November, following a 0.66% rise in April.
+2025-06-09
+Colombia’s Inflation Rises to 5.16% in April
+The annual inflation rate in Colombia inched up to 5.16% in April 2025, from 5.09% in March, coming in above market expectations of 5%. The uptick was driven by faster price increases in key categories such as transportation (+5.29% vs. +4.88% in March), restaurants and hotels (+7.71% vs. +7.34%), health (+5.31% vs. +5.30%), and education (+7.38% vs. +7.27%). In contrast, inflation eased slightly for food (+4.61% vs. +4.67%) and housing (+6.09% vs. +6.29%). On a monthly basis, consumer prices rose by 0.66%, accelerating from March’s 0.52% increase and slightly above the market forecast of 0.5%.
+2025-05-08
+Colombia Inflation Rate Hits Lowest Level Since 2021
+The annual inflation rate in Colombia eased 5.09% in March 2025, down from a four-month high of 5.28% in February  and below market forecasts of 5.15%. It pointed to the lowest reading since October 2021 as costs rose more slowly for transportation (+4.88% vs. +5.64% in February), housing (+6.29% vs. +6.58%), restaurants and hotels (+7.34% vs. +7.73%), health (+5.3% vs. +5.42%), and education (+7.27% vs. +7.38%). However, food prices increased faster (+4.67% vs. +4.56%). On a monthly basis, consumer prices increased by 0.52%, slowing from February’s 1.14%, which was the sharpest rise since February 2023, and almost in line with the forecast of 0.58%.
+2025-04-07
+{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 0,"item": {"@id": "https://tradingeconomics.com","name": "tradingeconomics.com"}},{"@type": "ListItem","position": 1,"item": {"@id": "https://tradingeconomics.com/colombia/indicators","name": "Colombia"}},{"@type": "ListItem","position": 2,"item": {"@id": "/colombia/inflation-cpi","name": "Inflation Rate"}}]}
+.news-link {padding-bottom: 5px;}
+Related
+Colombia Producer Inflation Eases to 8-Month Low
+Colombia Exports Drop in May
+Colombia Manufacturing PMI Slips in June
+Colombia Holds Rate at 9.25%
+Colombia Jobless Rate Falls to 9% in May
+S&P and Moody’s Downgrade Colombia’s Ratings
+Colombia Industrial Confidence Hits 20-Month High
+Colombia Trade Deficit Increases for 2nd Time
+Colombia Imports Dip After Nine-Month Rise
+Colombia Economic Activity Slows in April
+Latest
+Vietnam Industrial Output Growth at 4-Month High
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+#sidebar {padding-left: 2px; padding-right: 2px;}  #sidebar .accordion-header{border-radius: 0;}
+Colombia
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Minimum Wages
+Population
+Unemployed Persons
+Unemployment Rate
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+PPI YoY
+Producer Prices
+Money
+Central Bank Balance Sheet
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interbank Rate
+Interest Rate
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Trade
+Balance of Trade
+Capital Flows
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+Exports YoY
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Imports YoY
+Remittances
+Terms of Trade
+Terrorism Index
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Expenditure
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Business Confidence
+Capacity Utilization
+Car Registrations
+Cement Production YoY
+Industrial Production Mom
+Industrial Production YoY
+ISE Economic Activity YoY
+Total Vehicle Sales
+Consumer
+Consumer Confidence
+Consumer Credit
+Consumer Spending
+Gasoline Prices
+Households Debt to GDP
+Private Sector Credit
+Retail Sales MoM
+Retail Sales YoY
+Housing
+Housing Index
+Price to Rent Ratio
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Health
+Hospital Beds
+Climate
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+Indicators
+Homepage
+Countries
+Indicators
+Calendar
+Forecasts
+Ratings
+Solutions
+Data Subscriptions
+API Access
+Excel Add-In
+Developer Account
+Documentation
+Pricing
+About Us
+Customers
+Careers
+Investors
+Advertisers
+About us
+Privacy
+English
+Español
+Português
+Français
+Deutsch
+Italiano
+Polski
+Indonesian
+Русский
+Türkçe
+Farsi
+العربية
+简体中文
+日本語
+한국어
+Copyright ©2025 TRADING ECONOMICS
+All Rights Reserved
+×

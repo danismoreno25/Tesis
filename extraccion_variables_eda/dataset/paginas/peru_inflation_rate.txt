@@ -1,0 +1,730 @@
+var TEChartSettings = '{"type":"column", "labels":true, "span":"1Y"}'; console.log('TEChartSettings:', TEChartSettings);
+var isCopyright = false;
+var TESymbol = 'PRCPYOY'; console.log('TESymbol:', TESymbol);var TELanguage = ''; console.log('TELanguage:', TELanguage);TELastUpdate = '202507020016'; console.log('TELastUpdate:', TELastUpdate);TEChart = 'EC'; console.log('TEChart:', TEChart);var TEAlertsName= 'Peru Inflation Rate'; console.log('TEAlertsName:', TEAlertsName);
+TEChartUrl = 'https://d3fy651gv2fhd3.cloudfront.net/charts/peru-inflation-cpi.png?s=prcpyoy&v=202507020016V20230410';TECountry = 'Peru';TECategory = 'Inflation Rate';TEType = 'te';TEFrequency = 'Monthly';TEForecast =   [1.80,2.00,2.10,2.20];
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Indicators
+Countries
+Forecasts
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Countries
+Indicators
+Members
+DATA PLANS
+Download historical data for 20 million indicators using your browser.
+Subscription Plans
+|
+Features
+API GATEWAY
+Direct access to our data from your apps using any programing language.
+Features
+|
+Docs
+|
+Developer
+Already a user?
+Login
+.form-switch {
+        width: 3.5em !important;
+        height: 2em !important
+    }
+    .bi-sun-fill {
+        font-size: 12px;
+        color: #ddd !important;
+    }
+    .bi-moon-fill {
+        font-size: 10px;
+        color: #333 !important;
+    }
+    .darkmode-toggle-container {
+        width: auto;
+        padding: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+    }
+    .form-check-div-sun {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: -54px;
+        position: relative
+    }
+    .form-check-div-moon {
+        width: 20px;
+        margin-bottom: 3px;
+        margin-left: 3px;
+        position: relative
+    }
+    .dk-switch-right-menu{
+        padding-left:10px;
+    }
+function SetTheme(isDark) {
+        console.log('Changing theme', isDark);
+        if (IsDarkMode != isDark) {
+            IsDarkMode = isDark;
+            document.body.classList.toggle("dark-theme");
+            // Set cookie
+            const d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = "IsDarkMode" + "=" + IsDarkMode + ";" + expires + ";path=/";
+            IsDarkMode ? ga('event', 'te_darkmode_on') : ga('event', 'te_darkmode_off');
+            window.location.reload();
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        let checkbox = document.getElementById("flexSwitchCheckChecked");
+        let sundiv = document.getElementsByClassName("form-check-label-sun")[0];
+        let moondiv = document.getElementsByClassName("form-check-label-moon")[0];
+
+        if (IsDarkMode) {
+            sundiv.classList.add("d-none");
+            moondiv.classList.remove("d-none");
+        } else {
+            moondiv.classList.add("d-none");
+            sundiv.classList.remove("d-none");
+        }
+        checkbox.checked = IsDarkMode;
+    });
+
+
+
+    document.getElementById("flexSwitchCheckChecked").addEventListener("change", function () {
+        SetTheme(!IsDarkMode)
+    });
+Calendar
+News
+Markets
+Commodities
+Indexes
+Shares
+Currencies
+Crypto
+Bonds
+Earnings
+Holidays
+Countries
+United States
+United Kingdom
+Euro Area
+Australia
+Canada
+Japan
+China
+Brazil
+Russia
+India
+More Countries
+Indicators
+Interest Rate
+Inflation Rate
+Unemployment Rate
+GDP Growth
+GDP per Capita
+Current Account
+Gold Reserves
+Government Debt
+Crude Oil Production
+Gasoline Prices
+Credit Rating
+More Indicators
+Forecasts
+Markets & Indicators
+Countries
+Countries
+Indicators
+Commodities
+Indexes
+Currencies
+Crypto
+Bonds
+Solutions
+Data Subscriptions
+API Access
+Pricing
+Apps
+App Store
+Google Play
+Twitter
+About
+Customers
+Investors
+Careers
+About us
+Contact
+document.addEventListener('DOMContentLoaded', function () {
+        let accordionHeaders = document.querySelectorAll('.menu-main-option');
+
+        accordionHeaders.forEach(function (header) {
+            header.addEventListener('click', function () {
+                let caretIcon = header.querySelector('.caret-toggle');
+
+                let allCaretIcons = document.querySelectorAll('.menu-main-option .caret-toggle');
+
+                allCaretIcons.forEach(function (icon) {
+                    if (icon !== caretIcon) {
+                        icon.classList.remove('bi-caret-up-fill');
+                        icon.classList.add('bi-caret-down-fill');
+                    }
+                });
+                caretIcon.classList.toggle('bi-caret-down-fill');
+                caretIcon.classList.toggle('bi-caret-up-fill');
+            });
+        });
+    });
+body {padding-top: 140px;}.pagemenu {top: 50px;}.pagetabs {top: 90px;}.navbar-default .navbar-nav>.active>a{ background-color: whitesmoke;} .navbar .navbar-expand-lg>.active, .navbar .navbar-expand-lg>.active>a{background-color: #f5f5f5;} .navbar .navbar-expand-lg>li:hover, .navbar .navbar-expand-lg>li:hover>a{background-color: #fff;} .nav-link:focus{color: #000;}
+.title-notes {padding-left: 10px;font-size: 80%;padding-top: 3px;font-weight:lighter;}
+Peru Inflation Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+.te-title-footer {border: 1px solid #dddd;padding:10px; background-color: #f5f5f5;font-size: 16px;}.te-description-footer {border: 1px solid #dddd;padding:20px; margin-top: 20px;}
+The annual inflation rate in Peru’s capital, Lima, stood at 1.69% in June 2025, unchanged from May’s four-month high, with food prices rising the most in 15 months (1.49% vs 1.35% in May). However, the latest reading remained within the Peruvian central bank’s target range of 1% to 3%. Inflation also accelerated for recreation and culture (2.96% vs 2.92%) and restaurants and hotels (2.84% vs 2.79%). Meanwhile, inflation moderated for housing and utilities (0.45% vs 0.68%), transport (0.13% vs 0.95%), education (4.07% vs 4.12%), and miscellaneous goods and services (2.61% vs 2.66%). On a monthly basis, consumer prices increased by 1.30% in June, recovering from a 0.06% decline in the previous month.
+source:
+Instituto Nacional de Estadística e Informática (INEI)
+Inflation Rate in Peru remained unchanged at 1.69 percent in June.  Inflation Rate in Peru averaged 244.69 percent from 1970 until 2025, reaching an all time high of 12377.32 percent in August of 1990 and a record low of -1.11 percent in February of 2002. This page provides - Peru Inflation Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Peru Inflation Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+Inflation Rate in Peru remained unchanged at 1.69 percent in June. Inflation Rate in Peru is expected to be 1.80 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Peru Inflation Rate is projected to trend around 2.00 percent in 2026, according to our econometric models.
+.chart-link {cursor: pointer; }.te-chart {border: solid 1px #f5f5f5;} .te-chart-nav { padding: 10px 0px; background-color: #f5f5f5;border: solid 1px #ddd;}
+.ad-container {margin-top: 10px;margin-bottom: 10px;min-height: 90px;min-width: 250px; }
+console.log("[GPT] AdManager Ad Above Chart");
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-06-01
+08:00 AM
+Inflation Rate YoY
+May
+1.69%
+1.65%
+2025-07-01
+07:30 AM
+Inflation Rate YoY
+Jun
+1.70%
+1.69%
+1.7%
+2025-08-01
+08:00 AM
+Inflation Rate YoY
+Jul
+1.69%
+hasCalendar = true;
+.ad-container-btf {margin-top: 10px; margin-bottom: 10px; min-height: 90px;min-width: 250px;}
+console.log("[GPT] AdManager Ad Below Chart");
+Related
+Last
+Previous
+Unit
+Reference
+Consumer Price Index CPI
+115.66
+115.51
+points
+Jun 2025
+Core Consumer Prices
+115.58
+115.42
+points
+May 2025
+Core Inflation Rate
+2.28
+2.30
+percent
+May 2025
+CPI Housing Utilities
+104.15
+104.03
+points
+Jun 2025
+CPI Transportation
+113.13
+113.20
+points
+Jun 2025
+Inflation Rate YoY
+1.69
+1.69
+percent
+Jun 2025
+Inflation Rate MoM
+0.13
+-0.06
+percent
+Jun 2025
+Producer Prices
+130.21
+130.73
+points
+May 2025
+#item_definition {border-bottom:none}
+    #item_definition > .card-body{text-align:justify}
+Peru Inflation Rate
+In Peru, the most important categories in the CPI baskets are Food & Non-alcoholic Beverages (24% of the total weight); Restaurants & Hotels (16%); Transportation (12%). Housing, Water, Electricity & Other Fuels account for 10% and Education for 8%. Others include: Miscellaneous Goods & Services (7%), Furniture & Household Equipment & Conservation (5%), Clothing & Footwear (5%), Leisure & Culture (4%) and Alcoholic Beverages, Narcotics and Tobacco (2%). The index has a base of 100 as of 2021. The index tracks the metropolitan area of Lima.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+1.69
+1.69
+12377.32
+-1.11
+1970 - 2025
+percent
+Monthly
+2001=100
+Compare
+Inflation Rate by Country
+body.dark-theme .indc_news_stream a:hover{
+        text-decoration:underline;
+    }
+News Stream
+Peru Inflation Rate Stays at 4-Month High
+The annual inflation rate in Peru’s capital, Lima, stood at 1.69% in June 2025, unchanged from May’s four-month high, with food prices rising the most in 15 months (1.49% vs 1.35% in May). However, the latest reading remained within the Peruvian central bank’s target range of 1% to 3%. Inflation also accelerated for recreation and culture (2.96% vs 2.92%) and restaurants and hotels (2.84% vs 2.79%). Meanwhile, inflation moderated for housing and utilities (0.45% vs 0.68%), transport (0.13% vs 0.95%), education (4.07% vs 4.12%), and miscellaneous goods and services (2.61% vs 2.66%). On a monthly basis, consumer prices increased by 1.30% in June, recovering from a 0.06% decline in the previous month.
+2025-07-01
+Peru Inflation Rate at 4-Month High
+The annual inflation rate in Peru's capital, Lima, rose to 1.69% in May 2025 from 1.65% in April. This marked the highest reading since January, as prices accelerated for food & non-alcoholic beverages (1.35% vs 0.97% in April), recreation & culture (2.92% vs 2.90%), restaurants and hotels (2.79% vs 2.73%), and miscellaneous goods & services (2.66% vs 2.57%). Meanwhile, prices eased for housing and utilities (0.68% vs. 0.62%), transport (0.37% vs. 0.95%), and education (4.12% vs. 4.26%). On a monthly basis, consumer prices fell by 0.06% in May, reversing from a 0.32% rise in the previous month.
+2025-06-02
+Peru Inflation Rate Quickens in April
+The annual inflation rate in Peru's capital, Lima, rose to 1.65% in April 2025, from a 6-1/2-year low of 1.28% in March, marking the first acceleration in five months. Still, the April figure remained within the central bank’s target range of 1-3% for the 13th month in a row. Main upward pressure came from prices of food & non-alcoholic beverages (0.97% vs -0.82% in March); recreation & culture (2.90% vs 2.77%) and miscellaneous goods & services (2.57% vs 2.53%). On a monthly basis, consumer prices increased by 0.32% in April, slowing from a 0.81% rise in the previous month.
+2025-05-01
+{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 0,"item": {"@id": "https://tradingeconomics.com","name": "tradingeconomics.com"}},{"@type": "ListItem","position": 1,"item": {"@id": "https://tradingeconomics.com/peru/indicators","name": "Peru"}},{"@type": "ListItem","position": 2,"item": {"@id": "/peru/inflation-cpi","name": "Inflation Rate"}}]}
+.news-link {padding-bottom: 5px;}
+Related
+Peru Inflation Rate Stays at 4-Month High
+Peru Economic Activity Growth Slows in April
+Peru Trade Surplus Widens in April
+Peru Leaves Rates on Hold
+Peru GDP Annual Growth Rate Eases to 3.9% in Q1
+Fitch Affirms Peru's Investment-Grade Rating, Raises Its Outlook to Stable
+Peruvian Peso Shows Resilience
+Peru Jobless Rate Falls to 7.2%
+Peru Equities Dip 1.4% As Economic Activity Disappoints
+Peru Reports Budget Gap of 2.1% of GDP
+Latest
+Vietnam Industrial Output Growth at 4-Month High
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+#sidebar {padding-left: 2px; padding-right: 2px;}  #sidebar .accordion-header{border-radius: 0;}
+Peru
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Employment Rate
+Minimum Wages
+Population
+Unemployed Persons
+Unemployment Rate
+Wages
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+Producer Prices
+Money
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interest Rate
+Loans to Private Sector
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Trade
+Balance of Trade
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Remittances
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Expenditure
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Business Confidence
+Changes in Inventories
+Copper Production
+Gold Production
+Industrial Production
+Leading Economic Index
+Consumer
+Bank Lending Rate
+Consumer Credit
+Consumer Spending
+Gasoline Prices
+Private Sector Credit
+Housing
+Residential Property Prices
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Withholding Tax Rate
+Climate
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+Indicators
+Homepage
+Countries
+Indicators
+Calendar
+Forecasts
+Ratings
+Solutions
+Data Subscriptions
+API Access
+Excel Add-In
+Developer Account
+Documentation
+Pricing
+About Us
+Customers
+Careers
+Investors
+Advertisers
+About us
+Privacy
+English
+Español
+Português
+Français
+Deutsch
+Italiano
+Polski
+Indonesian
+Русский
+Türkçe
+Farsi
+العربية
+简体中文
+日本語
+한국어
+Copyright ©2025 TRADING ECONOMICS
+All Rights Reserved
+×
