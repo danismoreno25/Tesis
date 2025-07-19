@@ -1,0 +1,487 @@
+Argentina Producer Prices
+Summary
+Forecast
+Download
+Producer Prices in Argentina decreased to 11580.15 points in May from 11603.08 points in April of 2025. Producer Prices in Argentina averaged 404.88 points from 1956 until 2025, reaching an all time high of 11603.08 points in April of 2025 and a record low of 0.00 points in February of 1956.
+source:
+Instituto Nacional de Estadística y Censos (INDEC)
+Producer Prices in Argentina is expected to be 12251.00 points by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Argentina Producer Prices is projected to trend around 13109.00 points in 2026 and 13634.00 points in 2027, according to our econometric models.
+Related
+Last
+Previous
+Unit
+Reference
+Consumer Price Index CPI
+8714.49
+8585.61
+points
+May 2025
+Core Consumer Prices
+8957.79
+8765.20
+points
+May 2025
+Core Inflation Rate
+44.70
+46.90
+percent
+May 2025
+CPI Housing Utilities
+8641.55
+8435.10
+points
+May 2025
+CPI Transportation
+8676.00
+8644.56
+points
+May 2025
+Export Prices
+185.60
+181.70
+points
+Mar 2025
+Food Inflation
+35.50
+41.40
+percent
+May 2025
+GDP Deflator
+99642.50
+89694.40
+points
+Dec 2024
+Import Prices
+124.90
+127.90
+points
+Mar 2025
+Inflation Rate YoY
+43.50
+47.30
+percent
+May 2025
+Inflation Rate MoM
+1.50
+2.80
+percent
+May 2025
+Producer Prices
+11580.15
+11603.08
+points
+May 2025
+Producer Prices Change
+22.20
+27.60
+percent
+May 2025
+Argentina Producer Prices
+In Argentina, the Producer Price Index measures the average change in price of goods and services sold by manufacturers and producers in the wholesale market during a given period.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+11580.15
+11603.08
+11603.08
+0.00
+1956 - 2025
+points
+Monthly
+NSA
+Compare
+Producer Prices by Country
+Related
+Argentina Posts Largest Current Account Gap Since Q3 2023
+Argentina GDP Grows Less Than Expected in Q1
+Argentina Trade Surplus Shrinks in May
+Argentina Jobless Rate Rises to 2021 Highs
+Argentina Consumer Morale Holds Steady in June
+Argentina Retail Sales Growth Eases in April
+Argentina Inflation Hits Five-Year Low
+Argentine Industry Has 5th Month of Growth
+Argentina Economic Activity Expands for 5th Month
+Argentine Peso Hits Fresh Record Low
+Latest
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+Colombia Exports Drop in May
+Argentina
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Stock Market
+GDP
+Economic Activity YoY
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Minimum Wages
+Population
+Unemployed Persons
+Unemployment Rate
+Wage Growth MoM
+Wages
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+GDP Deflator
+Import Prices
+Inflation Expectations
+Inflation Rate MoM
+Inflation Rate YoY
+Producer Price Inflation MoM
+Producer Prices
+Producer Prices Change
+Money
+Central Bank Balance Sheet
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interbank Rate
+Interest Rate
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Trade
+Balance of Trade
+Capital Flows
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Tax Revenue
+Business
+Capacity Utilization
+Car Production
+Car Registrations
+Changes in Inventories
+Industrial Production Mom
+Industrial Production YoY
+Leading Indicator MoM
+Consumer
+Consumer Confidence
+Consumer Spending
+Gasoline Prices
+Households Debt to GDP
+Retail Sales YoY
+Housing
+Building Permits
+Construction Output
+Housing Index
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Climate
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+×

@@ -47,4 +47,4 @@ class EstaticoSpider(scrapy.Spider):
         with open(ruta_guardado, "w", encoding="utf-8") as f:
             f.write(texto_final)
 
-        self.logger.info(f"✅ Guardado: {ruta_guardado}")
+        self.logger.info(f"Guardado: {ruta_guardado}")

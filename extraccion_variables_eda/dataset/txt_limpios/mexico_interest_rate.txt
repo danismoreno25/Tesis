@@ -1,0 +1,561 @@
+Mexico Interest Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+The Bank of Mexico lowered its key rate by 50 bps to 8.00% on June 26th, as annual inflation increased to 4.51% by mid-June and the domestic economy expanded moderately in April, though slack persists. The release indicated that the Board could continue calibrating similar 50 bps cuts, anticipating that the disinflation process will allow a further easing cycle while maintaining a restrictive stance. However, the central bank remains cautious amid elevated global uncertainty—ranging from trade tensions to geopolitical conflicts—that could reignite inflation via peso depreciation or deepen the economic slowdown. While progress toward the 3% inflation target is on track, with forecasts pointing to convergence by the third quarter of 2026, members underscored the importance of a flexible policy framework to manage inflation expectations and preserve financial stability, particularly given the peso’s recent appreciation.
+source:
+Banco de México
+The benchmark interest rate in Mexico was last recorded at 8 percent.  Interest Rate in Mexico averaged 6.34 percent from 2005 until 2025, reaching an all time high of 11.25 percent in March of 2023 and a record low of 3.00 percent in June of 2014. This page provides - Mexico Interest Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Mexico Interest Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+The benchmark interest rate in Mexico was last recorded at 8 percent. Interest Rate in Mexico is expected to be 8.50 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Mexico Interest Rate is projected to trend around 5.00 percent in 2026, according to our econometric models.
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-03-27
+07:00 PM
+Interest Rate Decision
+9%
+9.5%
+9%
+9.00%
+2025-05-15
+07:00 PM
+Interest Rate Decision
+8.5%
+9%
+8.5%
+8.5%
+2025-06-26
+07:00 PM
+Interest Rate Decision
+8%
+8.5%
+8%
+8.0%
+2025-08-07
+07:00 PM
+Interest Rate Decision
+8%
+7.5%
+2025-09-25
+07:00 PM
+Interest Rate Decision
+2025-11-06
+07:00 PM
+Interest Rate Decision
+Related
+Last
+Previous
+Unit
+Reference
+Banks Balance Sheet
+12689105.00
+12565182.00
+MXN Million
+May 2025
+Central Bank Balance Sheet
+5347945634.00
+5438188443.00
+MXN Thousand
+May 2025
+Foreign Exchange Reserves
+239981.60
+239718.00
+USD Million
+May 2025
+Interbank Rate
+8.74
+9.05
+percent
+Jun 2025
+Interest Rate
+8.00
+8.50
+percent
+Jun 2025
+Loans to Private Sector
+3805030650.00
+3759405997.00
+MXN Thousand
+May 2025
+Money Supply M0
+3283652.40
+3244717.20
+MXN Million
+May 2025
+Money Supply M1
+8081459414.49
+8013810171.49
+MXN Thousand
+May 2025
+Money Supply M2
+15763702511.00
+15541382322.00
+MXN Thousand
+May 2025
+Money Supply M3
+18813043867.61
+18558162799.90
+MXN Thousand
+May 2025
+Mexico Interest Rate
+In Mexico, interest rate decisions are taken by the Bank of Mexico (Banco de México). Starting January of 2008, Banco de México has adopted as an operating target the overnight interbank rate (tasa de fondeo bancario) instead of the level of commercial banks’ current account balances at the central bank (corto).
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+8.00
+8.50
+11.25
+3.00
+2005 - 2025
+percent
+Daily
+Compare
+Interest Rate by Country
+News Stream
+Banxico Cuts Interest Rate to 8%, as Expected
+The Bank of Mexico lowered its key rate by 50 bps to 8.00% on June 26th, as annual inflation increased to 4.51% by mid-June and the domestic economy expanded moderately in April, though slack persists. The release indicated that the Board could continue calibrating similar 50 bps cuts, anticipating that the disinflation process will allow a further easing cycle while maintaining a restrictive stance. However, the central bank remains cautious amid elevated global uncertainty—ranging from trade tensions to geopolitical conflicts—that could reignite inflation via peso depreciation or deepen the economic slowdown. While progress toward the 3% inflation target is on track, with forecasts pointing to convergence by the third quarter of 2026, members underscored the importance of a flexible policy framework to manage inflation expectations and preserve financial stability, particularly given the peso’s recent appreciation.
+2025-06-26
+Banxico Lowers Interest Rate by 50bps, as Expected
+The Bank of Mexico lowered its key rate by 50 bps to 8.50% on May 15th, as annual inflation eased to 3.93% in April and the domestic economy registered a modest 0.2% quarter-on-quarter expansion after earlier weakness. The release indicated that the Board could continue calibrating similar 50 bps cuts, anticipating that the disinflation process will allow a further easing cycle while maintaining a restrictive stance. However, the central bank remains cautious amid elevated global uncertainty—ranging from US trade tensions to geopolitical conflicts—that could either reignite inflation via peso depreciation or deepen the economic slowdown. While progress towards the 3% inflation target is on track, with forecasts pointing to convergence by the third quarter of 2026, members underscored the importance of a flexible policy framework to manage inflation expectations and preserve financial stability, particularly given the peso’s recent appreciation.
+2025-05-15
+Banxico Cuts Rate to 9.0%, Signals Further Easing
+Banxico, as the Mexican central bank is known, lowered its key rate by half a percentage point to 9.00% in a decision announced on March 27, as inflation eased further and amid signs of continued economic weakness early this year. The release revealed that several board members now foresee a similar 50bps reduction at the May 9 meeting if disinflation persists, signaling a potential continuation of the easing cycle. However, the central bank remains cautious amid significant global uncertainties, notably escalating trade tensions and broader geopolitical risks that could either fuel inflation through currency depreciation or dampen growth due to increased economic slack. While progress towards the 3% inflation target has been notable, members stressed the importance of a flexible policy framework, one that allows for gradual adjustments in a "new stage" of monetary policy without jeopardizing financial stability, particularly given the current rate differential with the US Fed.
+2025-03-27
+Related
+Mexican Peso Strengthens to August 2024 Highs
+Mexico Consumer Confidence Edges Down
+Mexico Investment Falls Most Since 2020
+Mexico Factory Activity Declines for 12th Month
+Mexico Manufacturing Sector Signals Ongoing Pessimism in June
+Mexico Unemployment Rate Inches Up in May
+Banxico Cuts Interest Rate to 8%, as Expected
+Mexico Trade Surplus Narrows in May
+Mexico Retail Sales Fall in April
+Mexico Economic Activity Contracts Sharply in April
+Latest
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+Colombia Exports Drop in May
+Mexico
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Aggregate Demand
+Aggregate Demand YoY
+Economic Activity MoM
+Economic Activity YoY
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Labour Costs
+Minimum Wages
+Population
+Productivity
+Retirement Age Men
+Retirement Age Women
+Unemployed Persons
+Unemployment Rate
+Wages
+Wages in Manufacturing
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate MoM
+Core Inflation Rate YoY
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+GDP Deflator
+Import Prices
+Inflation Expectations
+Inflation Rate MoM
+Inflation Rate YoY
+Mid-month Core Inflation Rate MoM
+Mid-month Core Inflation Rate YoY
+Mid-month Inflation Rate MoM
+Mid-month Inflation Rate YoY
+Producer Price Inflation MoM
+Producer Prices
+Producer Prices Change
+Money
+Banks Balance Sheet
+Central Bank Balance Sheet
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interbank Rate
+Interest Rate
+Loans to Private Sector
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Private Debt to GDP
+Trade
+Auto Exports YoY
+Balance of Trade
+Capital Flows
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Non Oil Exports
+Oil Exports
+Remittances
+Terms of Trade
+Terrorism Index
+Tourism Revenues
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Balance
+Fiscal Expenditure
+Government Budget
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Auto Production YoY
+Business Confidence
+Capacity Utilization
+Car Registrations
+Changes in Inventories
+Composite Leading Indicator
+Gold Production
+Gross Fixed Investment YoY
+Industrial Production  MoM
+Industrial Production YoY
+Manufacturing Production
+Mining Production
+Total Vehicle Sales
+Consumer
+Consumer Confidence
+Consumer Credit
+Gasoline Prices
+Households Debt to GDP
+Personal Savings
+Private Sector Credit
+Private Spending
+Retail Sales MoM
+Retail Sales YoY
+Housing
+Construction Output
+Price to Rent Ratio
+Residential Property Prices
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Energy
+Crude Oil Rigs
+Health
+Hospital Beds
+Hospitals
+Climate
+CO2 Emissions
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+×

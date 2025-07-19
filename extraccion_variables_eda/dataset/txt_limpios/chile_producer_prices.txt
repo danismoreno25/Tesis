@@ -1,0 +1,486 @@
+Chile Producer Prices
+Summary
+Forecast
+Download
+Producer Prices in Chile increased to 179.38 points in May from 178.60 points in April of 2025. Producer Prices in Chile averaged 116.95 points from 2012 until 2025, reaching an all time high of 180.98 points in January of 2025 and a record low of 82.41 points in January of 2016.
+source:
+National Institute of Statistics, Chile
+Producer Prices in Chile is expected to be 178.40 points by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Chile Producer Prices is projected to trend around 197.74 points in 2026 and 206.64 points in 2027, according to our econometric models.
+Related
+Last
+Previous
+Unit
+Reference
+Consumer Price Index CPI
+108.12
+107.91
+points
+May 2025
+Core Consumer Prices
+106.82
+106.53
+points
+May 2025
+Core Inflation Rate
+3.70
+3.70
+percent
+May 2025
+Core Inflation Rate MoM
+0.30
+0.40
+percent
+May 2025
+CPI Transportation
+102.62
+102.57
+points
+May 2025
+Food Inflation
+4.60
+4.40
+percent
+May 2025
+Inflation Rate YoY
+4.40
+4.50
+percent
+May 2025
+Inflation Rate MoM
+0.20
+0.20
+percent
+May 2025
+Producer Prices
+179.38
+178.60
+points
+May 2025
+PPI YoY
+1.60
+1.90
+percent
+May 2025
+Chile Producer Prices
+In Chile, the Producer Price Index measures the average change in price of goods and services sold by manufacturers and producers in the wholesale market during a given period.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+179.38
+178.60
+180.98
+82.41
+2012 - 2025
+points
+Monthly
+2019=100, NSA
+Compare
+Producer Prices by Country
+Related
+Chile Economic Activity Grows 3.2% in May
+Chile Industrial Output Rises 4.6% in May
+Chile Jobless Rate Hits 8.9% in March-May, Matches Forecasts
+Chile Retail Sales Accelerate in May
+Chile Producer Inflation Slows to 16-Month Low in May
+Chile Keeps Interest Rate on Hold
+Chile Trade Surplus Narrows Slightly
+Chile Inflation Rate Slows for 2nd Month
+Chile Q1 GDP Growth Slightly Beats Forecasts
+Chile Current Account Surplus Shrinks in Q1
+Latest
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+Colombia Exports Drop in May
+Chile
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Gross National Product
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Minimum Wages
+Population
+Retirement Age Men
+Retirement Age Women
+Unemployed Persons
+Unemployment Rate
+Wages
+Wages in Manufacturing
+Prices
+Consumer Price Index CPI
+Core Consumer Prices
+Core Inflation Rate
+Core Inflation Rate MoM
+CPI Transportation
+Export Prices
+Food Inflation
+GDP Deflator
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+PPI YoY
+Producer Prices
+Money
+Banks Balance Sheet
+Central Bank Balance Sheet
+Deposit Interest Rate
+Foreign Exchange Reserves
+Interbank Rate
+Interest Rate
+Loans to Private Sector
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Private Debt to GDP
+Trade
+Balance of Trade
+Capital Flows
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Fiscal Expenditure
+Government Budget
+Government Budget Value
+Government Debt to GDP
+Government Revenues
+Government Spending
+Holidays
+Military Expenditure
+Business
+Business Confidence
+Changes in Inventories
+Copper Production YoY
+IMACEC Economic Activity YoY
+Industrial Production Mom
+Industrial Production YoY
+Manufacturing Production YoY
+Mining Production
+Total Vehicle Sales
+Consumer
+Bank Lending Rate
+Consumer Confidence
+Consumer Credit
+Consumer Spending
+Gasoline Prices
+Households Debt to GDP
+Private Sector Credit
+Retail Sales MoM
+Retail Sales YoY
+Housing
+Building Permits
+House Price Index MoM
+House Price Index YoY
+Housing Index
+Price to Rent Ratio
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Health
+Hospital Beds
+Hospitals
+Climate
+CO2 Emissions
+Precipitation
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+×

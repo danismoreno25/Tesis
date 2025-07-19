@@ -14,7 +14,7 @@ def scraping_guardar_dinamico_txt():
 
     # Leer URLs dinámicas
     if not urls_path.exists():
-        print("❌ El archivo de URLs dinámicas no existe.")
+        print("El archivo de URLs dinámicas no existe.")
         return
 
     with open(urls_path, "r", encoding="utf-8") as f:
@@ -55,9 +55,9 @@ def scraping_guardar_dinamico_txt():
 
             with open(output_dir / nombre_archivo, "w", encoding="utf-8") as f:
                 f.write(html)
-            print(f"✅ Guardado: {nombre_archivo}")
+            print(f"Guardado: {nombre_archivo}")
         except Exception as e:
-            print(f"❌ Error con {url}: {e}")
+            print(f"Error con {url}: {e}")
 
     driver.quit()
 

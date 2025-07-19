@@ -1,0 +1,538 @@
+Brazil Interest Rate
+Summary
+Stats
+Forecast
+Calendar
+Alerts
+Download
+The Central Bank of Brazil hiked its Selic rate by 25bps to 15% at its June meeting, citing persistent inflation and unanchored expectations. The Board highlighted a highly uncertain external environment, driven by US trade and fiscal policies and volatile global financial markets, which continue to weigh on emerging economies. Domestically, while economic activity and the labor market remain resilient, recent data show headline and core inflation above target, with expectations for 2025 and 2026 also exceeding the goal. Copom’s projection for 2026 inflation stands at 3.6%, reflecting ongoing inflationary risks, including strong services inflation, policy-driven exchange rate pressures, and unanchored long-term expectations. The committee signaled this may be the last hike in the current cycle, pending a reassessment of the lagging effects of past tightening. However, Copom emphasized its readiness to adjust policy further if inflation does not converge toward target.
+source:
+Banco Central do Brasil
+The benchmark interest rate in Brazil was last recorded at 15 percent.  Interest Rate in Brazil averaged 13.83 percent from 1999 until 2025, reaching an all time high of 45.00 percent in March of 1999 and a record low of 2.00 percent in August of 2020. This page provides - Brazil Interest Rate - actual values, historical data, forecast, chart, statistics, economic calendar and news. Brazil Interest Rate - data, historical chart, forecasts and calendar of releases - was last updated on  July of 2025.
+The benchmark interest rate in Brazil was last recorded at 15 percent. Interest Rate in Brazil is expected to be 15.00 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations. In the long-term, the Brazil Interest Rate is projected to trend around 13.75 percent in 2026 and 11.00 percent in 2027, according to our econometric models.
+Calendar
+GMT
+Reference
+Actual
+Previous
+Consensus
+TEForecast
+2025-03-19
+10:30 PM
+Interest Rate Decision
+14.25%
+13.25%
+14.25%
+14.25%
+2025-05-07
+09:30 PM
+Interest Rate Decision
+14.75%
+14.25%
+14.75%
+14.75%
+2025-06-18
+09:30 PM
+Interest Rate Decision
+15%
+14.75%
+14.75%
+14.75%
+2025-07-07
+11:30 AM
+BCB Focus Market Readout
+2025-07-14
+11:30 AM
+BCB Focus Market Readout
+2025-07-21
+11:30 AM
+BCB Focus Market Readout
+Related
+Last
+Previous
+Unit
+Reference
+Cash Reserve Ratio
+21.00
+21.00
+percent
+Jun 2025
+Foreign Exchange Reserves
+343951.60
+341459.40
+USD Million
+Jun 2025
+BCB Selic Rate
+15.00
+14.75
+percent
+Jun 2025
+Bank Lending MoM
+0.60
+0.70
+percent
+May 2025
+Loans to Private Sector
+937200.00
+917700.00
+BRL Million
+Apr 2025
+Money Supply M0
+452083.27
+435064.40
+BRL Million
+May 2025
+Money Supply M1
+641181.14
+628309.56
+BRL Million
+May 2025
+Money Supply M2
+6854638.00
+6765154.00
+BRL Million
+May 2025
+Money Supply M3
+12583466.00
+12427188.00
+BRL Million
+May 2025
+Brazil Interest Rate
+In Brazil, interest rate decisions are taken by The Central Bank of Brazil's Monetary Policy Committee (COPOM). The official interest rate is the Special System of Clearance and Custody rate (SELIC) which is the overnight lending rate.
+Actual
+Previous
+Highest
+Lowest
+Dates
+Unit
+Frequency
+15.00
+14.75
+45.00
+2.00
+1999 - 2025
+percent
+Daily
+Compare
+Interest Rate by Country
+News Stream
+Brazil Central Bank Raises Rate to 15%, Signals Possible Pause
+The Central Bank of Brazil hiked its Selic rate by 25bps to 15% at its June meeting, citing persistent inflation and unanchored expectations. The Board highlighted a highly uncertain external environment, driven by US trade and fiscal policies and volatile global financial markets, which continue to weigh on emerging economies. Domestically, while economic activity and the labor market remain resilient, recent data show headline and core inflation above target, with expectations for 2025 and 2026 also exceeding the goal. Copom’s projection for 2026 inflation stands at 3.6%, reflecting ongoing inflationary risks, including strong services inflation, policy-driven exchange rate pressures, and unanchored long-term expectations. The committee signaled this may be the last hike in the current cycle, pending a reassessment of the lagging effects of past tightening. However, Copom  emphasized its readiness to adjust policy further if inflation does not converge toward target.
+2025-06-18
+Brazil Raises Rate by 50 bps
+The Central Bank of Brazil raised its Selic rate by 50bps to 14.75% in May 2025, aiming to bring inflation closer to the target. While its primary goal is price stability, the decision also seeks to reduce economic fluctuations and support full employment. Economic activity and labor market indicators continue to show dynamism, though growth is moderating and both headline and underlying inflation remain above target. Market inflation forecasts for 2025 and 2026, as determined by the Focus survey, remain above the target at 5.5% and 4.5%, respectively, while Copom’s inflation projection for 2026 stands at 3.6% in the reference scenario. The Committee remains cautious and ready to adjust its policy as conditions evolve. The external environment remains adverse and particularly uncertain, especially due to US trade policy, which is fueling concerns about the magnitude of the global economic slowdown, heterogeneous effects on inflation and conduct of monetary policy.
+2025-05-07
+Brazil's Central Bank Hikes Selic by 100 bps to 14.25%
+The Central Bank of Brazil raised its Selic rate by 100 bps to 14.25% in March 2025, aiming to bring inflation closer to the target. While its primary goal is price stability, the decision also seeks to reduce economic fluctuations and support full employment. The external environment remains challenging, particularly due to uncertainty over US trade policy, which has raised concerns about economic slowdown, disinflation, and the Fed's stance. Central banks of major economies continue to focus on converging inflation rates to their targets despite labor market pressures. Domestically, economic and labor market indicators show dynamism, though growth is moderating. Inflation expectations for 2025 and 2026 have risen significantly to 5.7% and 4.5%, respectively. The Committee remains cautious and ready to adjust its policy as conditions evolve.
+2025-03-19
+Related
+Ibovespa Extends Record High
+Brazil Trade Surplus Falls Below Expectations
+Brazil Producer Prices Fall the Most since 2023
+Brazil Private Sector Contracts Further in June
+Brazil Services Activity Contracts for 3rd Month
+Brazilian Real Strengthens to 9-Month High
+Brazil Industrial Output Falls in May
+Brazil Manufacturing PMI Falls Close to Year-Low in June
+Brazil Nominal Deficit Narrows Less than Expected in May
+Brazil 10-Year Government Bond Yield at 13.83percent
+Latest
+Brunei Extends Economic Downturn in Q1
+Ibovespa Extends Record High
+TSX Closes Flat at Record High
+Colombia Producer Inflation Eases to 8-Month Low
+Brazil Trade Surplus Falls Below Expectations
+Mexican Peso Strengthens to August 2024 Highs
+European Stocks Close Lower
+FTSE MIB Pressured by Trade Uncertainty
+Ecuador Inflation Rate Hits 7-Month High
+Colombia Exports Drop in May
+Brazil
+United States
+United Kingdom
+Euro area
+China
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Asia and Pacific
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Euro area
+European Union
+Europe and Central Asia
+Faeroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Palestine
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Asia
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+Calendar
+Forecast
+Indicators
+News
+Markets
+Currency
+Government Bond 10Y
+Stock Market
+GDP
+Full Year GDP Growth
+GDP
+GDP Constant Prices
+GDP from Agriculture
+GDP from Construction
+GDP from Manufacturing
+GDP from Mining
+GDP from Public Administration
+GDP from Services
+GDP from Transport
+GDP from Utilities
+GDP Growth Rate
+GDP Growth Rate YoY
+GDP per Capita
+GDP per Capita PPP
+Gross Fixed Capital Formation
+Gross National Product
+Labour
+Employed Persons
+Employment Rate
+Labor Force Participation Rate
+Labour Costs
+Minimum Wages
+Net Payrolls
+Population
+Productivity
+Retirement Age Men
+Retirement Age Women
+Unemployed Persons
+Unemployment Rate
+Wages
+Wages in Manufacturing
+Prices
+Consumer Price Index CPI
+Core Inflation Rate
+CPI Housing Utilities
+CPI Transportation
+Export Prices
+Food Inflation
+GDP Deflator
+IGP-M Inflation MoM
+Import Prices
+Inflation Rate MoM
+Inflation Rate YoY
+IPCA mid-month CPI MoM
+IPCA mid-month CPI YoY
+IPC-Fipe Inflation MoM
+PPI MoM
+PPI YoY
+Producer Prices
+Money
+Bank Lending MoM
+BCB Selic Rate
+Cash Reserve Ratio
+Foreign Exchange Reserves
+Interbank Rate
+Loans to Private Sector
+Money Supply M0
+Money Supply M1
+Money Supply M2
+Money Supply M3
+Trade
+Balance of Trade
+Capital Flows
+Crude Oil Production
+Current Account
+Current Account to GDP
+Exports
+Exports by Category
+Exports by Country
+External Debt
+External Debt to GDP
+Foreign Direct Investment
+Gold Reserves
+Imports
+Imports by Category
+Imports by Country
+Remittances
+Terms of Trade
+Terrorism Index
+Tourist Arrivals
+Weapons Sales
+Government
+Corruption Index
+Corruption Rank
+Credit Rating
+Federal Tax Revenues
+Government Budget
+Government Debt
+Government Debt to GDP
+Government Spending
+Gross Debt to GDP
+Holidays
+Military Expenditure
+Nominal Budget Balance
+Business
+Business Confidence
+Capacity Utilization
+Car Production MoM
+Changes in Inventories
+Composite Leading Indicator
+IBC-BR Economic Activity
+Industrial Production MoM
+Industrial Production YoY
+Manufacturing Production
+Mining Production
+New Car Registrations MoM
+Small Business Sentiment
+Steel Production
+Total Vehicle Sales
+Consumer
+Bank Lending Rate
+Consumer Credit
+Consumer Spending
+FGV Consumer Confidence
+Gasoline Prices
+Households Debt to GDP
+Private Sector Credit
+Retail Sales MoM
+Retail Sales YoY
+Housing
+Housing Index
+Residential Property Prices
+Taxes
+Corporate Tax Rate
+Personal Income Tax Rate
+Sales Tax Rate
+Social Security Rate
+Social Security Rate For Companies
+Social Security Rate For Employees
+Withholding Tax Rate
+Climate
+Temperature
+More Indicators
+National Statistics
+World Bank
+TRADING ECONOMICS
+Subscriptions
+We have a plan for your needs. Standard users can export data in a easy to use web interface. Advanced users can use our excel add-in or our Python/R/Matlab packages. API users can feed a custom application.
+Economic Calendar
+Historical Data
+News Stream
+Earnings Releases
+Credit Ratings
+Forecasts
+Markets
+Currencies
+Stocks
+Commodities
+Bonds
+Crypto
+Get Started
+TRADING ECONOMICS
+We are Hiring
+We welcome candidates from around the world. Current job openings:
+Web Developer
+|
+Data Analyst
+|
+Sales
+Apply Now
+×
