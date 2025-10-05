@@ -85,3 +85,8 @@ def verificar_tipos_pagina(archivo_excel, columna_tipo='Tipo Pagina', hoja=0):
     except Exception as e:
         print(f"Error al verificar tipos de página: {e}")
         return None
+    
+
+
+if __name__ == "__main__":
+    extraccion_controller()
