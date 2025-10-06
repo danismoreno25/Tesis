@@ -1,0 +1,518 @@
+Valoramos tu privacidad
+En FRECUENTO utilizamos cookies propias y de terceros para analizar nuestros servicios y mostrarte publicidad relacionada con tus preferencias en base a un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas). Ver
+Política de cookies
+Personalizar
+Rechazar todo
+Aceptar todo
+Personalizar las preferencias de consentimiento
+Al aceptar las cookies acepta voluntariamente el tratamiento de sus datos. Esto también incluye, por un tiempo limitado, su consentimiento para el procesamiento de datos fuera de Ecuador. En estos países, a pesar de una cuidadosa selección y obligación de los proveedores de servicios, no se puede garantizar el alto de protección de datos.
+Necesarias
+Siempre activas
+Las cookies necesarias son cruciales para las funciones básicas del sitio web y el sitio web no funcionará de la forma prevista sin ellas.
+Estas cookies no almacenan ningún dato de identificación personal.
+Cookie
+visid_incap_*
+Duración
+1 año
+Descripción
+Incapsula sets this cookie to provide cloud-based website security services.
+Cookie
+incap_ses_*
+Duración
+sesión
+Descripción
+This is an Incapsula DDoS Protection and Web Application Firewall cookie that is used to relate HTTP requests to a certain session.
+Cookie
+cookieyes-consent
+Duración
+1 año
+Descripción
+CookieYes establece esta cookie para recordar las preferencias de consentimiento de los usuarios, de modo que se respeten sus preferencias en las siguientes visitas a este sitio. No recoge ni almacena ninguna información personal sobre los visitantes del sitio.
+Cookie
+opt_out
+Duración
+1 año
+Descripción
+This cookie is used for preventing the installation of third party advertiser or other cookies on the browser.
+Cookie
+gdpr
+Duración
+Caducada
+Descripción
+Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.
+Cookie
+_GRECAPTCHA
+Duración
+6 meses
+Descripción
+Un CAPTCHA te ayuda a protegerte del spam y del descifrado de contraseñas pidiéndote que completes una simple prueba que demuestre que eres humano y no un ordenador que intenta acceder a una cuenta protegida con contraseña.
+Cookie
+__cf_bm
+Duración
+1 hora
+Descripción
+Cloudflare establece la cookie para respaldar Cloudflare Bot Management.
+Cookie
+rc::a
+Duración
+Nunca caduca
+Descripción
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+rc::c
+Duración
+sesión
+Descripción
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+rc::f
+Duración
+Nunca caduca
+Descripción
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Cookie
+rc::b
+Duración
+sesión
+Descripción
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+Funcionales
+Las cookies funcionales ayudan a realizar ciertas funcionalidades, como compartir el contenido del sitio web en plataformas de redes sociales, recopilar comentarios y otras características de terceros.
+Cookie
+SnapABugRef
+Duración
+2 horas
+Descripción
+This cookie is set by the provider SnapEngage, a live chat software. This cookie is used for recording the landing page and origin of the visitor.
+Cookie
+SnapABugHistory
+Duración
+1 año
+Descripción
+This cookie is set by the provider SnapEngage, a live chat software. This cookie is used for identifying the visitor for enabling the history of engagement to be recorded.
+Cookie
+SnapABugUserAlias
+Duración
+1 año
+Descripción
+This cookie is set by the provider SnapEngage for the live chat functionality. This cookie is used for sending alias to chat agent and update the chat case.
+Cookie
+SnapABugVisit
+Duración
+sesión
+Descripción
+This cookie is set by the provider SnapEngage, a live chat software. This cookie is used for identifying a new user session.
+Analíticas
+Las cookies analíticas se utilizan para comprender cómo interactúan los visitantes con el sitio web. Estas cookies ayudan a proporcionar información sobre métricas el número de visitantes, el porcentaje de rebote, la fuente de tráfico, etc.
+Cookie
+___utmvc
+Duración
+Menos de un minuto
+Descripción
+The ___utmvc cookie is installed by Google Analytics to gather data on the user's site usage. This data is then used to compile reports and improve the site.
+Cookie
+_gcl_au
+Duración
+3 meses
+Descripción
+Google Tag Manager establece la cookie para experimentar la eficacia publicitaria de los sitios web que utilizan sus servicios.
+Cookie
+_ga
+Duración
+1 año 1 mes 4 días
+Descripción
+Google Analytics establece esta cookie para calcular los datos de los visitantes, de las sesiones y de las campañas y para hacer un seguimiento del uso del sitio para el informe de análisis del sitio. La cookie almacena la información de forma anónima y asigna un número generado aleatoriamente para reconocer a los visitantes únicos.
+Cookie
+_gid
+Duración
+1 día
+Descripción
+Google Analytics establece esta cookie para almacenar información sobre el uso que hacen los visitantes de un sitio web, al tiempo que crea un informe analítico sobre el rendimiento del sitio. Algunos de los datos recogidos incluyen el número de visitantes, su origen y las páginas que visitan de forma anónima.
+Cookie
+_gat_UA-*
+Duración
+1 minuto
+Descripción
+Google Analytics sets this cookie for user behaviour tracking.
+Cookie
+_ga_*
+Duración
+1 año 1 mes 4 días
+Descripción
+Google Analytics sets this cookie to store and count page views.
+Cookie
+uid
+Duración
+1 año 24 días
+Descripción
+Se trata de una cookie de UserID de Google que rastrea a los usuarios en varios segmentos del sitio web.
+Cookie
+_hjSessionUser_*
+Duración
+1 año
+Descripción
+Hotjar sets this cookie to ensure data from subsequent visits to the same site is attributed to the same user ID, which persists in the Hotjar User ID, which is unique to that site.
+Cookie
+_hjSession_*
+Duración
+1 hora
+Descripción
+Hotjar sets this cookie to ensure data from subsequent visits to the same site is attributed to the same user ID, which persists in the Hotjar User ID, which is unique to that site.
+Cookie
+_fbp
+Duración
+3 meses
+Descripción
+Facebook establece esta cookie para mostrar anuncios en Facebook o en una plataforma digital con publicidad de Facebook después de visitar el sitio web.
+Cookie
+demdex
+Duración
+6 meses
+Descripción
+The demdex cookie, set under the domain demdex.net, is used by Adobe Audience Manager to help identify a unique visitor across domains.
+Cookie
+_hjTLDTest
+Duración
+sesión
+Descripción
+Para determinar la ruta de la cookie más genérica que debe usarse en lugar del nombre de host de la página, Hotjar usa la cookie _hjTLDTest para almacenar diferentes alternativas de subcadenas de URL hasta que falle.
+Rendimiento
+Las cookies de rendimiento se utilizan para comprender y analizar los índices de rendimiento clave del sitio web, lo que ayuda a proporcionar una mejor experiencia de usuario para los visitantes.
+No hay cookies para mostrar.
+Anuncio
+Las cookies publicitarias se utilizan para entregar a los visitantes anuncios personalizados basados ​​en las páginas que visitaron antes y analizar la efectividad de la campaña publicitaria.
+Cookie
+test_cookie
+Duración
+15 minutos
+Descripción
+doubleclick.net establece esta cookie para determinar si el navegador del usuario es compatible con las cookies.
+Cookie
+personalization_id
+Duración
+1 año 1 mes 4 días
+Descripción
+Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+Cookie
+muc_ads
+Duración
+1 año 1 mes 4 días
+Descripción
+Twitter sets this cookie to collect user behaviour and interaction data to optimize the website.
+Cookie
+cto_bundle
+Duración
+1 año 24 días
+Descripción
+Criterio sets this cookie to provide functions across pages.
+Cookie
+IDE
+Duración
+1 año 24 días
+Descripción
+Las cookies de Google DoubleClick IDE almacenan información sobre el uso que el usuario hace del sitio web para presentarle anuncios relevantes según su perfil.
+Cookie
+uuid2
+Duración
+3 meses
+Descripción
+AppNexus usa la cookie uuid2 y registra información que ayuda a diferenciar entre dispositivos y navegadores. Esta información se usa para elegir los anuncios mostrados por la plataforma y evaluar el rendimiento de los anuncios y su pago por atributos.
+Cookie
+anj
+Duración
+3 meses
+Descripción
+AppNexus sets the anj cookie that contains data stating whether a cookie ID is synced with partners.
+Cookie
+CMID
+Duración
+1 año
+Descripción
+Casale Media usa esta cookie para recopilar información sobre el comportamiento del usuario para la publicidad objetivo.
+Cookie
+CMPS
+Duración
+3 meses
+Descripción
+CasaleMedia usa la cookie CMPS para realizar un seguimiento anónimo de los usuarios a partir de sus visitas a la página web, con el fin de mostrar anuncios específicos.
+Cookie
+CMPRO
+Duración
+3 meses
+Descripción
+CasaleMedia usa la cookie CMPRO para el seguimiento del uso anónimo y la publicidad dirigida.
+Cookie
+dpm
+Duración
+6 meses
+Descripción
+The dpm cookie, set under the Demdex domain, assigns a unique ID to each visiting user, hence allowing third-party advertisers to target these users with relevant ads.
+Cookie
+mv_tokens
+Duración
+14 días 1 minuto
+Descripción
+Mediavine Exchange sets this cookie to create a unique ID for the visitor, allowing third-party advertisers to target the visitor with relevant advertisements.
+Cookie
+cf
+Duración
+Caducada
+Descripción
+Used to present the visitor with relevant content advertisement.
+Cookie
+cip
+Duración
+Caducada
+Descripción
+Presents the user with relevant content and advertisements, and facilitates real-time bidding for advertisers.
+Cookie
+cnac
+Duración
+Caducada
+Descripción
+Used to present the visitor with relevant content advertisement.
+Cookie
+car
+Duración
+Caducada
+Descripción
+Used to present the visitor with relevant content advertisement.
+Cookie
+callback
+Duración
+Caducada
+Descripción
+ID5 sets this cookie to collect data on visitor behaviour from multiple websites in order to present more relevant advertisements. This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+Cookie
+criteo_write_test
+Duración
+Menos de un minuto
+Descripción
+This cookie sets a unique ID for the visitors that allows third-party advretisers to target the visitors with relevant advertisement.
+Cookie
+YSC
+Duración
+sesión
+Descripción
+Youtube establece esta cookie para hacer un seguimiento de las visualizaciones de los vídeos incrustados en las páginas de Youtube.
+Cookie
+VISITOR_INFO1_LIVE
+Duración
+6 meses
+Descripción
+YouTube establece esta cookie para medir el ancho de banda y determinar si el usuario recibe la nueva o la antigua interfaz del reproductor.
+Cookie
+VISITOR_PRIVACY_METADATA
+Duración
+6 meses
+Descripción
+YouTube sets this cookie to store the user's cookie consent state for the current domain.
+Cookie
+_ttp
+Duración
+3 meses
+Descripción
+TikTok set this cookie to track and improve the performance of advertising campaigns, as well as to personalise the user experience.
+Cookie
+_tt_enable_cookie
+Duración
+3 meses
+Descripción
+Tiktok set this cookie to collect data about behaviour and activities on the website and to measure the effectiveness of the advertising.
+Cookie
+ab
+Duración
+1 año
+Descripción
+Owned by agkn, this cookie is used for targeting and advertising purposes.
+Nezaradené do kategórie
+Otras cookies no categorizadas son las que se están analizando y aún no se han clasificado en una categoría.
+Cookie
+ck_flagpv
+Duración
+sesión
+Descripción
+Description is currently not available.
+Cookie
+visitor-id
+Duración
+1 año
+Descripción
+No description available.
+Cookie
+data-c-ts
+Duración
+1 mes
+Descripción
+Description is currently not available.
+Cookie
+data-c
+Duración
+1 mes
+Descripción
+No description available.
+Cookie
+mv_tokens_eu-v1
+Duración
+14 días 1 minuto
+Descripción
+Description is currently not available.
+Cookie
+am_tokens
+Duración
+14 días 1 minuto
+Descripción
+Description is currently not available.
+Cookie
+am_tokens_eu-v1
+Duración
+14 días 1 minuto
+Descripción
+Description is currently not available.
+Cookie
+criteo
+Duración
+14 días 1 minuto
+Descripción
+No description available.
+Cookie
+tvid
+Duración
+1 año
+Descripción
+No description available.
+Cookie
+tv_UICR
+Duración
+1 mes
+Descripción
+Description is currently not available.
+Cookie
+optout
+Duración
+Caducada
+Descripción
+No description available.
+Cookie
+cto_tld_test
+Duración
+1 hora
+Descripción
+Description is currently not available.
+Cookie
+XANDR_PANID
+Duración
+3 meses
+Descripción
+Description is currently not available.
+Cookie
+receive-cookie-deprecation
+Duración
+1 año 24 días
+Descripción
+Description is currently not available.
+Cookie
+gpp
+Duración
+Caducada
+Descripción
+Description is currently not available.
+Cookie
+ttcsid_CU8M57RC77U66G5CN100
+Duración
+3 meses
+Descripción
+Description is currently not available.
+Cookie
+ttcsid
+Duración
+3 meses
+Descripción
+Description is currently not available.
+Cookie
+__Secure-ROLLOUT_TOKEN
+Duración
+6 meses
+Descripción
+Description is currently not available.
+Aceptar todo
+Guardar mis preferencias
+Rechazar todo
+Powered by
+X
+App Frecuento
+Descárgala Gratis
+Ver en App
+Inicio
+Cervezas
+Club Premium Platino Cerveza Botella 6pack 330ml
+Club Premium Platino Cerveza Botella 6pack 330ml
+Marca:
+Club
+$5.30
+$7.49
+$5.30
+$7.49
+Código - 40363096
+Cantidad
+Añadir al carrito
+Pagar
+Realiza tus compras
+con seguridad
+Agregar a favoritos
+Detalles del producto:
+Detalles:
+Una cerveza para los amantes de la pureza, hecha 100% con malta
+Aroma floral, sabor suave y que ha sido premiada con un sello de calidad de oro otorgado por Monde Selection
+Porcentaje de alcohol: 4.2%
+Contiene: 6 botellas de cerveza de 330ml c/u
+$5.30
+$7.49
+Código - 40363096
+Cantidad
+Añadir al carrito
+Pagar
+Realiza tus compras
+con seguridad
+Agregar a favoritos
+Productos relacionados
+Cerveza Club Platino Lata 6pack 355ml
+$
+5.20
+$7.45
+Pilsener Light Cerveza Botella 6pack 330ml
+$
+5.90
+Pilsener Cerveza Botella 6pack 330ml
+$
+5.90
+Cerveza Club Premium Botella 6pack 330ml
+$
+6.39
+$7.49
+Modelo Especial Cerveza Botella 6pack 355ml
+$
+13.46
+Club Premium Clásica Cerveza Lata 6pack 355ml
+$
+5.55
+$8.05
+Club Premium Clásica Cerveza Lata 6pack 269ml
+$
+4.75
+$6.05
+Live Chat
+Crear nueva lista
+Crea listas para personalizar y guardar artículos de interés.
+Nombre
+Cancelar
+Aceptar
+Cancel
+OK
+Crear nueva lista
+Crea listas para personalizar y guardar artículos de interés.
+Nombre
+Cancelar
+Aceptar
+Cancel
+OK

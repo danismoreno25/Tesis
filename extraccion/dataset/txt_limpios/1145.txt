@@ -1,0 +1,342 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Alimentos en Conserva
+Pescado en Conserva
+Lomos de Atún en Aceite Campomar Lata 150g
+Descripción
+<div class="wong-wrapper wong-descripcion" id="wong_ver_mas"><div class="wong-desc"><div class="wong-img"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar-logo-wong.jpg"></div><h3>Del mar a tu mesa</h3><p>La marca peruana <b>Campomar</b> forma parte del sello <b>Hayduk Corporación</b> que se dedica a la <b>producción de conservas de pescado</b>, como atún, jurel, anchoveta y caballa. Todos estos <b>insumos</b> se pescan en la <b>flota propia</b> de la empresa y luego se derivan a la planta donde pasarán diversos <b>procesos</b>, los cuales cuentan con <b>certificación de calidad</b>. Posee una amplia <b>línea de productos</b>, donde encontrarás uno ideal a tu gusto.</p></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-conserva-wong.jpg"></div><div class="wong-right"><h5>Ingredientes ideales</h5><p>La conserva de <b>lomos de atún</b> contiene una mezcla perfecta de <b>atún</b>, <b>aceite vegetal</b>, <b>agua</b> y <b>sal</b>. Es un <b>producto de calidad</b> que contribuye con la <b>nutrición</b> debido a los diversos aportes que su consumo genera. Es un <b>producto totalmente peruano</b>, desde la pesca hasta la etapa final de distribución.</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Altamente nutritivo</h5><p>Dentro de los <b>beneficios</b> que ofrece a nuestro <b>organismo</b> el consumo de la <b>carne de pescado</b> está el <b>fortalecimiento del sistema inmunológico</b>, debido a la gran cantidad de <b>Omega 3</b> que contiene. Además, es un tipo de carne <b>enriquecida en minerales</b>. Asimismo, los productos de <b>Campomar</b> cuentan con <b>certificación Dolphin Safe</b> que garantizan la <b>ausencia de redes contra delfines</b> durante la pesca.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-artesanal-saludable-wong.jpg"></div></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-receta-wong.jpg"></div><div class="wong-right"><h5>¡Las mejores recetas!</h5><p>Ahora podrás preparar <b>deliciosos</b> e <b>innovadores platillos</b> con las <b>conservas</b> y <b>enlatados</b> de <b>Campomar</b>. Desde las más nutritivas <b>ensaladas</b> hasta los más deliciosos <b>guisos</b>. Deja volar tu imaginación y prueba <b>distintas combinaciones</b>. No solo serán platos de sabor único, sino totalmente <b>nutritivos</b>.</p></div></div></div>
+Configuraciones
+ProductData
+{"allow_notes":true,"allow_substitute":true,"cart_limit":"6","brandName":"Campomar","brandEcomId":"121","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"2619":{"ref_id":"147017001","cart_limit":6,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1597059","1621242","2694969","2981229","3251916","3283090","3450543","3509068","3656538","4074469"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Atún
+Observaciones y Recomendaciones
+Origen
+Nacional
+Lomos de Atún en Aceite Campomar Lata 150g
+Campomar
+Referencia
+:
+147017001
+S/
+5
+.
+70
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 150 gramos
+Lomitos de at£n
+Conservado en aceite vegetal
+Contiene Omega 3
+Producto peruano
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Descripción
+Del mar a tu mesa
+La marca peruana
+Campomar
+forma parte del sello
+Hayduk Corporación
+que se dedica a la
+producción de conservas de pescado
+, como atún, jurel, anchoveta y caballa. Todos estos
+insumos
+se pescan en la
+flota propia
+de la empresa y luego se derivan a la planta donde pasarán diversos
+procesos
+, los cuales cuentan con
+certificación de calidad
+. Posee una amplia
+línea de productos
+, donde encontrarás uno ideal a tu gusto.
+Ingredientes ideales
+La conserva de
+lomos de atún
+contiene una mezcla perfecta de
+atún
+,
+aceite vegetal
+,
+agua
+y
+sal
+. Es un
+producto de calidad
+que contribuye con la
+nutrición
+debido a los diversos aportes que su consumo genera. Es un
+producto totalmente peruano
+, desde la pesca hasta la etapa final de distribución.
+Altamente nutritivo
+Dentro de los
+beneficios
+que ofrece a nuestro
+organismo
+el consumo de la
+carne de pescado
+está el
+fortalecimiento del sistema inmunológico
+, debido a la gran cantidad de
+Omega 3
+que contiene. Además, es un tipo de carne
+enriquecida en minerales
+. Asimismo, los productos de
+Campomar
+cuentan con
+certificación Dolphin Safe
+que garantizan la
+ausencia de redes contra delfines
+durante la pesca.
+¡Las mejores recetas!
+Ahora podrás preparar
+deliciosos
+e
+innovadores platillos
+con las
+conservas
+y
+enlatados
+de
+Campomar
+. Desde las más nutritivas
+ensaladas
+hasta los más deliciosos
+guisos
+. Deja volar tu imaginación y prueba
+distintas combinaciones
+. No solo serán platos de sabor único, sino totalmente
+nutritivos
+.
+Ingredientes
+Ingredientes
+Atún (thunnus obesus, Katsuwonus pelamis), Aceite vegetal (soya), Agua, Sal
+Ver condiciones de promociones
+Podrían interesarte
+-
+9%
+Filete de Caballa en Aceite Vegetal Santorini 170g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+20
+Precio regular
+S/ 4.60
+true
+Tripack Filete de Atún en Agua Real 80g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+13
+.
+10
+true
+-
+19%
+SODIO
+Filete de At£n en Agua Primor 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+40
+Precio regular
+S/ 6.70
+true
+Sólido de Atún en Agua y Sal Metro 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+60
+true
+-
+17%
+Filete de Atún en Agua y Sal A-1 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 5.90
+true
+-
+11%
+Trozos de Atún en Aceite Vegetal Metro 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+3
+.
+90
+Precio regular
+S/ 4.40
+true
+Lomos de Atún en Aceite Campomar Lata 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+70
+true
+Trozos de Atún en Aceite Primor 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+90
+true
+-
+20%
+Trozos de Atún en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.10
+true
+Tripack Filete de Atún en Agua Florida 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+20
+.
+40
+true
+-
+9%
+Filete de Caballa en Aceite Vegetal Santorini 170g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+20
+Precio regular
+S/ 4.60
+true
+Tripack Filete de Atún en Agua Real 80g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+13
+.
+10
+true
+-
+19%
+SODIO
+Filete de At£n en Agua Primor 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+40
+Precio regular
+S/ 6.70
+true
+Sólido de Atún en Agua y Sal Metro 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+60
+true
+-
+17%
+Filete de Atún en Agua y Sal A-1 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 5.90
+true
+-
+11%
+Trozos de Atún en Aceite Vegetal Metro 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+3
+.
+90
+Precio regular
+S/ 4.40
+true
+Lomos de Atún en Aceite Campomar Lata 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+70
+true
+Trozos de Atún en Aceite Primor 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+5
+.
+90
+true
+-
+20%
+Trozos de Atún en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.10
+true
+Tripack Filete de Atún en Agua Florida 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+20
+.
+40
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies

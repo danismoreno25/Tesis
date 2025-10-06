@@ -1,0 +1,384 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Arroz
+Arroz Extra y Superior
+Arroz Extra Metro 5kg
+Configuraciones
+ProductData
+ProductData
+SkuData
+{"34191":{"ref_id":"391214","cart_limit":9,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1130521"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Arroz Extra
+Observaciones y Recomendaciones
+Origen
+Nacional
+Arroz Extra Metro 5kg
+Metro
+Referencia
+:
+391214
+-
+9%
+Tarjeta Cencosud
+S/
+17
+.
+30
+S/
+18
+.
+40
+S/
+20
+.
+30
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 5 kilos
+Arroz extra
+Aporta energ¡a
+Rinde m s
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Arroz elaborado extra
+Ver condiciones de promociones
+Podrían interesarte
+Arroz Extra Metro 10kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+37
+.
+04
+Precio Online
+S/
+39
+.
+40
+true
+-
+19%
+Arroz Pacasmayo Extra 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+20
+.
+59
+Precio Online
+S/
+21
+.
+90
+Precio regular
+S/ 26.90
+true
+Arroz Superior Cuisine & Co 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+57
+Precio Online
+S/
+3
+.
+80
+true
+Arroz Extra Añejo Campo Norte 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+14
+Precio Online
+S/
+4
+.
+40
+true
+Arroz Añejo Superior Valle Norte 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+42
+Precio Online
+S/
+4
+.
+70
+true
+-
+11%
+Arroz Extra Costeño 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+03
+Precio Online
+S/
+24
+.
+50
+Precio regular
+S/ 27.50
+true
+-
+9%
+Arroz Extra Metro 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+30
+Precio Online
+S/
+18
+.
+40
+Precio regular
+S/ 20.30
+true
+-
+8%
+Arroz Extra Añejo Cuisine&Co Bolsa 5 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+21
+.
+53
+Precio Online
+S/
+22
+.
+90
+Precio regular
+S/ 24.90
+true
+Arroz Superior Añejo Faraón Rojo 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+71
+Precio Online
+S/
+3
+.
+95
+true
+-
+16%
+Arroz Reserva Extra Campero 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+22
+.
+47
+Precio Online
+S/
+23
+.
+90
+Precio regular
+S/ 28.50
+true
+Arroz Extra Metro 10kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+37
+.
+04
+Precio Online
+S/
+39
+.
+40
+true
+-
+19%
+Arroz Pacasmayo Extra 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+20
+.
+59
+Precio Online
+S/
+21
+.
+90
+Precio regular
+S/ 26.90
+true
+Arroz Superior Cuisine & Co 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+57
+Precio Online
+S/
+3
+.
+80
+true
+Arroz Extra Añejo Campo Norte 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+14
+Precio Online
+S/
+4
+.
+40
+true
+Arroz Añejo Superior Valle Norte 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+42
+Precio Online
+S/
+4
+.
+70
+true
+-
+11%
+Arroz Extra Costeño 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+03
+Precio Online
+S/
+24
+.
+50
+Precio regular
+S/ 27.50
+true
+-
+9%
+Arroz Extra Metro 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+30
+Precio Online
+S/
+18
+.
+40
+Precio regular
+S/ 20.30
+true
+-
+8%
+Arroz Extra Añejo Cuisine&Co Bolsa 5 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+21
+.
+53
+Precio Online
+S/
+22
+.
+90
+Precio regular
+S/ 24.90
+true
+Arroz Superior Añejo Faraón Rojo 750g
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+71
+Precio Online
+S/
+3
+.
+95
+true
+-
+16%
+Arroz Reserva Extra Campero 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 6% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+22
+.
+47
+Precio Online
+S/
+23
+.
+90
+Precio regular
+S/ 28.50
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

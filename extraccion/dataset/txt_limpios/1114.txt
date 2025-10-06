@@ -1,0 +1,390 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Café e Infusiones
+Café Molido y Granos
+Café Molido y Tostado Cuisine & Co 500g
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"0","brandName":"Cuisine & Co","brandEcomId":"9885","measurement_unit":"un","unit_multiplier":1,"measurement_unit_selector":false}
+SkuData
+{"39200897":{"ref_id":"932780","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Café Grano Molido
+Observaciones y Recomendaciones
+Origen
+Nacional
+Café Molido y Tostado Cuisine & Co 500g
+Cuisine & Co
+Referencia
+:
+932780
+Tarjeta Cencosud
+S/
+30
+.
+51
+S/
+33
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 500 gramos
+Caf tostado y molido
+Tosti¢n oscura
+Amargor alto
+Cuerpo medio
+Aroma intenso
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Café arábica 100%
+Ver condiciones de promociones
+Podrían interesarte
+Café en Grano Lucaffé Espresso 700g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+74
+.
+61
+Precio Online
+S/
+82
+.
+90
+true
+-
+11%
+Café Molido Artidoro Rodríguez Doypack 250 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+35
+.
+91
+Precio Online
+S/
+39
+.
+90
+Precio regular
+S/ 45.00
+true
+-
+13%
+AZUCAR
+Chocolate en Cápsulas Nescafé Dolce Gusto Chocochino 5 Porciones
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+Café Molido Aicasa Gourmet 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+28
+.
+35
+Precio Online
+S/
+31
+.
+50
+true
+-
+20%
+Café Molido Lavazza Crema e Gusto 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+32
+.
+40
+Precio Online
+S/
+36
+.
+00
+Precio regular
+S/ 45.00
+true
+-
+27%
+Café Molido Cafetal Selecto 454g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+22
+.
+95
+Precio Online
+S/
+25
+.
+50
+Precio regular
+S/ 34.90
+true
+Café Molido Cafetal Selecto 900g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+55
+.
+35
+Precio Online
+S/
+61
+.
+50
+true
+Café Molido Altomayo Clásico 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+28
+.
+35
+Precio Online
+S/
+31
+.
+50
+true
+-
+13%
+Cápsulas de Café Nescafé Dolce Gusto Espresso 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+-
+13%
+Café en Cápsulas Nescafé Dolce Gusto Lungo 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+Café en Grano Lucaffé Espresso 700g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+74
+.
+61
+Precio Online
+S/
+82
+.
+90
+true
+-
+11%
+Café Molido Artidoro Rodríguez Doypack 250 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+35
+.
+91
+Precio Online
+S/
+39
+.
+90
+Precio regular
+S/ 45.00
+true
+-
+13%
+AZUCAR
+Chocolate en Cápsulas Nescafé Dolce Gusto Chocochino 5 Porciones
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+Café Molido Aicasa Gourmet 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+28
+.
+35
+Precio Online
+S/
+31
+.
+50
+true
+-
+20%
+Café Molido Lavazza Crema e Gusto 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+32
+.
+40
+Precio Online
+S/
+36
+.
+00
+Precio regular
+S/ 45.00
+true
+-
+27%
+Café Molido Cafetal Selecto 454g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+22
+.
+95
+Precio Online
+S/
+25
+.
+50
+Precio regular
+S/ 34.90
+true
+Café Molido Cafetal Selecto 900g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+55
+.
+35
+Precio Online
+S/
+61
+.
+50
+true
+Café Molido Altomayo Clásico 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+28
+.
+35
+Precio Online
+S/
+31
+.
+50
+true
+-
+13%
+Cápsulas de Café Nescafé Dolce Gusto Espresso 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+-
+13%
+Café en Cápsulas Nescafé Dolce Gusto Lungo 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+23
+.
+31
+Precio Online
+S/
+25
+.
+90
+Precio regular
+S/ 29.90
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

@@ -1,0 +1,341 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Alimentos en Conserva
+Pescado en Conserva
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"0","brandName":"Cuisine & Co","brandEcomId":"9885","measurement_unit":"un","unit_multiplier":1,"measurement_unit_selector":false}
+SkuData
+{"39166055":{"ref_id":"789708","cart_limit":24,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Atún
+Observaciones y Recomendaciones
+Origen
+Importado
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g
+Cuisine & Co
+Referencia
+:
+789708
+Tarjeta Cencosud
+S/
+4
+.
+32
+S/
+4
+.
+80
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 140 gramos
+Trozos de at£n
+En aceite vegetal
+Descripción
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ver condiciones de promociones
+Podrían interesarte
+SODIO
+Solido de Atún Florida Lata 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+7
+.
+11
+Precio Online
+S/
+7
+.
+90
+true
+-
+23%
+Sólido de Atún en Aceite Vegetal Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+41
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.40
+true
+-
+13%
+SODIO
+Pack x6 Filete de Atún Florida en Agua
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+41
+Precio Online
+S/
+34
+.
+90
+Precio regular
+S/ 39.90
+true
+Sardinas en Aceite Picantes Lata 120 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+15
+.
+12
+Precio Online
+S/
+16
+.
+80
+true
+Twelvepack Filete de Atún Primor 140g
+Precio Online
+AGOTADO
+-
+20%
+Trozos de Atún en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+41
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.10
+true
+Pack x6 Trozos Atún Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+32
+Precio Online
+S/
+34
+.
+80
+true
+Sixpack Filete de Atún en Agua Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+26
+.
+91
+Precio Online
+S/
+29
+.
+90
+true
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+32
+Precio Online
+S/
+4
+.
+80
+true
+Trozos de Jurel en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+69
+Precio Online
+S/
+4
+.
+10
+true
+SODIO
+Solido de Atún Florida Lata 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+7
+.
+11
+Precio Online
+S/
+7
+.
+90
+true
+-
+23%
+Sólido de Atún en Aceite Vegetal Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+41
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.40
+true
+-
+13%
+SODIO
+Pack x6 Filete de Atún Florida en Agua
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+41
+Precio Online
+S/
+34
+.
+90
+Precio regular
+S/ 39.90
+true
+Sardinas en Aceite Picantes Lata 120 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+15
+.
+12
+Precio Online
+S/
+16
+.
+80
+true
+Twelvepack Filete de Atún Primor 140g
+Precio Online
+AGOTADO
+-
+20%
+Trozos de Atún en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+41
+Precio Online
+S/
+4
+.
+90
+Precio regular
+S/ 6.10
+true
+Pack x6 Trozos Atún Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+32
+Precio Online
+S/
+34
+.
+80
+true
+Sixpack Filete de Atún en Agua Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+26
+.
+91
+Precio Online
+S/
+29
+.
+90
+true
+Trozos de Atún en Aceite Vegetal Cuisine & Co 140g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+32
+Precio Online
+S/
+4
+.
+80
+true
+Trozos de Jurel en Aceite Vegetal Campomar 150g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+69
+Precio Online
+S/
+4
+.
+10
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

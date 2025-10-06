@@ -1,0 +1,220 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Azúcar y Edulcorantes
+Azúcar Rubia
+Azúcar Rubia Paramonga Bolsa 5 kg
+Configuraciones
+ProductData
+ProductData
+SkuData
+{"23673":{"ref_id":"566556","cart_limit":6,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1492474","1942972","3484742","4133995"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Azúcar Rubia
+Observaciones y Recomendaciones
+Origen
+Nacional
+Azúcar Rubia Paramonga Bolsa 5 kg
+Paramonga
+Referencia
+:
+566556
+S/
+22
+.
+75
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ver condiciones de promociones
+Podrían interesarte
+Azúcar de Coco Cuisine & Co 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+26
+.
+70
+true
+Panela Granulada Chuncho Superfoods 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+8
+.
+00
+true
+Azúcar Rubia Cuisine & Co 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+20
+.
+50
+true
+Panela Paramonga 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+7
+.
+99
+true
+Panela Orgánica Panela de Piura Caja 400 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+10
+.
+80
+true
+-
+16%
+Azúcar Rubia Metro 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+15
+.
+90
+Precio regular
+S/ 18.90
+true
+Azúcar Rubia Metro 1kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+00
+true
+Azúcar Rubia Dulfina Bolsa 5 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+22
+.
+00
+true
+Azúcar Rubia Dulfina Bolsa 2 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+9
+.
+60
+true
+Panela Orgánica Cuisine & Co 1kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+13
+.
+90
+true
+Azúcar de Coco Cuisine & Co 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+26
+.
+70
+true
+Panela Granulada Chuncho Superfoods 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+8
+.
+00
+true
+Azúcar Rubia Cuisine & Co 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+20
+.
+50
+true
+Panela Paramonga 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+7
+.
+99
+true
+Panela Orgánica Panela de Piura Caja 400 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+10
+.
+80
+true
+-
+16%
+Azúcar Rubia Metro 5kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+15
+.
+90
+Precio regular
+S/ 18.90
+true
+Azúcar Rubia Metro 1kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+4
+.
+00
+true
+Azúcar Rubia Dulfina Bolsa 5 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+22
+.
+00
+true
+Azúcar Rubia Dulfina Bolsa 2 kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+9
+.
+60
+true
+Panela Orgánica Cuisine & Co 1kg
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Precio Online
+S/
+13
+.
+90
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies

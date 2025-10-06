@@ -1,0 +1,363 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Café e Infusiones
+Café Molido y Granos
+Café Molido Cafetal Selecto 454g
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"0","brandName":"Cafetal","brandEcomId":"112","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"1383":{"ref_id":"233464","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Café Grano Molido
+Observaciones y Recomendaciones
+Origen
+Nacional
+Café Molido Cafetal Selecto 454g
+Cafetal
+Referencia
+:
+233464
+-
+27%
+Tarjeta Cencosud
+S/
+22
+.
+95
+S/
+25
+.
+50
+S/
+34
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 454 gramos
+Café molido
+Café 100% peruano
+Descripción
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ver condiciones de promociones
+Podrían interesarte
+Café Molido Cafetal Gourmet Americano 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+34
+.
+65
+Precio Online
+S/
+38
+.
+50
+true
+-
+11%
+Café Molido Artidoro Rodríguez Bolsa 250 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+35
+.
+91
+Precio Online
+S/
+39
+.
+90
+Precio regular
+S/ 45.00
+true
+Cápsulas de Café Viaggio Intenso 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+30
+.
+15
+Precio Online
+S/
+33
+.
+50
+true
+Café Grano Gourmet Valenzuela 500 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+57
+.
+60
+Precio Online
+S/
+64
+.
+00
+true
+-
+12%
+Cápsulas de Café Starbucks Caramel Macchiato 12un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+37
+.
+71
+Precio Online
+S/
+41
+.
+90
+Precio regular
+S/ 47.40
+true
+Café Molido y Tostado Cuisine & Co 220g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+13
+.
+95
+Precio Online
+S/
+15
+.
+50
+true
+Café Sello Rojo Contenido 212 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+69
+Precio Online
+S/
+14
+.
+10
+true
+-
+5%
+Café Molido Altomayo Gourmet 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+33
+.
+75
+Precio Online
+S/
+37
+.
+50
+Precio regular
+S/ 39.50
+true
+Café Molido Cafetal Americano Chanchamayo 200g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+26
+.
+01
+Precio Online
+S/
+28
+.
+90
+true
+Café Molido Cafetal Gourmet Espresso 200g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+21
+.
+78
+Precio Online
+S/
+24
+.
+20
+true
+Café Molido Cafetal Gourmet Americano 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+34
+.
+65
+Precio Online
+S/
+38
+.
+50
+true
+-
+11%
+Café Molido Artidoro Rodríguez Bolsa 250 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+35
+.
+91
+Precio Online
+S/
+39
+.
+90
+Precio regular
+S/ 45.00
+true
+Cápsulas de Café Viaggio Intenso 10un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+30
+.
+15
+Precio Online
+S/
+33
+.
+50
+true
+Café Grano Gourmet Valenzuela 500 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+57
+.
+60
+Precio Online
+S/
+64
+.
+00
+true
+-
+12%
+Cápsulas de Café Starbucks Caramel Macchiato 12un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+37
+.
+71
+Precio Online
+S/
+41
+.
+90
+Precio regular
+S/ 47.40
+true
+Café Molido y Tostado Cuisine & Co 220g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+13
+.
+95
+Precio Online
+S/
+15
+.
+50
+true
+Café Sello Rojo Contenido 212 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+69
+Precio Online
+S/
+14
+.
+10
+true
+-
+5%
+Café Molido Altomayo Gourmet 450g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+33
+.
+75
+Precio Online
+S/
+37
+.
+50
+Precio regular
+S/ 39.50
+true
+Café Molido Cafetal Americano Chanchamayo 200g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+26
+.
+01
+Precio Online
+S/
+28
+.
+90
+true
+Café Molido Cafetal Gourmet Espresso 200g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+21
+.
+78
+Precio Online
+S/
+24
+.
+20
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

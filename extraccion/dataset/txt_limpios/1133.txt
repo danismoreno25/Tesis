@@ -1,0 +1,40 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Azúcar y Edulcorantes
+Azúcar Rubia
+Azúcar Rubia Dulfina Bolsa 5 kg
+Configuraciones
+ProductData
+{"allow_notes":true,"allow_substitute":true,"cart_limit":"0","brandName":"Dulfina","brandEcomId":"273","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"39135619":{"ref_id":"465118","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1130525","3676802"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Observaciones y Recomendaciones
+Origen
+Nacional
+Azúcar Rubia Dulfina Bolsa 5 kg
+Cargando comentarios...
+Referencia
+:
+465118
+S/
+22
+.
+00
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies

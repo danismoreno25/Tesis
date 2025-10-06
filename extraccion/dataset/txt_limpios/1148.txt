@@ -1,0 +1,53 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Alimentos en Conserva
+Pescado en Conserva
+Filete de Atún en Agua y Sal Metro 140g
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"0","brandName":"Metro","brandEcomId":"2000891","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false}
+SkuData
+{"39146966":{"ref_id":"756790","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false,"release_data":{"date_release":"26-03-2025 00:00","date_release_end":"25-04-2025 00:00","is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Atunes
+Observaciones y Recomendaciones
+Origen
+Importado
+Filete de Atún en Agua y Sal Metro 140g
+Cargando comentarios...
+Referencia
+:
+756790
+-
+12%
+S/
+4
+.
+20
+S/
+4
+.
+80
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 140 gramos
+Filete de at£n
+En agua y sal
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies

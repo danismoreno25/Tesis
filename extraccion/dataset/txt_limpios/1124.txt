@@ -1,0 +1,349 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Lácteos
+Leches
+Leches Frescas y UHT
+Leche UHT Light Cuisine & Co Caja 1L
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"12","brandName":"Cuisine & Co","brandEcomId":"9885","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"39150513":{"ref_id":"782439","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["229039","231433","324213","324225","404188","462628","462641","703835","951935","1205676","3890417"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Leche Entera
+Observaciones y Recomendaciones
+Origen
+Nacional
+Leche UHT Light Cuisine & Co Caja 1L
+Cuisine & Co
+Referencia
+:
+782439
+Tarjeta Cencosud
+S/
+5
+.
+61
+S/
+5
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contenido de 1 litro
+Ingredientes: leche parcialmente descremada de vaca
+No apto para lactantes, excepto por recomendaci¢n mdica
+Origen: Polonia
+- ver m s
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Leche parcialmente descremada de vaca, Leche
+Ver condiciones de promociones
+Podrían interesarte
+Leche Fresca Piamonte Bolsa 950 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+7
+.
+13
+Precio Online
+S/
+7
+.
+50
+true
+Sixpack Bebida Láctea Gloria Pro Day Vainilla Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+24
+.
+60
+Precio Online
+S/
+25
+.
+90
+true
+Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+19
+.
+48
+Precio Online
+S/
+20
+.
+50
+true
+Shake Capuccino UHT Gloria Frasco 330 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+99
+Precio Online
+S/
+4
+.
+20
+true
+Bebida Láctea Gloria Pro Power Sabor Dark Chocolate Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+64
+Precio Online
+S/
+6
+.
+99
+true
+AZUCAR
+Sixpack Alimento Lácteo Fermentado Yofresh Fresa Caja 180ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+11
+.
+31
+Precio Online
+S/
+11
+.
+90
+true
+Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+04
+Precio Online
+S/
+3
+.
+20
+true
+Leche UHT Laive Light Sin Lactosa Bolsa 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+5
+.
+23
+Precio Online
+S/
+5
+.
+50
+true
+-
+17%
+Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Vainilla Caja 180ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+41
+Precio Online
+S/
+9
+.
+90
+Precio regular
+S/ 11.90
+true
+Mezcla Láctea La Preferida 800ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+33
+Precio Online
+S/
+3
+.
+50
+true
+Leche Fresca Piamonte Bolsa 950 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+7
+.
+13
+Precio Online
+S/
+7
+.
+50
+true
+Sixpack Bebida Láctea Gloria Pro Day Vainilla Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+24
+.
+60
+Precio Online
+S/
+25
+.
+90
+true
+Sixpack Leche UHT Gloria Shake Sabor Capuccino Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+19
+.
+48
+Precio Online
+S/
+20
+.
+50
+true
+Shake Capuccino UHT Gloria Frasco 330 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+99
+Precio Online
+S/
+4
+.
+20
+true
+Bebida Láctea Gloria Pro Power Sabor Dark Chocolate Botella 320ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+64
+Precio Online
+S/
+6
+.
+99
+true
+AZUCAR
+Sixpack Alimento Lácteo Fermentado Yofresh Fresa Caja 180ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+11
+.
+31
+Precio Online
+S/
+11
+.
+90
+true
+Bebida Láctea Sabor Chocolate Bonlé Bolsa 800 ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+04
+Precio Online
+S/
+3
+.
+20
+true
+Leche UHT Laive Light Sin Lactosa Bolsa 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+5
+.
+23
+Precio Online
+S/
+5
+.
+50
+true
+-
+17%
+Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Vainilla Caja 180ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+41
+Precio Online
+S/
+9
+.
+90
+Precio regular
+S/ 11.90
+true
+Mezcla Láctea La Preferida 800ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+3
+.
+33
+Precio Online
+S/
+3
+.
+50
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

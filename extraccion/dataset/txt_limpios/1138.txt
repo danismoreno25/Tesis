@@ -1,0 +1,349 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Panes y Tortillas Empacadas
+Panes Embolsados
+Pan de Molde Unión Multisemillas con Avena 540g
+Configuraciones
+ProductData
+ProductData
+SkuData
+{"13029":{"ref_id":"521882","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Pan de Molde Integral
+Observaciones y Recomendaciones
+Origen
+Nacional
+Pan de Molde Unión Multisemillas con Avena 540g
+Unión
+Referencia
+:
+521882
+Tarjeta Cencosud
+S/
+11
+.
+61
+S/
+12
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 540 gramos
+Pan de molde
+Con avena, miel de abeja y semillas de girasol, linaza y ch¡a
+Alto en hierro
+Fuente de prote¡nas y fibra
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Harina de trigo fortificada, Hierro, Niacina, Tiamina, Riboflavina, ácido fólico, Hojuelas de avena 6%, Miel de abeja 5%, Aceite, Semillas de girasol 4%, Semillas de linaza 4%, Azúcar rubia, Levadura fresca saccharomyces cerevisiae, Aceite vegetal, Semillas de chía 3%, Fibra de avena, Cloruro de sodio, Acentuador de sabor cloruro de potasio sin 508, Regulador de la acidez citrato tripotásico sin 332 ii, Regulador de la acidez gluconato de potasio sin 577, Gluten de trigo, Leche en polvo, Harina de trigo fortificada, Hierro, Niacina, Tiamina, Riboflavina, ácido fólico, Emulsionante sin 471, Emulsionante sin 481i, Gluten de trigo, Agente de tratamiento de harina sin 300, Alfa amilasa de aspergillus oryzae var (sin 1100 i), Sal, Sustancia conservadora sin 282, Saborizante panela natural, Fumarato ferroso, Cianocobalamina, ácido fólico, Riboflavina, Palmitato de vitamina a, Esencia de canela, Glucosa oxidasa, Gluten, Leche
+Ver condiciones de promociones
+Podrían interesarte
+Pan Brioche Bimbo Artesano 4un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+81
+Precio Online
+S/
+10
+.
+90
+true
+Pan Pita Linaza Bimbo Bolsa 10 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+93
+Precio Online
+S/
+7
+.
+70
+true
+Pan Fibra Unión Bolsa 540 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+11
+.
+88
+Precio Online
+S/
+13
+.
+20
+true
+Pan de Molde Don Mamino Pullman Corte Horizontal Bolsa 560 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+15
+Precio Online
+S/
+13
+.
+50
+true
+Pan de Molde Superbom Blanco 465 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+91
+Precio Online
+S/
+9
+.
+90
+true
+SODIO
+Pan de Molde Blanco Cuisine & Co 600g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+28
+Precio Online
+S/
+9
+.
+20
+true
+Pan Pita Integral Bimbo Bolsa 10 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+93
+Precio Online
+S/
+7
+.
+70
+true
+-
+9%
+Pan de Molde de Semillas Bimbo Vital Bolsa 360 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+91
+Precio Online
+S/
+9
+.
+90
+Precio regular
+S/ 10.90
+true
+Pan de Molde Integral Clásico Unión Grande Bolsa 495 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+15
+Precio Online
+S/
+13
+.
+50
+true
+Pan para Hot Dog Bimbo Bolsa 8 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+10
+.
+17
+Precio Online
+S/
+11
+.
+30
+true
+Pan Brioche Bimbo Artesano 4un
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+81
+Precio Online
+S/
+10
+.
+90
+true
+Pan Pita Linaza Bimbo Bolsa 10 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+93
+Precio Online
+S/
+7
+.
+70
+true
+Pan Fibra Unión Bolsa 540 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+11
+.
+88
+Precio Online
+S/
+13
+.
+20
+true
+Pan de Molde Don Mamino Pullman Corte Horizontal Bolsa 560 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+15
+Precio Online
+S/
+13
+.
+50
+true
+Pan de Molde Superbom Blanco 465 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+91
+Precio Online
+S/
+9
+.
+90
+true
+SODIO
+Pan de Molde Blanco Cuisine & Co 600g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+28
+Precio Online
+S/
+9
+.
+20
+true
+Pan Pita Integral Bimbo Bolsa 10 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+93
+Precio Online
+S/
+7
+.
+70
+true
+-
+9%
+Pan de Molde de Semillas Bimbo Vital Bolsa 360 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+91
+Precio Online
+S/
+9
+.
+90
+Precio regular
+S/ 10.90
+true
+Pan de Molde Integral Clásico Unión Grande Bolsa 495 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+12
+.
+15
+Precio Online
+S/
+13
+.
+50
+true
+Pan para Hot Dog Bimbo Bolsa 8 unid
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+10
+.
+17
+Precio Online
+S/
+11
+.
+30
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

@@ -1,0 +1,344 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Aceites
+Aceites Vegetales
+Aceite de Soya Sao Botella 900ml
+Configuraciones
+ProductData
+{"allow_notes":true,"allow_substitute":true,"cart_limit":"0","brandName":"Sao","brandEcomId":"815","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"37019":{"ref_id":"31484","cart_limit":24,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1492459","1597052","1621240","1942995","3123808","3484729","3492371","4150767"],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Aceite de Soya
+Observaciones y Recomendaciones
+Origen
+Nacional
+Aceite de Soya Sao Botella 900ml
+Sao
+Referencia
+:
+31484
+-
+6%
+Tarjeta Cencosud
+S/
+6
+.
+37
+S/
+6
+.
+70
+S/
+7
+.
+10
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+A¤ade un toque de sabor y calidad a tus platillos con el aceite de soya Sao. Con su presentaci¢n en botella de 900 ml, tendr s suficiente aceite para tus diversos platillos.
+Caracter¡sticas Principales:
+Contiene 900 ml
+Aceite de 100% soya
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Aceite de soya, Aceite de soya, Aceite de oleína de palma, Aceite de soya, Aceite de girasol, Aceite de oleína de palma
+Ver condiciones de promociones
+Podrían interesarte
+Twopack Aceite de Soya Costeño 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+10
+Precio Online
+S/
+18
+.
+00
+true
+Aceite Vegetal Metro 5L
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+26
+Precio Online
+S/
+32
+.
+90
+true
+Aceite Primor Botella 5 Litros
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+52
+.
+16
+Precio Online
+S/
+54
+.
+90
+true
+Sixpack Aceite Vegetal Primor Clásico 900ml
+Precio Online
+AGOTADO
+Sixpack Aceite Vegetal Primor Premium 900ml
+Precio Online
+AGOTADO
+-
+14%
+Twopack Aceite Vegetal Primor Premium 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+95
+Precio Online
+S/
+18
+.
+90
+Precio regular
+S/ 22.00
+true
+-
+16%
+Twopack Aceite Vegetal Primor Clásico 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+16
+.
+06
+Precio Online
+S/
+16
+.
+90
+Precio regular
+S/ 20.00
+true
+-
+24%
+Aceite Vegetal Primor Clásico Botella 1.8L
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+14
+.
+24
+Precio Online
+S/
+14
+.
+99
+Precio regular
+S/ 19.75
+true
+-
+6%
+Aceite de Soya Sao Botella 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+37
+Precio Online
+S/
+6
+.
+70
+Precio regular
+S/ 7.10
+true
+-
+24%
+Aceite Vegetal Cuisine & Co 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+18
+Precio Online
+S/
+6
+.
+50
+Precio regular
+S/ 8.50
+true
+Twopack Aceite de Soya Costeño 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+10
+Precio Online
+S/
+18
+.
+00
+true
+Aceite Vegetal Metro 5L
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+31
+.
+26
+Precio Online
+S/
+32
+.
+90
+true
+Aceite Primor Botella 5 Litros
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+52
+.
+16
+Precio Online
+S/
+54
+.
+90
+true
+Sixpack Aceite Vegetal Primor Clásico 900ml
+Precio Online
+AGOTADO
+Sixpack Aceite Vegetal Primor Premium 900ml
+Precio Online
+AGOTADO
+-
+14%
+Twopack Aceite Vegetal Primor Premium 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+17
+.
+95
+Precio Online
+S/
+18
+.
+90
+Precio regular
+S/ 22.00
+true
+-
+16%
+Twopack Aceite Vegetal Primor Clásico 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+16
+.
+06
+Precio Online
+S/
+16
+.
+90
+Precio regular
+S/ 20.00
+true
+-
+24%
+Aceite Vegetal Primor Clásico Botella 1.8L
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+14
+.
+24
+Precio Online
+S/
+14
+.
+99
+Precio regular
+S/ 19.75
+true
+-
+6%
+Aceite de Soya Sao Botella 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+37
+Precio Online
+S/
+6
+.
+70
+Precio regular
+S/ 7.10
+true
+-
+24%
+Aceite Vegetal Cuisine & Co 900ml
+[TCENCO] Oct25 - Abarrotes Comestible Con 5% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+18
+Precio Online
+S/
+6
+.
+50
+Precio regular
+S/ 8.50
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas

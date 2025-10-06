@@ -1,0 +1,58 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Desayuno
+Café e Infusiones
+Café Molido y Granos
+Café Molido Descafeinado Britt 250g
+Configuraciones
+ProductData
+{"allow_notes":false,"allow_substitute":true,"cart_limit":"0","brandName":"Britt","brandEcomId":"101","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","measurement_unit_selector":false}
+SkuData
+{"1354":{"ref_id":"133095004","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Café Grano Molido Descafeinado
+Observaciones y Recomendaciones
+Origen
+Nacional
+Café Molido Descafeinado Britt 250g
+Cargando comentarios...
+Referencia
+:
+133095004
+S/
+51
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Características Principales
+Contiene 250 gramos
+Café descafeinado molido
+100% Café Arábica
+Origen: Perú
+Descripción
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+100% café arábica
+Ver condiciones de promociones
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies

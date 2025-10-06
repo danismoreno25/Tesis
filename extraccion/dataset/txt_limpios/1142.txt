@@ -1,0 +1,385 @@
+¿Que buscas hoy?
+¿Cómo quieres recibir tu pedido?
+Elegir
+Abarrotes
+Fideos, Pastas y Salsas
+Fideos Largos
+Spaguetti Quadratto La Molisana Paquete 500 g
+Configuraciones
+ProductData
+ProductData
+SkuData
+{"40175":{"ref_id":"712497","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":[],"url_canonical":"","measurement_unit_un":"UN","measurement_unit_selector":false,"release_data":{"is_new":false}}}
+Características Destacadas
+Tipo de Producto
+Spaghettis
+Observaciones y Recomendaciones
+Origen
+Importado
+Spaguetti Quadratto La Molisana Paquete 500 g
+La Molisana
+Referencia
+:
+712497
+Tarjeta Cencosud
+S/
+8
+.
+01
+S/
+8
+.
+90
+Cantidad
+＋
+－
+Agregar
+Certificados
+Ver todos
+Descripción
+Información Nutricional
+Especificaciones
+Comentarios
+Especificaciones técnicas
+Propiedad
+Especificación
+Ingredientes
+Ingredientes
+Sémola de trigo duro, Agua, Trigo
+Puede contener
+Ingredientes
+Trazas de
+Derivados de soya, Huevo
+Ver condiciones de promociones
+Podrían interesarte
+Fideos Cuisine &Co Linguini 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+86
+Precio Online
+S/
+5
+.
+40
+true
+-
+9%
+Twopack Fideo Fettuccini Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+21
+Precio Online
+S/
+6
+.
+90
+Precio regular
+S/ 7.60
+true
+Fettucine La Molisana Paquete 500 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+01
+Precio Online
+S/
+8
+.
+90
+true
+-
+9%
+Twopack Fideo Linguini Grosso Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+21
+Precio Online
+S/
+6
+.
+90
+Precio regular
+S/ 7.60
+true
+-
+19%
+Linguine Nro 77 Cuisine & Co Bolsa 500 gr
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+61
+Precio Online
+S/
+2
+.
+90
+Precio regular
+S/ 3.60
+true
+Fideos Cuisine &Co Cabello de Ángel 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+1
+.
+44
+Precio Online
+S/
+1
+.
+60
+true
+-
+13%
+Spaghetti Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+97
+Precio Online
+S/
+3
+.
+30
+Precio regular
+S/ 3.80
+true
+-
+15%
+Fideo Tallarín Grueso Nicolini 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+61
+Precio Online
+S/
+2
+.
+90
+Precio regular
+S/ 3.40
+true
+-
+13%
+Twopack Fideo Fettuccini Don Vittorio 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+45
+Precio Online
+S/
+10
+.
+50
+Precio regular
+S/ 12.00
+true
+Fideos Cuisine &Co Spaguetti 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+86
+Precio Online
+S/
+5
+.
+40
+true
+Fideos Cuisine &Co Linguini 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+86
+Precio Online
+S/
+5
+.
+40
+true
+-
+9%
+Twopack Fideo Fettuccini Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+21
+Precio Online
+S/
+6
+.
+90
+Precio regular
+S/ 7.60
+true
+Fettucine La Molisana Paquete 500 g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+8
+.
+01
+Precio Online
+S/
+8
+.
+90
+true
+-
+9%
+Twopack Fideo Linguini Grosso Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+6
+.
+21
+Precio Online
+S/
+6
+.
+90
+Precio regular
+S/ 7.60
+true
+-
+19%
+Linguine Nro 77 Cuisine & Co Bolsa 500 gr
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+61
+Precio Online
+S/
+2
+.
+90
+Precio regular
+S/ 3.60
+true
+Fideos Cuisine &Co Cabello de Ángel 250g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+1
+.
+44
+Precio Online
+S/
+1
+.
+60
+true
+-
+13%
+Spaghetti Don Vittorio 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+97
+Precio Online
+S/
+3
+.
+30
+Precio regular
+S/ 3.80
+true
+-
+15%
+Fideo Tallarín Grueso Nicolini 500g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+2
+.
+61
+Precio Online
+S/
+2
+.
+90
+Precio regular
+S/ 3.40
+true
+-
+13%
+Twopack Fideo Fettuccini Don Vittorio 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+9
+.
+45
+Precio Online
+S/
+10
+.
+50
+Precio regular
+S/ 12.00
+true
+Fideos Cuisine &Co Spaguetti 950g
+[TCENCO] Oct25 - Abarrotes Comestible Con 10% Dscto Con TC Metro del 01al31 Octubre
+Tarjeta Cencosud
+S/
+4
+.
+86
+Precio Online
+S/
+5
+.
+40
+true
+Cookies
+?
+!
+i
+Política general sobre Cookies
+×
+En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
+Sí Acepto
+Configuración de Cookies
+Política de Cookies
+Recuerda escribir al menos 3 letras en el cuadro de búsqueda
+Términos más buscados
+1.
+busca
+2.
+leche
+3.
+hot wheels
+4.
+arroz
+5.
+pollo
+Marcas sugeridas
