@@ -1,36 +1,40 @@
 import os
 import time
 from pathlib import Path
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 
 def scraping_guardar_dinamico_txt():
-    # Ruta al archivo y carpeta de salida
-    urls_path = Path("extraccion_variables_eda/dataset/urls_dinamicas.txt")
-    excel_path = Path("extraccion_variables_eda/edaSisPricingInt_variables.xlsx")
-    output_dir = Path("extraccion_variables_eda/dataset/paginas")
+    base_path = Path(__file__).resolve().parent  # Directorio donde está este script
+
+    # Rutas absolutas basadas en la carpeta del script
+    urls_path = base_path / "dataset" / "urls_dinamicas.txt"
+    excel_path = base_path / "edaSisPricingInt_variables.xlsx"
+    output_dir = base_path / "dataset" / "paginas"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Leer URLs dinámicas
+    # Verificar si existe el archivo de URLs
     if not urls_path.exists():
-        print("El archivo de URLs dinámicas no existe.")
+        print(f"❌ El archivo de URLs dinámicas no existe: {urls_path}")
         return
 
+    # Leer URLs dinámicas
     with open(urls_path, "r", encoding="utf-8") as f:
         urls = [line.strip() for line in f if line.strip()]
 
-    # Crear diccionario de {url: (pais, variable)}
-    import pandas as pd
+    # Leer Excel y crear el diccionario
     df = pd.read_excel(excel_path)
     dinamicas = df[df['Formato'] == 'D'][['Pais', 'Variables', 'Link']].dropna()
     url_a_nombre = {
-        row['Link']: (row['Pais'].strip().lower().replace(" ", "_"),
-                       row['Variables'].strip().lower().replace(" ", "_"))
+        row['Link']: (
+            row['Pais'].strip().lower().replace(" ", "_"),
+            row['Variables'].strip().lower().replace(" ", "_")
+        )
         for _, row in dinamicas.iterrows()
     }
 
-    # Configuración Selenium
+    # Configuración del navegador
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
@@ -50,16 +54,17 @@ def scraping_guardar_dinamico_txt():
 
         try:
             driver.get(url)
-            time.sleep(5)
+            time.sleep(5)  # espera para cargar contenido
             html = driver.page_source
 
             with open(output_dir / nombre_archivo, "w", encoding="utf-8") as f:
                 f.write(html)
-            print(f"Guardado: {nombre_archivo}")
+            print(f"✅ Guardado: {nombre_archivo}")
         except Exception as e:
-            print(f"Error con {url}: {e}")
+            print(f"❌ Error con {url}: {e}")
 
     driver.quit()
 
-# Ejecutar la función
-scraping_guardar_dinamico_txt()
+# Ejecutar
+if __name__ == "__main__":
+    scraping_guardar_dinamico_txt()
