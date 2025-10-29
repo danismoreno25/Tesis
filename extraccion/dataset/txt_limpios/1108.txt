@@ -1,8 +1,3 @@
-No se puede acceder a este sitio
-Es posible que la página web en
-https://www.metro.pe/pollo-entero-marinado-sazon-brasa-san-fernando-1-4kg/p
-no funcione temporalmente o se haya trasladado de manera permanente a una nueva dirección web.
-ERR_FAILED
-Es posible que la página web en
-https://www.metro.pe/pollo-entero-marinado-sazon-brasa-san-fernando-1-4kg/p
-no funcione temporalmente o se haya trasladado de manera permanente a una nueva dirección web.
+Producto: No se puede acceder a este sitio
+Marca: ERR_FAILED
+Unidad de medida: 4kg

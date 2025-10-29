@@ -1,5 +1,2 @@
-Se interrumpió la conexión
-Se detectó un cambio de red.
-ERR_NETWORK_CHANGED
-Volver a cargar
-Se detectó un cambio de red.
+Producto: Se interrumpió la conexión
+Marca: ERR_NETWORK_CHANGED

@@ -1,26 +1,5 @@
-Inicio
-Cervezas, vinos y licores
-Cervezas
-stella artois
-Cerveza lager botella
-330 ml
-Sku: 000000000000176169-UN
-Precio socio
-Desde 12 un
-$990
-c/u
-($3.000 x l)
-Ahorra 8%
-Desde 6 un
-$1.040
-c/u
-($3.152 x l)
-Ahorra 4%
-Precio regular
-$1.080
-c/u
-($3.273 x l)
-Agregar
-Información del producto
-Descripción
-Cerveza Stella Artois, botella 330 cc
+Producto: Cervezas, vinos y licores
+Marca: Cervezas
+Unidad de medida: 330 ml
+Precio: $990
+Descripción: Cerveza Stella Artois, botella 330 cc

@@ -1,43 +1,4 @@
-Bebidas
-Refrigerantes
-Tradicional
-Refrigerante Coca-Cola Garrafa 2 L
-Refrigerante Coca-Cola Garrafa 2 L
-Marca:
-Coca-Cola
--
-Cod:
-4766189
-R$ 10,99
-Condições de pagamento
-Adicionar ao Carrinho
-Essa compra destrava cashback!
-Saiba mais
-Condições de pagamento
-Produtos Patrocinados
-Patrocinado
-Vodka Destilada Smirnoff Garrafa 1,75L
-R$ 54,90
--18%
-R$ 44,99
-Adicionar
-Descrição do Produto
-Refrigerante de Cola Original Coca-Cola Garrafa 2l
-Especificações Técnicas
-Importante
-Itens Inclusos
-1 Refrigerante Coca-Cola Garrafa 2 L
-Características do Produto
-Tipo de Refrigerante
-Tradicional
-Informações do Produto
-Sabor
-Cola
-Tipo de Produto
-Refrigerante
-Apresentação
-Líquido
-Conteúdo
-2 L
-Embalagem
-Garrafa
+Producto: Refrigerante Coca-Cola Garrafa 2 L
+Marca: R$ 10,99
+Unidad de medida: 2 L
+Precio: R$10,99 (BRL)

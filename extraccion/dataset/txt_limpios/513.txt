@@ -1,42 +1,5 @@
-Almacén
-Endulzantes
-Azúcar
-Descripción del producto
-Azúcar Superior Real LEDESMA 1kg
-Características
-MARCA
-: LEDESMA
-Últimos consultados
-Baguette COTO
-$1.312,00
-Precio regular: $1.312,00
-Precio sin impuestos nacionales: $1.084,30
-Agregar
-Ver planes de cuotas
-LLEVANDO 2
-70% 2DA
-Pan Salvado Grande Noly Bsa 600 Grm
-PRECIO CON 70% 2DA
-$2.865,20
-Precio Regular: $4.408,00
-Precio sin impuestos nacionales: $3.642,98
-Agregar
-Ver planes de cuotas
-Pan De Mesa Grande La Perla 550g
-$3.980,00
-Precio regular: $3.980,00
-Precio sin impuestos nacionales: $3.289,26
-Agregar
-Ver planes de cuotas
-Pan Lacteado Blanco Rebanada Mas Grande Bimbo 610g
-$6.434,00
-Precio regular: $6.434,00
-Precio sin impuestos nacionales: $5.317,36
-Agregar
-Ver planes de cuotas
-Pan Salvado FARGO 620g
-$6.550,00
-Precio regular: $6.550,00
-Precio sin impuestos nacionales: $5.413,22
-Agregar
-Ver planes de cuotas
+Producto: Descripción del producto
+Marca: MARCA
+Unidad de medida: 1kg
+Precio: $1.312,00
+Características: MARCA : LEDESMA Últimos consultados Baguette COTO Ver planes de cuotas LLEVANDO 2 70% 2DA PRECIO CON 70% 2DA Pan De Mesa Grande La Perla 550g Pan Lacteado Blanco Rebanada Mas Grande Bimbo 610g Pan Salvado FARGO 620g

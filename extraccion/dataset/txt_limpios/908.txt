@@ -1,25 +1,4 @@
-Inicio
-Unimarc
-yemita
-Huevos blanco grande
-12 un
-Sku: 000000000000035512-UN
-Precio socio
-Desde 3 un
-$4.110
-c/u
-($343 x un)
-Ahorra 8%
-Desde 2 un
-$4.320
-c/u
-($360 x un)
-Ahorra 4%
-Precio regular
-$4.490
-c/u
-($374 x un)
-Agregar
-Información del producto
-Descripción
-Huevos grande blanco
+Producto: Huevos blanco grande
+Marca: 12 un
+Precio: $4.11
+Descripción: Huevos grande blanco

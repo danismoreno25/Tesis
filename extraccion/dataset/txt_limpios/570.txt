@@ -1,16 +1,5 @@
-Hola, Limpía tú cache
-¿Donde está el usuario actual?
-A un clic de llevarte el producto
-¿Quéres finalizar tu compra?
-Seguir viendo
-Finalizar compra
-Frescos
-Fiambrería
-Quesos blandos
-Queso Muzzarella Doña Aurora Ahumado 500 Gr.
-DOÑA AURORA
-Referencia
-:
-2683614
-Queso Muzzarella Doña Aurora Ahumado 500 Gr.
-$ 6.690
+Producto: Hola, Limpía tú cache
+Marca: ¿Quéres finalizar tu compra?
+Referencia: 2683614
+Unidad de medida: 500 Gr
+Precio: 500 (ARS)

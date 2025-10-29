@@ -1,47 +1,5 @@
-Frescos
-Huevos
-Huevos Blanco
-Descripción del producto
-Huevo Blanco Extra 12u
-Características
-Últimos consultados
-35%DTO
-Espagueti FAVORITA      500 Gr
-PRECIO CON 35%DTO
-$627,25
-Precio Regular: $965,00
-Precio sin impuestos nacionales: $797,52
-Agregar
-Ver planes de cuotas
-35%DTO
-Fid.Lar.Sem Spaghetti Nuev Delverde Paq 500 Grm
-PRECIO CON 35%DTO
-$4.088,50
-Precio Regular: $6.290,00
-Precio sin impuestos nacionales: $5.198,35
-Agregar
-Ver planes de cuotas
-35%DTO
-Espagueti BARILLA Caja 500 Gr
-PRECIO CON 35%DTO
-$4.224,35
-Precio Regular: $6.499,00
-Precio sin impuestos nacionales: $5.371,07
-Agregar
-Ver planes de cuotas
-35%DTO
-Fideos Tallarin N° 5 Matarazzo 500g
-PRECIO CON 35%DTO
-$1.137,50
-Precio Regular: $1.750,00
-Precio sin impuestos nacionales: $1.446,28
-Agregar
-Ver planes de cuotas
-35%DTO
-Fideos Tallarin N5 Lucchetti 500g
-PRECIO CON 35%DTO
-$975,00
-Precio Regular: $1.500,00
-Precio sin impuestos nacionales: $1.239,67
-Agregar
-Ver planes de cuotas
+Producto: Huevos Blanco
+Marca: Descripción del producto
+Unidad de medida: 500 Gr
+Precio: $627,25
+Características: Últimos consultados 35%DTO Espagueti FAVORITA      500 Gr PRECIO CON 35%DTO Ver planes de cuotas Fid.Lar.Sem Spaghetti Nuev Delverde Paq 500 Grm Espagueti BARILLA Caja 500 Gr Fideos Tallarin N° 5 Matarazzo 500g Fideos Tallarin N5 Lucchetti 500g

@@ -1,45 +1,5 @@
-Bebidas
-Bebidas Sin Alcohol
-Gaseosas
-Descripción del producto
-Gaseosa Cola Pepsi 2l
-Características
-MARCA
-: PEPSI
-Últimos consultados
-NO ACUMULABLE CON OTRAS PROMOS
-Gaseosa Coca-Cola Sabor Original  2,25 Lt
-PRECIO CON 50% 2DA
-$3.450,00
-Precio Regular: $4.600,00
-Precio sin impuestos nacionales: $3.801,65
-Agregar
-Ver planes de cuotas
-NO ACUMULABLE CON OTRAS PROMOS
-Queso Danbo Las Tres Niñas X 1kg
-OFERTA
-$10.799,00
-Precio Regular: $13.599,00
-Precio sin impuestos nacionales: $8.924,79
-Agregar
-Ver planes de cuotas
-Queso Mozzarella Feteado Doña Aurora X 170g
-$4.435,00
-Precio regular: $4.435,00
-Precio sin impuestos nacionales: $3.665,29
-Agregar
-Ver planes de cuotas
-Queso Cremoso PUNTA DEL AGUA X Kg
-$12.299,00
-Precio regular: $12.299,00
-Precio sin impuestos nacionales: $10.164,46
-Agregar
-Ver planes de cuotas
-NO ACUMULABLE CON OTRAS PROMOS
-Queso Cremoso Fraccionado LA PAULINA Xkg
-OFERTA
-$8.999,00
-Precio Regular: $11.299,00
-Precio sin impuestos nacionales: $7.437,19
-Agregar
-Ver planes de cuotas
+Producto: Bebidas Sin Alcohol
+Marca: Gaseosas
+Unidad de medida: 2l
+Precio: $3.450,00
+Características: MARCA : PEPSI Últimos consultados NO ACUMULABLE CON OTRAS PROMOS Gaseosa Coca-Cola Sabor Original  2,25 Lt PRECIO CON 50% 2DA Ver planes de cuotas OFERTA Queso Cremoso PUNTA DEL AGUA X Kg Queso Cremoso Fraccionado LA PAULINA Xkg

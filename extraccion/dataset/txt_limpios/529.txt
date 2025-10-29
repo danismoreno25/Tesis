@@ -1,48 +1,5 @@
-Frescos
-Quesos
-Quesos Blandos
-Queso Cremoso
-Descripción del producto
-----
-Características
-MARCA
-: LA PAULINA
-SIN TACC
-: NO
-Últimos consultados
-Queso Mozzarella Sin Lactosa LA SERENISIMA 500g
-$10.925,00
-Precio regular: $10.925,00
-Precio sin impuestos nacionales: $9.028,93
-Agregar
-Ver planes de cuotas
-Huevo Color Libre Jaula CARNAVE 6 Uni
-$4.310,00
-Precio regular: $4.310,00
-Precio sin impuestos nacionales: $3.561,98
-Agregar
-Ver planes de cuotas
-20%DTO
-Huevo Blanco Grande 6u
-PRECIO CON 20%DTO
-$1.596,00
-Precio Regular: $1.995,00
-Precio sin impuestos nacionales: $1.648,76
-Agregar
-Ver planes de cuotas
-15%DTO
-Huevo Blanco . Coto Bli 12 Uni
-PRECIO CON 15%DTO
-$4.241,50
-Precio Regular: $4.990,00
-Precio sin impuestos nacionales: $4.123,97
-Agregar
-Ver planes de cuotas
-15%DTO
-Huevo Blanco Extra 12u
-PRECIO CON 15%DTO
-$3.961,00
-Precio Regular: $4.660,00
-Precio sin impuestos nacionales: $3.851,24
-Agregar
-Ver planes de cuotas
+Producto: Quesos Blandos
+Marca: Queso Cremoso
+Unidad de medida: 500g
+Precio: 500
+Características: MARCA : LA PAULINA SIN TACC : NO Últimos consultados Ver planes de cuotas Huevo Color Libre Jaula CARNAVE 6 Uni 20%DTO Huevo Blanco Grande 6u PRECIO CON 20%DTO 15%DTO Huevo Blanco . Coto Bli 12 Uni PRECIO CON 15%DTO Huevo Blanco Extra 12u

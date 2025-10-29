@@ -1,16 +1,5 @@
-Hola, Limpía tú cache
-¿Donde está el usuario actual?
-A un clic de llevarte el producto
-¿Quéres finalizar tu compra?
-Seguir viendo
-Finalizar compra
-Desayuno
-Infusiones y Endulzantes
-Azúcar
-AzÃºcar Ledesma Refinado Superior 1 Kg.
-LEDESMA
-Referencia
-:
-7792540250450
-AzÃºcar Ledesma Refinado Superior 1 Kg.
-$ 1.300
+Producto: Hola, Limpía tú cache
+Marca: ¿Quéres finalizar tu compra?
+Referencia: 7792540250450
+Unidad de medida: 1 Kg
+Precio: $1.30 (ARS)

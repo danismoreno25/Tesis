@@ -1,54 +1,6 @@
-¡Aún no eres Wong Prime!
-Aprovecha el
-despacho GRATIS
-en tus compras de Supermercado desde S/79.90
-AQUÍ
-¿Que buscas hoy?
-¿Cómo quieres recibir tu pedido?
-Elegir
-Abarrotes
-Alimentos en Conserva
-Pescado en Conserva
-Lomos de Atún en Agua y Sal Campomar 150g
-Descripción
-<div class="wong-wrapper wong-descripcion" id="wong_ver_mas"><div class="wong-desc"><div class="wong-img"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar-logo-wong.jpg"></div><h3>Del mar a tu mesa</h3><p>La marca peruana <b>Campomar</b> forma parte del sello <b>Hayduk Corporación</b> que se dedica a la <b>producción de conservas de pescado</b>, como atún, jurel, anchoveta y caballa. Todos estos <b>insumos</b> se pescan en la <b>flota propia</b> de la empresa y luego se derivan a la planta donde pasarán diversos <b>procesos</b>, los cuales cuentan con <b>certificación de calidad</b>. Posee una amplia <b>línea de productos</b>, donde encontrarás uno ideal a tu gusto.</p></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-conserva-wong.jpg"></div><div class="wong-right"><h5>Ingredientes ideales</h5><p>La conserva de <b>lomos de atún light</b>, versión más ligera, contiene una mezcla perfecta de <b>atún</b>, <b>agua</b> y <b>sal</b>. Es un <b>producto de calidad</b> que contribuye con la <b>nutrición</b> debido a los diversos aportes que su consumo genera. Es un <b>producto totalmente peruano</b>, desde la pesca hasta la etapa final de distribución.</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Altamente nutritivo</h5><p>Dentro de los <b>beneficios</b> que ofrece a nuestro <b>organismo</b> el consumo de la <b>carne de pescado</b> está el <b>fortalecimiento del sistema inmunológico</b>, debido a la gran cantidad de <b>Omega 3</b> que contiene. Además, es un tipo de carne <b>enriquecida en minerales</b>. Asimismo, los productos de <b>Campomar</b> cuentan con <b>certificación Dolphin Safe</b> que garantizan la <b>ausencia de redes contra delfines</b> durante la pesca.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-artesanal-saludable-wong.jpg"></div></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-receta-wong.jpg"></div><div class="wong-right"><h5>¡Las mejores recetas!</h5><p>Ahora podrás preparar <b>deliciosos</b> e <b>innovadores platillos</b> con las <b>conservas</b> y <b>enlatados</b> de <b>Campomar</b>. Desde las más nutritivas <b>ensaladas</b> hasta los más deliciosos <b>guisos</b>. Deja volar tu imaginación y prueba <b>distintas combinaciones</b>. No solo serán platos de sabor único, sino totalmente <b>nutritivos</b>.</p></div></div></div>
-Configuraciones
-ProductData
-{"allow_notes":true,"allow_substitute":true,"cart_limit":"9","brandName":"Campomar","brandEcomId":"121","measurement_unit":"un","unit_multiplier":1,"unit_multiplier_un":0,"measurement_unit_selector":false}
-SkuData
-SkuData
-Características Destacadas
-Tipo de Producto
-Pescados en Conservas
-Observaciones y Recomendaciones
-Origen
-Nacional
-Lomos de Atún en Agua y Sal Campomar 150g
-Cargando comentarios...
-Referencia
-:
-147017002
-S/
-5
-.
-70
-Cantidad
-＋
-－
-Agregar
-Certificados
-Ver todos
-Características Principales
-Contiene 150 gramos
-Lomos de atún
-En agua y sal
-Cookies
-?
-!
-i
-Política general sobre Cookies
-×
-En Wong.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Wong.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
-Sí Acepto
-Configuración de Cookies
-Política de Cookies
+Producto: ¡Aún no eres Wong Prime!
+Marca: Aprovecha el
+Referencia: 147017002
+Unidad de medida: 150g
+Precio: S/79.90 (PEN)
+Descripción: <div class="wong-wrapper wong-descripcion" id="wong_ver_mas"><div class="wong-desc"><div class="wong-img"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar-logo-wong.jpg"></div><h3>Del mar a tu mesa</h3><p>La marca peruana <b>Campomar</b> forma parte del sello <b>Hayduk Corporación</b> que se dedica a la <b>producción de conservas de pescado</b>, como atún, jurel, anchoveta y caballa. Todos estos <b>insumos</b> se pescan en la <b>flota propia</b> de la empresa y luego se derivan a la planta donde pasarán diversos <b>procesos</b>, los cuales cuentan con <b>certificación de calidad</b>. Posee una amplia <b>línea de productos</b>, donde encontrarás uno ideal a tu gusto.</p></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-conserva-wong.jpg"></div><div class="wong-right"><h5>Ingredientes ideales</h5><p>La conserva de <b>lomos de atún light</b>, versión más ligera, contiene una mezcla perfecta de <b>atún</b>, <b>agua</b> y <b>sal</b>. Es un <b>producto de calidad</b> que contribuye con la <b>nutrición</b> debido a los diversos aportes que su consumo genera. Es un <b>producto totalmente peruano</b>, desde la pesca hasta la etapa final de distribución.</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Altamente nutritivo</h5><p>Dentro de los <b>beneficios</b> que ofrece a nuestro <b>organismo</b> el consumo de la <b>carne de pescado</b> está el <b>fortalecimiento del sistema inmunológico</b>, debido a la gran cantidad de <b>Omega 3</b> que contiene. Además, es un tipo de carne <b>enriquecida en minerales</b>. Asimismo, los productos de <b>Campomar</b> cuentan con <b>certificación Dolphin Safe</b> que garantizan la <b>ausencia de redes contra delfines</b> durante la pesca.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-artesanal-saludable-wong.jpg"></div></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/campomar- filete-atun-lomos-receta-wong.jpg"></div><div class="wong-right"><h5>¡Las mejores recetas!</h5><p>Ahora podrás preparar <b>deliciosos</b> e <b>innovadores platillos</b> con las <b>conservas</b> y <b>enlatados</b> de <b>Campomar</b>. Desde las más nutritivas <b>ensaladas</b> hasta los más deliciosos <b>guisos</b>. Deja volar tu imaginación y prueba <b>distintas combinaciones</b>. No solo serán platos de sabor único, sino totalmente <b>nutritivos</b>.</p></div></div></div> Configuraciones ProductData {"allow_notes":true,"allow_substitute":true,"cart_limit":"9","brandName":"Campomar","brandEcomId":"121","measurement_unit":"un","unit_multiplier":1,"unit_multiplier_un":0,"measurement_unit_selector":false} SkuData Características Destacadas Tipo de Producto Pescados en Conservas Observaciones y Recomendaciones Origen Nacional Referencia: 147017002 S/ 5 70 Cantidad ＋ － Certificados Ver todos Características Principales Contiene 150 gramos Lomos de atún En agua y sal ? ! i × Sí Acepto

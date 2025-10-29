@@ -1,25 +1,3 @@
-Inicio
-Panadería y repostería
-Pan
-bauducco
-Pan de molde integral
-Sku: 000000000000668719-UN
-Precio socio
-Desde 2 un
-$1.760
-c/u
-($4.513 x un)
-Ahorra 8%
-Desde 1 un
-$1.850
-c/u
-($4.744 x un)
-Ahorra 4%
-Precio regular
-$1.920
-c/u
-($4.923 x un)
-Agregar
-Información del producto
-Descripción
-Pan de molde integral
+Producto: Panadería y repostería
+Marca: Pan
+Precio: $1.76

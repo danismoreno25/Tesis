@@ -1,33 +1,4 @@
-Mercearia
-Açúcar e Adoçante
-Açúcar
-Açúcar Cristal Orgânico Native 1Kg
-Açúcar Cristal Orgânico Native 1Kg
-Marca:
-Native
--
-Cod:
-6174
-R$ 10,19
-Condições de pagamento
-Adicionar ao Carrinho
-Essa compra destrava cashback!
-Saiba mais
-Condições de pagamento
-Descrição do Produto
-Se você está procurando um jeito de fazer bolos e sobremesas deliciosas e preservar a saúde de toda a família, não há opção melhor no mercado do que o Açúcar Cristal Orgânico 1Kg, da Native. Além de ser produzido 100 % de forma natural sem o uso de produtos químicos, ele tem como diferencial estar sempre fresco e pronto para ser servido a qualquer momento. Indicado para uso culinário.
-Especificações Técnicas
-Conservar em local fresco e arejado; Sem glúten; Produto nacional; Açúcar cristal orgânico com 1Kg
-Categoria de Gestão
-SUBCATEGORIA_KEY
-91014372301
-Importante
-Itens Inclusos
-1 Pacote de Açúcar Cristal Native Orgânico Claro 1Kg
-Observações
-Imagem meramente ilustrativa
-Prazo de Validade: Vide Impresso na Embalagem
-Todas as informações divulgadas são de responsabilidade do fabricante/fornecedor
-Características do Produto
-Preferência de Consumo
-Orgânico
+Producto: Açúcar e Adoçante
+Marca: Açúcar
+Unidad de medida: 1Kg
+Precio: R$10,19 (BRL)

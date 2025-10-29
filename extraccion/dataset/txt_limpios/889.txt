@@ -1,26 +1,5 @@
-Inicio
-Abarrotes
-Café
-monterrey
-Café instantáneo clásico lata
-170 g
-Sku: 000000000000010528-UN
-Precio socio
-Desde 3 un
-$4.940
-c/u
-($29.059 x kg)
-Ahorra 9%
-Desde 2 un
-$5.190
-c/u
-($30.529 x kg)
-Ahorra 5%
-Precio regular
-$5.450
-c/u
-($32.059 x kg)
-Agregar
-Información del producto
-Descripción
-Café instantáneo Monterrey clásico lata 170 g
+Producto: Café instantáneo clásico lata
+Marca: 170 g
+Unidad de medida: 170 g
+Precio: $4.94
+Descripción: Café instantáneo Monterrey clásico lata 170 g

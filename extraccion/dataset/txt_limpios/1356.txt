@@ -1,48 +1,5 @@
-The store will not work correctly in the case when cookies are disabled.
-Inicio
-COLA FANTA 500 ML NARANJA
-Sea el primero en dejar una reseña para este artículo
-Comparar
-FANTA
-COLA FANTA 500 ML NARANJA
-Agregar a lista
-SKU
-247234000
-Decrease the quantity
-Increase the quantity
-Añadir al carrito
-¿Cómo le gustaría que le enviaran su artículo?
-Entrega a Domicilio
-No disponible para este producto
-Cambiar dirección
-Retiro en Tienda Tia Centro
-Recibelo el martes
-7/10/2025 en CENTRO
-Cambiar Tienda
-Envío Express
-Recíbelo el martes
-7/10/2025 en Ecuador,  Guayas,  Guayaquil
-Cambiar dirección
-Tu forma de pago
-CrediTia
-Tarjeta - Efectivo
-Elige tus cuotas a diferir
-1
-$0,49
-Ver detalle de financiamiento
-$0,49
-Skip to the end of the images gallery
-Skip to the beginning of the images gallery
-Información
-Información
-COLA FANTA 500 ML NARANJA
-COLA FANTA 500 ML NARANJA
-$0,49
-Decrease the quantity
-Increase the quantity
-Añadir al carrito
-¿Deseas recibir notificaciones?
-Remind me later
-Permitir
-Thank you! Please check your email inbox to confirm.
-Oops! Notifications are disabled.
+Producto: COLA FANTA 500 ML NARANJA
+Marca: Comparar
+Unidad de medida: 500 ML
+Precio: $0,49 (USD)
+Información: ¿Deseas recibir notificaciones? Remind me later Permitir Thank you! Please check your email inbox to confirm. Oops! Notifications are disabled.

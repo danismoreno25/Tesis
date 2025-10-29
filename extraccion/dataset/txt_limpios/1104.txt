@@ -1,48 +1,5 @@
-¿Cómo quieres recibir tu pedido?
-Elegir
-Abarrotes
-Arroz
-Arroz Extra y Superior
-Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg
-Configuraciones
-ProductData
-{"allow_notes":true,"allow_substitute":true,"cart_limit":"0","brandName":"Valle Norte","brandEcomId":"953","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false}
-SkuData
-{"528":{"ref_id":"107169","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1130526","2049275","3145052","3839508","3867433","3875481","4015508"],"url_canonical":"","measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false,"release_data":{"date_release":"10-04-2025 00:00","date_release_end":"10-05-2025 00:00","is_new":false}}}
-Características Destacadas
-Tipo de Producto
-Arroz Extra Añejo
-Observaciones y Recomendaciones
-Origen
-Nacional
-Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg
-Cargando comentarios...
-Referencia
-:
-107169
--
-13%
-S/
-24
-.
-90
-S/
-28
-.
-60
-Cantidad
-＋
-－
-Agregar
-Certificados
-Ver todos
-Cookies
-?
-!
-i
-Política general sobre Cookies
-×
-En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
-Sí Acepto
-Configuración de Cookies
-Política de Cookies
+Producto: ¿Cómo quieres recibir tu pedido?
+Marca: Elegir
+Referencia: 107169
+Unidad de medida: 5 Kg
+Moneda: PEN

@@ -1,25 +1,5 @@
-Inicio
-Unimarc
-lucchetti
-Pasta spaghetti n°5
-400 g
-Sku: 000000000000006531-UN
-Precio socio
-Desde 3 un
-$680
-c/u
-($1.700 x kg)
-Ahorra 35%
-Desde 1 un
-$690
-c/u
-($1.725 x kg)
-Ahorra 34%
-Precio regular
-$1.040
-c/u
-($2.600 x kg)
-Agregar
-Información del producto
-Descripción
-Pasta spaghetti N°5 Lucchetti 400 g
+Producto: Pasta spaghetti n°5
+Marca: 400 g
+Unidad de medida: 400 g
+Precio: $680
+Descripción: Pasta spaghetti N°5 Lucchetti 400 g

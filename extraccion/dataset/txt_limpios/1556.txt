@@ -1,37 +1,4 @@
-Mercearia
-Massas e Molhos
-Massas com Ovos ou Sêmola
-Macarrão de Sêmola com Ovos Fidelinho 10 Adria 500...
-Macarrão de Sêmola com Ovos Fidelinho 10 Adria 500g
-Marca:
-Adria
--
-Cod:
-9148
-de
-R$ 3,89
--
-23
-%
-R$ 2,99
-Condições de pagamento
-Adicionar ao Carrinho
-Essa compra destrava cashback!
-Saiba mais
-Condições de pagamento
-Descrição do Produto
-Adria com Ovos Fidelinho 10 é uma massa longa que combina muito bem com molhos menos encorpados, que envolvem todos os fios da massa. O
-macarrão
-Fidelinho 10 tem espessura mais fina do que o tradicional espaguete, o que garante um cozimento mais rápido. Essa característica é ideal para uma refeição mais prática do dia a dia, como o famoso e irresistível macarrão alho e óleo.
-Especificações Técnicas
-Importante
-SAC do Fornecedor
-0800 702 11 20
-Itens Inclusos
-1 Pacote de Macarrão Espaguete Adria com Ovos Nº10 500g
-Observações
-Imagem meramente ilustrativa
-Prazo de Validade: Vide Impresso na Embalagem
-Categoria de Gestão
-SUBCATEGORIA_KEY
-91014181203
+Producto: Massas e Molhos
+Marca: de
+Unidad de medida: 500g
+Precio: R$3,89 (BRL)

@@ -1,39 +1,5 @@
-¿Cómo quieres recibir tu pedido?
-Elegir
-Desayuno
-Azúcar y Edulcorantes
-Azúcar Rubia
-Azúcar Rubia Máxima Bolsa 5 kg
-Configuraciones
-ProductData
-{"allow_notes":true,"allow_substitute":true,"cart_limit":"0","brandName":"Maxima","brandEcomId":"2000893","measurement_unit":"un","unit_multiplier":1,"measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false}
-SkuData
-{"37360":{"ref_id":"714287","cart_limit":12,"allow_notes":true,"allow_substitute":true,"measurement_unit":"un","unit_multiplier":1,"promotions":["1130527","3123822"],"url_canonical":"","measurement_unit_un":"UN","unit_multiplier_un":0,"measurement_unit_selector":false,"release_data":{"date_release":"02-07-2024 00:00","date_release_end":"01-08-2024 00:00","is_new":false}}}
-Observaciones y Recomendaciones
-Origen
-Nacional
-Azúcar Rubia Máxima Bolsa 5 kg
-Cargando comentarios...
-Referencia
-:
-714287
-S/
-17
-.
-90
-Cantidad
-＋
-－
-Agregar
-Certificados
-Ver todos
-Cookies
-?
-!
-i
-Política general sobre Cookies
-×
-En Metro.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Metro.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
-Sí Acepto
-Configuración de Cookies
-Política de Cookies
+Producto: ¿Cómo quieres recibir tu pedido?
+Marca: Elegir
+Referencia: 714287
+Unidad de medida: 5 kg
+Moneda: PEN

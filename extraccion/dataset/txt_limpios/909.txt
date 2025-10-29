@@ -1,11 +1,3 @@
-Inicio
-Unimarc
-la herradura
-Huevo primera color
-30 un
-Sku: 000000000000327519-UN
-Sin stock
-Sin stock
-Información del producto
-Descripción
-Huevo primera color La Herradura 30 un
+Producto: la herradura
+Marca: Huevo primera color
+Descripción: Huevo primera color La Herradura 30 un

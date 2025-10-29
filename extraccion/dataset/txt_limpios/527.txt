@@ -1,49 +1,5 @@
-Frescos
-Huevos
-Huevos Color
-Descripción del producto
-Huevo Color Libre Jaula CARNAVE 6 Uni
-Características
-MARCA
-: CARNAVE
-Últimos consultados
-20%DTO
-Huevo Blanco Grande 6u
-PRECIO CON 20%DTO
-$1.596,00
-Precio Regular: $1.995,00
-Precio sin impuestos nacionales: $1.648,76
-Agregar
-Ver planes de cuotas
-15%DTO
-Huevo Blanco . Coto Bli 12 Uni
-PRECIO CON 15%DTO
-$4.241,50
-Precio Regular: $4.990,00
-Precio sin impuestos nacionales: $4.123,97
-Agregar
-Ver planes de cuotas
-15%DTO
-Huevo Blanco Extra 12u
-PRECIO CON 15%DTO
-$3.961,00
-Precio Regular: $4.660,00
-Precio sin impuestos nacionales: $3.851,24
-Agregar
-Ver planes de cuotas
-35%DTO
-Espagueti FAVORITA      500 Gr
-PRECIO CON 35%DTO
-$627,25
-Precio Regular: $965,00
-Precio sin impuestos nacionales: $797,52
-Agregar
-Ver planes de cuotas
-35%DTO
-Fid.Lar.Sem Spaghetti Nuev Delverde Paq 500 Grm
-PRECIO CON 35%DTO
-$4.088,50
-Precio Regular: $6.290,00
-Precio sin impuestos nacionales: $5.198,35
-Agregar
-Ver planes de cuotas
+Producto: Huevos Color
+Marca: Descripción del producto
+Unidad de medida: 500 Gr
+Precio: $1.596,00
+Características: MARCA : CARNAVE Últimos consultados 20%DTO Huevo Blanco Grande 6u PRECIO CON 20%DTO Ver planes de cuotas 15%DTO Huevo Blanco . Coto Bli 12 Uni PRECIO CON 15%DTO Huevo Blanco Extra 12u 35%DTO Espagueti FAVORITA      500 Gr PRECIO CON 35%DTO Fid.Lar.Sem Spaghetti Nuev Delverde Paq 500 Grm

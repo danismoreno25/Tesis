@@ -1,25 +1,5 @@
-Inicio
-Unimarc
-aruba
-Arroz grano largo delgado grad...
-900 g
-Sku: 000000000000674971-UN
-Precio socio
-Desde 10 un
-$1.390
-c/u
-($1.544 x kg)
-Ahorra 10%
-Desde 3 un
-$1.490
-c/u
-($1.656 x kg)
-Ahorra 4%
-Precio regular
-$1.550
-c/u
-($1.722 x kg)
-Agregar
-Información del producto
-Descripción
-Arroz grano largo delgado grado 2 900G
+Producto: Arroz grano largo delgado grad...
+Marca: 900 g
+Unidad de medida: 900 g
+Precio: $1.39
+Descripción: Arroz grano largo delgado grado 2 900G

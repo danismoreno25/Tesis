@@ -1,24 +1,3 @@
-Mercearia
-Alimentos Básicos
-Feijão
-Feijão Solito Preto Tipo 1Kg
-Feijão Solito Preto Tipo 1Kg
-Marca:
-Solito
--
-Cod:
-8975
-Este produto não está disponível no momento
-Descrição do Produto
-Com a mesma confiabilidade conquistada no arroz, o Feijão Preto Solito chega à mesa dos consumidores com qualidade superior. O beneficiamento possui sistema de padronização de tamanho de grãos, seleção eletrônica e polimento automático que garante limpeza e brilho natural. A Solito Alimentos atua há mais de 50 anos no mercado. Tem como prioridade levar até sua mesa alimentos de alto padrão que tornem seu cotidiano mais saboroso. Ao longo dos anos a empresa foi crescendo, se desenvolvendo e hoje é considerada uma das maiores empresas de alimentos do Estado de São Paulo. Aproveite a oportunidade e compre o Feijão Preto Solito aqui no Carrefour.
-Especificações Técnicas
-Mais sabor; Rico em Ferro; Zero sódio; Sem gorduras trans
-Importante
-Itens Inclusos
-1 Pacote de Feijão com 1Kg
-Observações
-Imagem meramente ilustrativa
-Prazo de Validade: Vide Impresso na Embalagem
-Categoria de Gestão
-SUBCATEGORIA_KEY
-91014650301
+Producto: Alimentos Básicos
+Marca: Feijão
+Unidad de medida: 1Kg

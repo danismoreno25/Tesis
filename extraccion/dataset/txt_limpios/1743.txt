@@ -1,7 +1,3 @@
-Saltar al contenido principal
-¿Cómo quieres tus artículos?
-Precio en línea por KG
-Rebaja
-Cebolla Blanca por kilo
-Agregar a lista
-Agregar al registro
+Producto: Saltar al contenido principal
+Marca: ¿Cómo quieres tus artículos?
+Moneda: MXN

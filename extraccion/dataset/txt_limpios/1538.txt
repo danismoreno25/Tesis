@@ -1,27 +1,4 @@
-Mercearia
-Cafés, Chás e Achocolatados
-Cafés
-Café Starbucks Pike Place Roast Torrado e Moído 25...
-Café Starbucks Pike Place Roast Torrado e Moído 250g
-Marca:
-Starbucks
--
-Cod:
-1356
-R$ 53,19
-Condições de pagamento
-Adicionar ao Carrinho
-Essa compra destrava cashback!
-Saiba mais
-Condições de pagamento
-Descrição do Produto
-Café torrado e moído Starbucks, com notas suaves de chocolate.
-Especificações Técnicas
-Categoria de Gestão
-SUBCATEGORIA_KEY
-91014770119
-Importante
-Itens Inclusos
-1 Café Torrado e Moído à Vácuo Starbucks Pike Place 250g
-Observações
-Prazo de Validade: Vide Impresso na Embalagem
+Producto: Cafés, Chás e Achocolatados
+Marca: Cafés
+Unidad de medida: 250g
+Precio: R$53,19 (BRL)

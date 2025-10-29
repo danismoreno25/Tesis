@@ -1,56 +1,6 @@
-¡Aún no eres Wong Prime!
-Aprovecha el
-despacho GRATIS
-en tus compras de Supermercado desde S/79.90
-AQUÍ
-¿Que buscas hoy?
-¿Cómo quieres recibir tu pedido?
-Elegir
-Lácteos
-Leches
-Leches Frescas y UHT
-Leche Entera Pasteurizada Danlac Botella 900ml
-Descripción
-<div class="wong-wrapper wong-descripcion" id="wong_ver_mas"><div class="wong-desc"><div class="wong-img"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-logo-wong.jpg"></div><h3>La leche de antes, nuestra leche de siempre</h3><p>Antes nuestros papás y abuelos solían <strong>tomar una leche más pura</strong> que <strong>no contenia aditivos</strong>. Hoy podemos disfrutarla una vez más gracias a <strong>Danlac</strong>, que nos ofrece <strong>productos hechos a base de leche</strong> que ha sido ordeñada de <strong>vacas saludables</strong> y son <strong>100% naturales</strong>. Las <strong>leches y yogures</strong> no contienen reconstituyentes químicos, ni preservantes, ni grasas vegetales...<strong>¡Una marca que se preocupa por ti!</strong></p></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-leche-pasteurizada-grande-wong.jpg"></div><div class="wong-right"><h5>Leche entera</h5><p>Lamentablemente vivimos en una época donde <strong>no podemos contar con un producto lácteo que sea natural</strong> y que no contenga aditivos. Preservantes que nos hacen tanto daño y que no nos nutren como deberían, <strong>pensando en tu salud</strong> es que <strong>Danlac</strong> te ofrece un producto <strong>hecho a base de leche</strong> que ha sido ordeñada de <strong>vacas saludables</strong>.</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Rescata los antiguos valores</h5><p>Este atractivo <strong>envase de vidrio</strong> ayuda a <strong>conservar mejor tu producto</strong>, lo mantiene <strong>más frío</strong>, y por lo tanto se <strong>conservará por más tiempo</strong>. Esta <strong>leche entera es pasteurizada</strong> y esta lista para tomar, y también viene en <strong>sabor a chocolate</strong> en presentación de <strong>envase chico</strong>.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-variedad-leche-grande-wong.jpg"></div></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-lecheros-antiguos-wong.jpg"></div><div class="wong-right"><h5>¡Les lecheros antiguos están de vuelta!</h5><p><strong>¡Un lechero antiguo puede regresar!</strong> Esta marca le ofrece <strong>trabajo a adultos mayores</strong>, cada vez que compres productos <strong>Danlac</strong> contribuyes a que la gente de la tercera edad se sienta <strong>activa</strong> y comparta con nosotros toda <strong>la experiencia que tienen para dar</strong>...¿Conocías acerca de la iniciativa de Danlac?</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Las re-etiquetas</h5><p>Esta marca está muy <strong>comprometida</strong> con el <strong>medio ambiente</strong>, y te ofrece <strong>stickers</strong> para promover el <strong>reuso</strong> en casa de las <strong>botellas de vidrio</strong>. Organiza tu cocina y tu casa de una manera <strong>creativa y ecológica</strong>, debes pedírselas a tu leche antiguo favorito en <strong>Wong y Metro</strong>. Si tienes muchos <strong>envases</strong> y no sabes que hacer con ellos, también puedes dejarlos en los <strong>puntos de Wong y Metro</strong>.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-reetiquetar-yogurt-grande-wong.jpg"></div></div><div class="wong-desc"><h5>Conoce más acerca del producto</h5><div class="wong-video"> <iframe width="100%" height="300" src="https://www.youtube.com/embed/l-uIGx1O88c" frameborder="0" allowfullscreen></iframe></div></div></div>
-Configuraciones
-ProductData
-{"allow_notes":true,"allow_substitute":true,"cart_limit":"12","brandName":"Danlac","brandEcomId":"224","measurement_unit":"un","unit_multiplier":1,"unit_multiplier_un":0,"measurement_unit_selector":false}
-SkuData
-SkuData
-Características Destacadas
-Tipo de Producto
-Leche Entera
-Observaciones y Recomendaciones
-Origen
-Nacional
-Leche Entera Pasteurizada Danlac Botella 900ml
-Cargando comentarios...
-Referencia
-:
-511086
-S/
-7
-.
-60
-Cantidad
-＋
-－
-Agregar
-Certificados
-Ver todos
-Características Principales
-Contiene 900 ml
-Leche entera pasteurizada
-Elaborada con 100% leche de vaca
-Sin azúcar añadida
-Fuente de proteínas
-Cookies
-?
-!
-i
-Política general sobre Cookies
-×
-En Wong.pe nos preocupamos por mejorar tu experiencia de compra, sin descuidar la protección de tus datos personales. En consecuencia Wong.pe, usa dos tipos de cookies las Funcionales y las de Analítica y Optimización ¿consiente el uso de las cookies?
-Sí Acepto
-Configuración de Cookies
-Política de Cookies
+Producto: ¡Aún no eres Wong Prime!
+Marca: Aprovecha el
+Referencia: 511086
+Unidad de medida: 900ml
+Precio: S/79.90 (PEN)
+Descripción: <div class="wong-wrapper wong-descripcion" id="wong_ver_mas"><div class="wong-desc"><div class="wong-img"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-logo-wong.jpg"></div><h3>La leche de antes, nuestra leche de siempre</h3><p>Antes nuestros papás y abuelos solían <strong>tomar una leche más pura</strong> que <strong>no contenia aditivos</strong>. Hoy podemos disfrutarla una vez más gracias a <strong>Danlac</strong>, que nos ofrece <strong>productos hechos a base de leche</strong> que ha sido ordeñada de <strong>vacas saludables</strong> y son <strong>100% naturales</strong>. Las <strong>leches y yogures</strong> no contienen reconstituyentes químicos, ni preservantes, ni grasas vegetales...<strong>¡Una marca que se preocupa por ti!</strong></p></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-leche-pasteurizada-grande-wong.jpg"></div><div class="wong-right"><h5>Leche entera</h5><p>Lamentablemente vivimos en una época donde <strong>no podemos contar con un producto lácteo que sea natural</strong> y que no contenga aditivos. Preservantes que nos hacen tanto daño y que no nos nutren como deberían, <strong>pensando en tu salud</strong> es que <strong>Danlac</strong> te ofrece un producto <strong>hecho a base de leche</strong> que ha sido ordeñada de <strong>vacas saludables</strong>.</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Rescata los antiguos valores</h5><p>Este atractivo <strong>envase de vidrio</strong> ayuda a <strong>conservar mejor tu producto</strong>, lo mantiene <strong>más frío</strong>, y por lo tanto se <strong>conservará por más tiempo</strong>. Esta <strong>leche entera es pasteurizada</strong> y esta lista para tomar, y también viene en <strong>sabor a chocolate</strong> en presentación de <strong>envase chico</strong>.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-variedad-leche-grande-wong.jpg"></div></div><div class="wong-desc"><div class="wong-left"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-lecheros-antiguos-wong.jpg"></div><div class="wong-right"><h5>¡Les lecheros antiguos están de vuelta!</h5><p><strong>¡Un lechero antiguo puede regresar!</strong> Esta marca le ofrece <strong>trabajo a adultos mayores</strong>, cada vez que compres productos <strong>Danlac</strong> contribuyes a que la gente de la tercera edad se sienta <strong>activa</strong> y comparta con nosotros toda <strong>la experiencia que tienen para dar</strong>...¿Conocías acerca de la iniciativa de Danlac?</p></div></div><div class="wong-desc"><div class="wong-left"><h5>Las re-etiquetas</h5><p>Esta marca está muy <strong>comprometida</strong> con el <strong>medio ambiente</strong>, y te ofrece <strong>stickers</strong> para promover el <strong>reuso</strong> en casa de las <strong>botellas de vidrio</strong>. Organiza tu cocina y tu casa de una manera <strong>creativa y ecológica</strong>, debes pedírselas a tu leche antiguo favorito en <strong>Wong y Metro</strong>. Si tienes muchos <strong>envases</strong> y no sabes que hacer con ellos, también puedes dejarlos en los <strong>puntos de Wong y Metro</strong>.</p></div><div class="wong-right"> <img src="https://wongfood.vteximg.com.br/arquivos/danlac-reetiquetar-yogurt-grande-wong.jpg"></div></div><div class="wong-desc"><h5>Conoce más acerca del producto</h5><div class="wong-video"> <iframe width="100%" height="300" src="https://www.youtube.com/embed/l-uIGx1O88c" frameborder="0" allowfullscreen></iframe></div></div></div> Configuraciones ProductData {"allow_notes":true,"allow_substitute":true,"cart_limit":"12","brandName":"Danlac","brandEcomId":"224","measurement_unit":"un","unit_multiplier":1,"unit_multiplier_un":0,"measurement_unit_selector":false} SkuData Características Destacadas Tipo de Producto Leche Entera Observaciones y Recomendaciones Origen Nacional Referencia: 511086 S/ 7 60 Cantidad ＋ － Certificados Ver todos Características Principales Contiene 900 ml Leche entera pasteurizada Elaborada con 100% leche de vaca Sin azúcar añadida Fuente de proteínas ? ! i × Sí Acepto

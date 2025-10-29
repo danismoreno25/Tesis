@@ -1,26 +1,4 @@
-Inicio
-Lácteos, refrigerados y huevos
-Leches líquidas
-surlat
-Leche entera natural
-1 Litro
-Sku: 000000000000612806-UN
-Precio socio
-Desde 12 un
-$970
-c/u
-($970 x l)
-Ahorra 17%
-Desde 6 un
-$990
-c/u
-($990 x l)
-Ahorra 15%
-Precio regular
-$1.170
-c/u
-($1.170 x l)
-Agregar
-Información del producto
-Descripción
-Leche entera natural
+Producto: Lácteos, refrigerados y huevos
+Marca: Leches líquidas
+Unidad de medida: 1 Litro
+Precio: $970

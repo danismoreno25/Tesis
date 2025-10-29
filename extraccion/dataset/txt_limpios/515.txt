@@ -1,43 +1,5 @@
-Almacén
-Endulzantes
-Azúcar
-Descripción del producto
-Azúcar Cristal Uniao 1kg
-Características
-MARCA
-: UNIAO
-Últimos consultados
-Azúcar La Perla 1 Kg
-$990,00
-Precio regular: $990,00
-Precio sin impuestos nacionales: $818,18
-Agregar
-Ver planes de cuotas
-NO ACUMULABLE CON OTRAS PROMOS
-Azúcar Superior Real LEDESMA 1kg
-$1.299,00
-Precio regular: $1.299,00
-Precio sin impuestos nacionales: $1.073,55
-Agregar
-Ver planes de cuotas
-Baguette COTO
-$1.312,00
-Precio regular: $1.312,00
-Precio sin impuestos nacionales: $1.084,30
-Agregar
-Ver planes de cuotas
-LLEVANDO 2
-70% 2DA
-Pan Salvado Grande Noly Bsa 600 Grm
-PRECIO CON 70% 2DA
-$2.865,20
-Precio Regular: $4.408,00
-Precio sin impuestos nacionales: $3.642,98
-Agregar
-Ver planes de cuotas
-Pan De Mesa Grande La Perla 550g
-$3.980,00
-Precio regular: $3.980,00
-Precio sin impuestos nacionales: $3.289,26
-Agregar
-Ver planes de cuotas
+Producto: Descripción del producto
+Marca: Azúcar Cristal Uniao 1kg
+Unidad de medida: 1kg
+Precio: $990,00
+Características: MARCA : UNIAO Últimos consultados Azúcar La Perla 1 Kg Ver planes de cuotas NO ACUMULABLE CON OTRAS PROMOS Azúcar Superior Real LEDESMA 1kg Baguette COTO LLEVANDO 2 70% 2DA PRECIO CON 70% 2DA Pan De Mesa Grande La Perla 550g

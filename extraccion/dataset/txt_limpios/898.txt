@@ -1,26 +1,4 @@
-Inicio
-Bebidas
-Gaseosas
-pepsi
-Bebida desechable
-1.5 Litro
-Sku: 000000000000023301-UN
-Precio socio
-Desde 2 un
-$1.390
-c/u
-($927 x l)
-Ahorra 29%
-Desde 1 un
-$1.490
-c/u
-($993 x l)
-Ahorra 24%
-Precio regular
-$1.960
-c/u
-($1.307 x l)
-Agregar
-Información del producto
-Descripción
-Bebida desechable
+Producto: Bebida desechable
+Marca: 1.5 Litro
+Unidad de medida: 1.5 Litro
+Precio: $1.39

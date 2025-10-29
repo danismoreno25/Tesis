@@ -1,26 +1,5 @@
-Inicio
-Abarrotes
-Pastas
-merkat
-Pasta spaghetti n°5
-400 g
-Sku: 000000000000355618-UN
-Precio socio
-Desde 5 un
-$470
-c/u
-($1.175 x kg)
-Ahorra 8%
-Desde 3 un
-$490
-c/u
-($1.225 x kg)
-Ahorra 4%
-Precio regular
-$510
-c/u
-($1.275 x kg)
-Agregar
-Información del producto
-Descripción
-Pasta spaghetti N°5 Merkat 400 g
+Producto: Pasta spaghetti n°5
+Marca: 400 g
+Unidad de medida: 400 g
+Precio: $470
+Descripción: Pasta spaghetti N°5 Merkat 400 g

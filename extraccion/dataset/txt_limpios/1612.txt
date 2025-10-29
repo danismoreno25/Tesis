@@ -1,14 +1,3 @@
-Mercearia
-Alimentos Básicos
-Feijão
-Feijão Preto Tipo 1 Fantástico 1 kg
-Feijão Preto Tipo 1 Fantástico 1 kg
-Marca:
-Fantástico
--
-Cod:
-6206006
-Este produto não está disponível no momento
-Descrição do Produto
-Feijão Preto Tipo 1 Fantástico 1 kg
-Especificações Técnicas
+Producto: Alimentos Básicos
+Marca: Feijão
+Unidad de medida: 1 kg

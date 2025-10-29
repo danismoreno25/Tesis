@@ -1,26 +1,3 @@
-Mercearia
-Massas e Molhos
-Massas com Ovos ou Sêmola
-Macarrão Espaguete n8 com Ovos Barilla 500g
-Macarrão Espaguete n8 com Ovos Barilla 500g
-Marca:
-Barilla
--
-Cod:
-5085
-Este produto não está disponível no momento
-Descrição do Produto
-A Massa com Ovos Barilla é macia e fica soltinha, sem necessidade de colocar óleo na água. Uma receita Italiana desenvolvida para o Brasil, feita com trigo tenro e agora com ovos de galinhas livres de gaiolas. Graças a seu diâmetro tradicional, de tamanho intermediário no universo das massas longas, o Espaguete 8 é extremamente versátil e permite infinitas combinações: desde as receitas mais tradicionais até as mais inéditas, é sempre perfeito para todas as ocasiões.
-Especificações Técnicas
-Origem italiana; Harmoniza com molhos leves e encorpados; Com sêmola de trigo com ferro e ácido fólico; Macarrão Espaguete Barilla com Ovos Nº 8 de 500g
-Importante
-SAC do Fornecedor
-0800 553 199, sac@barilla.com
-Itens Inclusos
-1 Macarrão Espaguete Barilla com Ovos Nº 8 500g
-Observações
-Imagem meramente ilustrativa
-Prazo de Validade: Vide Impresso na Embalagem.
-Categoria de Gestão
-SUBCATEGORIA_KEY
-91014181202
+Producto: Massas e Molhos
+Marca: Descrição do Produto
+Unidad de medida: 500g

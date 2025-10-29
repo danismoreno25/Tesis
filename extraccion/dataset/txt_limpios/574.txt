@@ -1,18 +1,5 @@
-Hola, Limpía tú cache
-¿Donde está el usuario actual?
-A un clic de llevarte el producto
-¿Quéres finalizar tu compra?
-Seguir viendo
-Finalizar compra
-Bebidas
-Gaseosas
-Cola
-Gaseosa Cola Dia 1,5 Lt.
-DIA
-Referencia
-:
-8480017248411
-Gaseosa Cola Dia 1,5 Lt.
-$ 800
-$ 1.350
-41%
+Producto: Hola, Limpía tú cache
+Marca: ¿Quéres finalizar tu compra?
+Referencia: 8480017248411
+Unidad de medida: 1,5 Lt
+Precio: $800 (ARS)
