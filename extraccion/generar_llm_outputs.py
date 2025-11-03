@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import argparse
 import csv
 import json
 import sys
@@ -43,11 +44,23 @@ def load_items_dataset(csv_path: Path):
 
 
 def main():
+    parser = argparse.ArgumentParser(
+        description="Genera llm_cleaned_decisions.* a partir de un CSV de productos."
+    )
+    parser.add_argument(
+        "--input",
+        default="llm_artifacts/items_desde_txt.csv",
+        help="Ruta (relativa a extraccion/) del CSV a procesar.",
+    )
+    args = parser.parse_args()
+
     base_path = Path(__file__).resolve().parent
     project_root = base_path.parent
-    dataset_csv = base_path / "llm_artifacts" / "items_desde_txt.csv"
+    dataset_csv = Path(args.input)
+    if not dataset_csv.is_absolute():
+        dataset_csv = base_path / dataset_csv
     if not dataset_csv.exists():
-        print(f"[ERROR] No se encontró {dataset_csv}. Ejecuta primero limpiar_htmls.py.")
+        print(f"[ERROR] No se encontró {dataset_csv}. Ejecuta primero limpiar_htmls.py o verifica la ruta.")
         return
 
     pipeline_src = project_root / "limpieza_llm" / "src"
@@ -146,6 +159,9 @@ def main():
         "price_currency",
         "price_symbol",
         "price_text",
+        "price_amount_filled",
+        "price_is_imputed",
+        "price_imputation_source",
         "information_text",
         "description_text",
         "features_text",
