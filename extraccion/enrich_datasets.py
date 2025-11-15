@@ -14,6 +14,7 @@ Genera dos artefactos a partir de llm_cleaned_decisions.csv:
 from __future__ import annotations
 
 import random
+import re
 from pathlib import Path
 from typing import Dict, Tuple
 
@@ -24,26 +25,113 @@ DECISIONS_PATH = BASE_PATH / "dataset" / "llm_cleaned_decisions.csv"
 IMPUTED_PATH = BASE_PATH / "llm_artifacts" / "items_desde_txt_imputed.csv"
 AUGMENTED_PATH = BASE_PATH / "llm_artifacts" / "items_augmented.csv"
 
+AUX_FX_DIR = BASE_PATH.parent / "extraccion_variables_eda" / "dataset" / "txt_limpios"
+
+COUNTRY_FILE_MAP = {
+    "AR": "argentina",
+    "BR": "brasil",
+    "CL": "chile",
+    "CO": "colombia",
+    "CR": "costa_rica",
+    "EC": None,
+    "MX": "mexico",
+    "PA": "panama",
+    "PY": "paraguay",
+    "PE": "peru",
+    "US": None,
+}
+
+USD_PATTERN = re.compile(r"1\s*USD\s*=\s*([\d\.,\s]+)\s*([A-Z]{2,4})")
+
 
 def load_decisions() -> pd.DataFrame:
     if not DECISIONS_PATH.exists():
         raise FileNotFoundError(f"No se encontró {DECISIONS_PATH}. Ejecuta generar_llm_outputs.py primero.")
     df = pd.read_csv(DECISIONS_PATH)
+    if "price_amount" in df.columns:
+        df["price_amount"] = pd.to_numeric(df["price_amount"], errors="coerce")
+    if "country" not in df.columns:
+        df["country"] = "unknown"
+    df["country"] = df["country"].fillna("unknown").astype(str).str.upper()
+    return df
+
+
+def parse_decimal(value: str) -> float:
+    clean = value.replace("\xa0", "").replace(" ", "")
+    if clean.count(",") and clean.count("."):
+        if clean.rfind(",") > clean.rfind("."):
+            clean = clean.replace(".", "").replace(",", ".")
+        else:
+            clean = clean.replace(",", "")
+    elif clean.count(","):
+        clean = clean.replace(",", ".")
+    return float(clean)
+
+
+def extract_fx_from_file(path: Path) -> float | None:
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    text = text.replace("\xa0", " ")
+    match = USD_PATTERN.search(text)
+    if not match:
+        return None
+    try:
+        return parse_decimal(match.group(1))
+    except ValueError:
+        return None
+
+
+def load_fx_rates() -> Dict[str, Tuple[float, str]]:
+    rates: Dict[str, Tuple[float, str]] = {}
+    for country_code, name in COUNTRY_FILE_MAP.items():
+        if not name:
+            rates[country_code] = (1.0, "default_1usd")
+            continue
+        path = AUX_FX_DIR / f"{name}_cambio_dolar.txt"
+        if not path.exists():
+            rates[country_code] = (1.0, "missing_file")
+            continue
+        fx_value = extract_fx_from_file(path)
+        if fx_value and fx_value > 0:
+            rates[country_code] = (fx_value, f"from_{name}_cambio_dolar")
+        else:
+            rates[country_code] = (1.0, "missing_match")
+    return rates
+
+
+def attach_fx_columns(df: pd.DataFrame, fx_rates: Dict[str, Tuple[float, str]]) -> pd.DataFrame:
+    fx_rate_list = []
+    fx_source_list = []
+    usd_values = []
+    for _, row in df.iterrows():
+        country = row.get("country", "unknown")
+        country = str(country).upper() if country and country != "nan" else "UNKNOWN"
+        fx_rate, source = fx_rates.get(country, (1.0, "default_1usd"))
+        fx_rate_list.append(fx_rate)
+        fx_source_list.append(source)
+        price = row.get("price_amount")
+        if pd.notna(price) and fx_rate > 0:
+            usd_values.append(float(price) / fx_rate)
+        else:
+            usd_values.append(float("nan"))
+    df = df.copy()
+    df["fx_rate_local_per_usd"] = fx_rate_list
+    df["fx_source"] = fx_source_list
+    df["price_amount_usd"] = pd.Series(usd_values).round(4)
     return df
 
 
 def compute_reference_stats(df: pd.DataFrame) -> Dict[str, Dict]:
     keep = df[
         (df["decision"] == "keep")
-        & df["price_amount"].notna()
-        & (df["price_amount"] > 0)
+        & df["price_amount_usd"].notna()
+        & (df["price_amount_usd"] > 0)
     ].copy()
 
     stats = {
-        "category_country_mean": keep.groupby(["category_canonical", "country"])["price_amount"].mean().to_dict(),
-        "category_mean": keep.groupby("category_canonical")["price_amount"].mean().to_dict(),
-        "country_mean": keep.groupby("country")["price_amount"].mean().to_dict(),
-        "global_mean": float(keep["price_amount"].mean()) if not keep.empty else None,
+        "category_country_mean": keep.groupby(["category_canonical", "country"])["price_amount_usd"].mean().to_dict(),
+        "category_mean": keep.groupby("category_canonical")["price_amount_usd"].mean().to_dict(),
+        "country_mean": keep.groupby("country")["price_amount_usd"].mean().to_dict(),
+        "global_mean": float(keep["price_amount_usd"].mean()) if not keep.empty else None,
     }
     return stats
 
@@ -51,10 +139,15 @@ def compute_reference_stats(df: pd.DataFrame) -> Dict[str, Dict]:
 def impute_price(
     row: pd.Series,
     stats: Dict[str, Dict],
-) -> Tuple[float, bool, str]:
+) -> Tuple[float, bool, str, float]:
     original_price = row["price_amount"]
-    if pd.notna(original_price) and original_price > 0:
-        return float(original_price), False, "original"
+    usd_price = row.get("price_amount_usd")
+    fx_rate = row.get("fx_rate_local_per_usd") or 1.0
+    if fx_rate <= 0:
+        fx_rate = 1.0
+
+    if pd.notna(original_price) and original_price > 0 and pd.notna(usd_price) and usd_price > 0:
+        return float(original_price), False, "original", float(usd_price)
 
     category = row["category_canonical"]
     country = row["country"]
@@ -62,32 +155,42 @@ def impute_price(
     cat_country_key = (category, country)
     cat_country_price = stats["category_country_mean"].get(cat_country_key)
     if cat_country_price and cat_country_price > 0:
-        return float(cat_country_price), True, "category_country_mean"
+        local = float(cat_country_price * fx_rate)
+        return local, True, "category_country_mean", float(cat_country_price)
 
     cat_price = stats["category_mean"].get(category)
     if cat_price and cat_price > 0:
-        return float(cat_price), True, "category_mean"
+        local = float(cat_price * fx_rate)
+        return local, True, "category_mean", float(cat_price)
 
     country_price = stats["country_mean"].get(country)
     if country_price and country_price > 0:
-        return float(country_price), True, "country_mean"
+        local = float(country_price * fx_rate)
+        return local, True, "country_mean", float(country_price)
 
     global_price = stats["global_mean"]
     if global_price and global_price > 0:
-        return float(global_price), True, "global_mean"
+        local = float(global_price * fx_rate)
+        return local, True, "global_mean", float(global_price)
 
     # Fallback: sin referencia (mantiene NaN)
-    return float("nan"), False, "not_available"
+    return float("nan"), False, "not_available", float("nan")
 
 
 def build_imputed_dataset(df: pd.DataFrame) -> Tuple[pd.DataFrame, Dict[str, int]]:
     stats = compute_reference_stats(df)
     results = df.apply(lambda row: impute_price(row, stats), axis=1, result_type="expand")
-    results.columns = ["price_amount_filled", "price_is_imputed", "price_imputation_source"]
+    results.columns = [
+        "price_amount_filled",
+        "price_is_imputed",
+        "price_imputation_source",
+        "price_amount_usd_filled",
+    ]
     enriched = df.copy()
     for col in results.columns:
         enriched[col] = results[col]
     enriched["price_amount_filled"] = enriched["price_amount_filled"].round(2)
+    enriched["price_amount_usd_filled"] = enriched["price_amount_usd_filled"].round(4)
 
     price_flag = enriched["price_is_imputed"].fillna(False).astype(int)
     source_series = enriched["price_imputation_source"].fillna("not_available")
@@ -246,6 +349,8 @@ def build_augmented_dataset(df: pd.DataFrame) -> Tuple[pd.DataFrame, Dict[str, i
 def main():
     random.seed(42)
     df = load_decisions()
+    fx_rates = load_fx_rates()
+    df = attach_fx_columns(df, fx_rates)
 
     imputed_df, imputed_summary = build_imputed_dataset(df)
     imputed_df.to_csv(IMPUTED_PATH, index=False)
@@ -261,6 +366,7 @@ def main():
     print("     Solo país:", imputed_summary["source_country"])
     print("     Media global:", imputed_summary["source_global"])
     print("     Sin referencia disponible:", imputed_summary["source_na"])
+    print("   Columnas clave nuevas: price_amount_usd, price_amount_usd_filled, fx_rate_local_per_usd, fx_source.")
 
     print("✅ Archivo guardado:", AUGMENTED_PATH.relative_to(BASE_PATH.parent))
     print("   Filas elegibles para aumentar:", augmented_summary["eligible_rows"])
