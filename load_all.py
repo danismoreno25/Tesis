@@ -13,39 +13,39 @@ load_dotenv()
 DB_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DB_URL)
 
-# Ruta del CSV maestro
-CSV_PATH = "productos_para_db_imputed.csv"  # ajusta si está en otra carpeta
+CSV_PATH = "extraccion/dataset/productos_para_db_imputed.csv"
+
+
+# RETAILERS
+COL_RETAILER = "seller"
+COL_RETAILER_COUNTRY = "country"
+
+# CATEGORÍAS
+COL_CATEGORY_RAW = "category_effective"
+COL_CATEGORY_CANON = "category_canonical"
+COL_CATEGORY_IS_IMPUTED = "category_is_imputed"
+
+# PRODUCTOS
+COL_PRODUCT_NAME = "product_name"
+COL_BRAND = "brand"
+COL_UNIT = "unit"
+COL_PRODUCT_COUNTRY = "country"
+
+# PRECIOS
+COL_PRICE_LOCAL = "price_amount_filled"
+COL_CURRENCY = None 
+COL_PRICE_USD = "price_amount_usd_filled"
+COL_FX = "fx_rate_local_per_usd"
+
+COL_PRICE_IS_IMPUTED = "price_is_imputed"
+COL_PRICE_DECISION = "decision_imputed"
+COL_PRICE_REASON = "reasons"
+
+
+
 
 # ---------------------------------------------------------------------
-# 2. CONFIGURA ESTOS NOMBRES DE COLUMNA SEGÚN TU CSV
-#    Abre productos_para_db_imputed.csv y verifica que coincidan
-# ---------------------------------------------------------------------
-COL_RETAILER = "retailer"            # ej. "retailer" o "seller" o similar
-COL_RETAILER_COUNTRY = "country"     # ej. "country_code" / "pais_venta"
-
-COL_CATEGORY_RAW = "category_raw"    # categoría original del sitio
-COL_CATEGORY_CANON = "category"      # categoría canónica / limpia
-COL_CATEGORY_IS_IMPUTED = "category_is_imputed"  # True/False si existe (si no, déjalo None)
-
-COL_PRODUCT_NAME = "product_name"    # nombre canónico del producto
-COL_BRAND = "brand"                  # marca
-COL_UNIT = "unit"                    # contenido/neto (ej. "5Kg")
-COL_PRODUCT_COUNTRY = "country"      # puedes reutilizar el mismo que retailer country
-
-COL_PRICE_LOCAL = "price_local"      # precio en moneda local
-COL_CURRENCY = "currency"            # código de moneda (BRL, COP, MXN...)
-COL_PRICE_USD = "price_usd"          # precio convertido a USD
-COL_FX = "fx_rate_local_per_usd"     # tasa de cambio usada
-
-COL_PRICE_IS_IMPUTED = "price_is_imputed"   # True/False si existe
-COL_PRICE_DECISION = "decision"             # "keep", "drop", etc.
-COL_PRICE_REASON = "reason"                 # texto con la razón
-
-# Si alguna de estas columnas no existe aún en tu CSV,
-# puedes comentar la línea o poner None y ajustar más adelante.
-
-# ---------------------------------------------------------------------
-# 3. HELPERS
+# 2. HELPERS
 # ---------------------------------------------------------------------
 def get_dataframe():
     print(f"Leyendo CSV: {CSV_PATH}")
@@ -239,7 +239,13 @@ def load_prices(df, conn, prod_map):
             # algo no se cargó bien en products
             continue
 
-        moneda_local = row.get(COL_CURRENCY)
+        # ---------- FIX PARA CUANDO NO EXISTE LA COLUMNA "currency" ----------
+        if COL_CURRENCY is None:
+            moneda_local = "LOCAL"
+        else:
+            moneda_local = row.get(COL_CURRENCY)
+        # ----------------------------------------------------------------------
+
         precio_local = row.get(COL_PRICE_LOCAL)
         precio_usd = row.get(COL_PRICE_USD)
         fx = row.get(COL_FX)
@@ -283,14 +289,14 @@ def load_prices(df, conn, prod_map):
                 "razon": razon,
             },
         )
-        # rowcount no sirve bien con ON CONFLICT; asumimos:
+
         inserted += 1
 
     print(f"Precios procesados (insert/upsért): {inserted}")
 
 
 # ---------------------------------------------------------------------
-# 4. MAIN
+# 3. MAIN
 # ---------------------------------------------------------------------
 def main():
     df = get_dataframe()
