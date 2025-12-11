@@ -1,41 +1,42 @@
+-- Crear esquema
 CREATE SCHEMA IF NOT EXISTS pricing;
 
-CREATE TABLE IF NOT EXISTS pricing.items_raw (
-  id BIGSERIAL PRIMARY KEY,
-  title TEXT,
-  description TEXT,
-  breadcrumbs TEXT,
-  price_raw TEXT,
-  currency_raw TEXT,
-  url TEXT,
-  seller TEXT,
-  availability TEXT,
-  country TEXT,
-  ingested_at TIMESTAMP DEFAULT NOW()
+-- RETAILERS
+CREATE TABLE IF NOT EXISTS pricing.retailers (
+    retailer_id SERIAL PRIMARY KEY,
+    nombre      TEXT NOT NULL,
+    pais        TEXT,
+    pagina_web  TEXT
 );
 
-CREATE TABLE IF NOT EXISTS pricing.items_curated (
-  id BIGSERIAL PRIMARY KEY,
-  title TEXT,
-  title_es TEXT,
-  description TEXT,
-  description_es TEXT,
-  breadcrumbs TEXT,
-  price_numeric NUMERIC(12,2),
-  currency_code TEXT,
-  url TEXT,
-  seller TEXT,
-  availability TEXT,
-  country TEXT,
-  source_hash TEXT UNIQUE,
-  processed_at TIMESTAMP DEFAULT NOW()
+-- CATEGORÍAS
+CREATE TABLE IF NOT EXISTS pricing.categories (
+    categoria_id      SERIAL PRIMARY KEY,
+    nombre_raw        TEXT,          -- como viene del retailer
+    nombre_canonico   TEXT,          -- tu categoría limpia
+    is_imputed        BOOLEAN DEFAULT FALSE,
+    is_active         BOOLEAN DEFAULT TRUE
 );
 
+-- PRODUCTOS
+CREATE TABLE IF NOT EXISTS pricing.products (
+    producto_id    SERIAL PRIMARY KEY,
+    retailer_id    INTEGER NOT NULL REFERENCES pricing.retailers(retailer_id),
+    categoria_id   INTEGER NOT NULL REFERENCES pricing.categories(categoria_id),
+    nombre_producto TEXT NOT NULL,
+    marca          TEXT,
+    unidad         TEXT,   -- ej. "5 kg", "1 L"
+    pais           TEXT    -- país de venta
+);
 
--- Índices para mejorar búsquedas
-CREATE INDEX IF NOT EXISTS idx_curated_price     ON pricing.items_curated (price_numeric);
-CREATE INDEX IF NOT EXISTS idx_curated_seller    ON pricing.items_curated (seller);
-CREATE INDEX IF NOT EXISTS idx_curated_country   ON pricing.items_curated (country);
-
-
-
+-- PRECIOS (1 a 1 con PRODUCTO)
+CREATE TABLE IF NOT EXISTS pricing.prices (
+    producto_id        INTEGER PRIMARY KEY REFERENCES pricing.products(producto_id),
+    moneda_local       TEXT,
+    precio_local       NUMERIC,
+    precio_usd         NUMERIC,
+    fx_local_per_usd   NUMERIC,
+    is_imputed         BOOLEAN DEFAULT FALSE,
+    decision           TEXT,  -- keep / drop / revisar
+    razon              TEXT   -- texto libre
+);

@@ -76,8 +76,10 @@ df_need_model = df_need_imp.copy()
 df_need_model["precio_usd_model"] = df_need_model["precio_usd_imputed"]
 df_need_model["is_price_imputed_model"] = True
 
-# Unimos todo
-df_model = pd.concat([df_gold_model, df_need_model], ignore_index=True)
+df_model = df_model.reset_index(drop=True)
+df_model["example_id"] = df_model.index + 1
 
 df_model.to_csv("items_for_model_final.csv", index=False)
 print("Guardado items_for_model_final.csv con", len(df_model), "filas.")
+
+
